@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1858532125399818593",
+    "created_at": "2024-11-19T05:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T06:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858742918338797757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781308864438345728",
+          "start": 0,
+          "username": "FoxRed695449"
+        },
+        {
+          "end": 27,
+          "id": "1683441735144439808",
+          "start": 14,
+          "username": "TheSoutaLynn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858742918338797757",
+    "in_reply_to_user_id": "1781308864438345728",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858532394820866345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxRed695449 @TheSoutaLynn ₍˄·͈༝·͈˄*₎◞ ̑̑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1858532125399818593",
+        "created_at": "2024-11-19T05:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T06:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858742918338797757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781308864438345728",
+              "start": 0,
+              "username": "FoxRed695449"
+            },
+            {
+              "end": 27,
+              "id": "1683441735144439808",
+              "start": 14,
+              "username": "TheSoutaLynn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858742918338797757",
+        "in_reply_to_user_id": "1781308864438345728",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858532394820866345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxRed695449 @TheSoutaLynn ₍˄·͈༝·͈˄*₎◞ ̑̑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858532385626951680"
+          ]
+        },
+        "author_id": "1781308864438345728",
+        "conversation_id": "1858532125399818593",
+        "created_at": "2024-11-18T15:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T16:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858532394820866345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683441735144439808",
+              "start": 0,
+              "username": "TheSoutaLynn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k4LyYA77fD",
+              "end": 55,
+              "expanded_url": "https://x.com/FoxRed695449/status/1858532394820866345/photo/1",
+              "media_key": "3_1858532385626951680",
+              "start": 32,
+              "url": "https://t.co/k4LyYA77fD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858532394820866345",
+        "in_reply_to_user_id": "1683441735144439808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 990,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858532125399818593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheSoutaLynn 就突然，一切都没了…我真的好想死… https://t.co/k4LyYA77fD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "是水系魔法师，非常高冷而且🚪88，你们不许乱碰我的脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "Aria&希汐公主殿下～⛧🏳‍⚧",
+        "pinned_tweet_id": "1851532132579221544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 893,
+          "like_count": 6538,
+          "listed_count": 5,
+          "tweet_count": 1887
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-19T13:08:37.000Z",
+        "description": "这里是RedFox的2代目账号（目前正在尝试找回原有账号）｜MTF🏳️‍⚧️｜大证含糖｜家长党｜我推：白子（蔚蓝档案），阿米娅（明日方舟），艾玛（约定的梦幻岛）｜Liberté, égalité, fraternité（自由，平等，博爱）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RedRedFox002",
+                "end": 23,
+                "expanded_url": "https://t.me/RedRedFox002",
+                "start": 0,
+                "url": "https://t.co/9jYlWQpvM6"
+              }
+            ]
+          }
+        },
+        "id": "1781308864438345728",
+        "location": "North District, Hong Kong",
+        "name": "RedFox（2代目）🏳️‍🌈🏳️‍⚧️🇭🇰",
+        "pinned_tweet_id": "1858640933052727687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858640314187345923/vAmQGtud_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 151,
+          "like_count": 107,
+          "listed_count": 0,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/9jYlWQpvM6",
+        "username": "FoxRed695449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T11:39:28.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈/🍥2024.4.20/小证/ADHD/178cm57kg/ A-Level to HongKong🇭🇰/2008.5.6/ 少数民族 /Apex22 赛季手把钻石💎坏姐姐@beijieyoufengle🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "beijieyoufengle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/AG5sVAiJgj"
+              }
+            ]
+          }
+        },
+        "id": "1683441735144439808",
+        "location": "距离你 3.7km",
+        "name": ".翎 SoutaWashuu🍥",
+        "pinned_tweet_id": "1841737663013118000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853450549901062144/m1aAp43-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3296,
+          "following_count": 1350,
+          "like_count": 65586,
+          "listed_count": 9,
+          "tweet_count": 15648
+        },
+        "url": "https://t.co/AG5sVAiJgj",
+        "username": "TheSoutaLynn",
+        "verified": false
+      }
+    ]
+  }
+}

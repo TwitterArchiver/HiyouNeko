@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1925113014598119520",
+    "created_at": "2025-05-21T08:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T09:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925113014598119520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cyberknight439…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/cyberknight4396/status/1924870888459219240",
+          "start": 21,
+          "url": "https://t.co/YrMVDVIrmV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925113014598119520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924870888459219240",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还真无油生抽过，在野外被硬上了.... https://t.co/YrMVDVIrmV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1843,
+        "media_key": "3_1924870878917230592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GraD3bBbAAAQ1dw.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1925113014598119520",
+        "created_at": "2025-05-21T08:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T09:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925113014598119520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cyberknight439…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/cyberknight4396/status/1924870888459219240",
+              "start": 21,
+              "url": "https://t.co/YrMVDVIrmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925113014598119520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924870888459219240",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还真无油生抽过，在野外被硬上了.... https://t.co/YrMVDVIrmV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924870878917230592"
+          ]
+        },
+        "author_id": "1856869593052237824",
+        "conversation_id": "1924870888459219240",
+        "created_at": "2025-05-20T16:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T17:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924870888459219240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bagA3spI7p",
+              "end": 51,
+              "expanded_url": "https://x.com/cyberknight4396/status/1924870888459219240/photo/1",
+              "media_key": "3_1924870878917230592",
+              "start": 28,
+              "url": "https://t.co/bagA3spI7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924870888459219240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1783,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "💧发现之前阴阳过这人\n原来他就是刮腿毛不打泡沫的那位啊 https://t.co/bagA3spI7p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 果然是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登（当心给你下降头） ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 123,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1922832818012340691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 985,
+          "like_count": 8993,
+          "listed_count": 6,
+          "media_count": 684,
+          "tweet_count": 3007
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T01:20:03.000Z",
+        "description": "激进跨权主义｜无政府共产主义｜推翻性别二元｜打倒父亲｜摧毁婚姻制｜极左恐怖分子☠️｜超人类主义👾｜全世界被压迫者联合起来🏳️‍🌈🏳️‍⚧️🏴‍☠️🏴🚩🌐💪🏾🦾🔥🍾｜🧙: @BAnarchistKUNIN｜📡: @Fareastelecommi ｜🌐: @gherojamslava",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 85,
+                "username": "BAnarchistKUNIN"
+              },
+              {
+                "end": 121,
+                "start": 105,
+                "username": "Fareastelecommi"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "gherojamslava"
+              }
+            ]
+          }
+        },
+        "id": "1856869593052237824",
+        "location": "诺威格瑞",
+        "name": "Ⓐ赛博骑士☭ 🐝蜂群主脑🧠",
+        "pinned_tweet_id": "1922851433818329413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918664619188711424/Jr5_JO-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 412,
+          "like_count": 20257,
+          "listed_count": 6,
+          "media_count": 533,
+          "tweet_count": 9512
+        },
+        "username": "cyberknight4396",
+        "verified": false
+      }
+    ]
+  }
+}

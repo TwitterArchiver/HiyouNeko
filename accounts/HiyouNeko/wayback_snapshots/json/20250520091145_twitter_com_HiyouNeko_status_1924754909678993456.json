@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1924754282361884796",
+    "created_at": "2025-05-20T09:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T10:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924754909678993456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587653801305153538",
+          "start": 0,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924754909678993456",
+    "in_reply_to_user_id": "1587653801305153538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924754282361884796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoHuiHuiH 第一题不知道，第二题不知道，第三题（指指点点）"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1924754909678993456].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1924754909678993456",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1924754909678993456"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1924754282361884796].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1924754282361884796",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1924754282361884796"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 果然是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登（当心给你下降头） ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 123,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1922832818012340691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2100,
+          "following_count": 985,
+          "like_count": 8983,
+          "listed_count": 6,
+          "media_count": 682,
+          "tweet_count": 3001
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西都在咱主页的“亮点”里哦😈\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🩷💜/含糖🍥2023.12.7/泛性恋🏳️‍🌈/21岁/可1可0可S可M🥵/单身没人要😭/加拿大留学🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/淫趴头子+滥交药攻/地雷嗑学家💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1913873631475622109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10468,
+          "following_count": 1148,
+          "like_count": 106441,
+          "listed_count": 22,
+          "media_count": 3714,
+          "tweet_count": 52419
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978864380620967936",
+        "3_1978864383053742081"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1978864387520610512",
+    "created_at": "2025-10-16T16:43:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T17:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978864387520610512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JzTcr5x0IT",
+          "end": 29,
+          "expanded_url": "https://x.com/HiyouNeko/status/1978864387520610512/photo/1",
+          "media_key": "3_1978864380620967936",
+          "start": 6,
+          "url": "https://t.co/JzTcr5x0IT"
+        },
+        {
+          "display_url": "pic.x.com/JzTcr5x0IT",
+          "end": 29,
+          "expanded_url": "https://x.com/HiyouNeko/status/1978864387520610512/photo/1",
+          "media_key": "3_1978864383053742081",
+          "start": 6,
+          "url": "https://t.co/JzTcr5x0IT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978864387520610512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无人生还？ https://t.co/JzTcr5x0IT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978864380620967936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ZWq3GWEAAdT1H.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1978864383053742081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3ZWrAKXQAEg_nL.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978864380620967936",
+            "3_1978864383053742081"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1978864387520610512",
+        "created_at": "2025-10-16T16:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T17:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978864387520610512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JzTcr5x0IT",
+              "end": 29,
+              "expanded_url": "https://x.com/HiyouNeko/status/1978864387520610512/photo/1",
+              "media_key": "3_1978864380620967936",
+              "start": 6,
+              "url": "https://t.co/JzTcr5x0IT"
+            },
+            {
+              "display_url": "pic.x.com/JzTcr5x0IT",
+              "end": 29,
+              "expanded_url": "https://x.com/HiyouNeko/status/1978864387520610512/photo/1",
+              "media_key": "3_1978864383053742081",
+              "start": 6,
+              "url": "https://t.co/JzTcr5x0IT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978864387520610512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无人生还？ https://t.co/JzTcr5x0IT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片（今日推荐：疾驰龙）🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 1008,
+          "like_count": 9307,
+          "listed_count": 7,
+          "media_count": 735,
+          "tweet_count": 3305
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

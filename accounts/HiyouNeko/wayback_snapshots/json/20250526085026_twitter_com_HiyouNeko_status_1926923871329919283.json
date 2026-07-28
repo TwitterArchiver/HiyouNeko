@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1926923871329919283",
+    "created_at": "2025-05-26T08:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T09:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926923871329919283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1918831724898951168",
+          "start": 3,
+          "username": "XYN1789927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926923871329919283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926602629192224830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XYN1789927: 为了“治好”你，我们花多少钱都愿意。最重要的是你要听话。你们浪费在我身上的钱都不知道够我吃多久的补了……理解和尊重有那么难吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1926923871329919283",
+        "created_at": "2025-05-26T08:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T09:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926923871329919283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1918831724898951168",
+              "start": 3,
+              "username": "XYN1789927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926923871329919283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926602629192224830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XYN1789927: 为了“治好”你，我们花多少钱都愿意。最重要的是你要听话。你们浪费在我身上的钱都不知道够我吃多久的补了……理解和尊重有那么难吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918831724898951168",
+        "conversation_id": "1926602629192224830",
+        "created_at": "2025-05-25T11:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T12:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926602629192224830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926602629192224830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10139,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "为了“治好”你，我们花多少钱都愿意。最重要的是你要听话。你们浪费在我身上的钱都不知道够我吃多久的补了……理解和尊重有那么难吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 汉尼拔宁波分拔»»我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 只要你也玩暗区突围你就是我脑婆ww ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1922832818012340691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 990,
+          "like_count": 9052,
+          "listed_count": 6,
+          "media_count": 687,
+          "tweet_count": 3044
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T00:55:16.000Z",
+        "description": "笨蛋mtf一只（）/生产日期2010.10.7/有时会爆炸/喜欢玩wotb/我想谈恋爱/缺爱b/坐标广东清远/HRT：2025.2.13",
+        "id": "1918831724898951168",
+        "location": "雌二醇星球",
+        "name": "萤火虫二号机🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918900774639398912/vHSj0QaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 78,
+          "like_count": 1913,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 448
+        },
+        "username": "XYN1789927",
+        "verified": false
+      }
+    ]
+  }
+}

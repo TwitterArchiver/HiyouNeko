@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1907044360488935808",
+    "created_at": "2025-04-02T09:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T10:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907361691933016304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1867567506581598208",
+          "start": 0,
+          "username": "freequan2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907361691933016304",
+    "in_reply_to_user_id": "1867567506581598208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907044360488935808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freequan2025 老师吃醋了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1907044360488935808",
+        "created_at": "2025-04-02T09:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T10:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907361691933016304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1867567506581598208",
+              "start": 0,
+              "username": "freequan2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907361691933016304",
+        "in_reply_to_user_id": "1867567506581598208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907044360488935808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freequan2025 老师吃醋了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867567506581598208",
+        "conversation_id": "1907044360488935808",
+        "created_at": "2025-04-01T12:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T13:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907044360488935808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907044360488935808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 948,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天上语文课\n老师问我：权权（非本命哦），班级里面没有朋友\n我：啊...\n老师：有没有男朋友\n我：啊！（怎么看出来的😨）\n老师：有没有男性朋友\n（同学们大笑）\n结果不知道为什么，我说了一句：有男朋友了...\n班级里笑声突然停止\n大概过了10秒后\n老师：啊哈哈，今天愚人节哈别开这种玩笑哈\n我：..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是友跨顺难 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 964,
+          "like_count": 8509,
+          "listed_count": 6,
+          "media_count": 644,
+          "tweet_count": 2707
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T13:49:36.000Z",
+        "description": "不建政！/15岁🥺/初中生/生理男心理女/每天都很劳累🥲/友好交流哦🥺/欢迎交友/互fo查成分（正常账号和能友好交流的会fo哦）/我的话有一部分人肯定认识我，换账号了🤔",
+        "id": "1867567506581598208",
+        "location": "幸福之地",
+        "name": "自由的权😇",
+        "pinned_tweet_id": "1904145995153228009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904901865558712320/GaBxtD3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 273,
+          "like_count": 812,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 529
+        },
+        "username": "freequan2025",
+        "verified": false
+      }
+    ]
+  }
+}

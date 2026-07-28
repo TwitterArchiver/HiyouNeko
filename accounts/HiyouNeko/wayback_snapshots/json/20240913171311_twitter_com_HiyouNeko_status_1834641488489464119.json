@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1834116580063793287",
+    "created_at": "2024-09-13T17:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T18:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834641488489464119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "961552358906802176",
+          "start": 0,
+          "username": "dfdtc7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834641488489464119",
+    "in_reply_to_user_id": "961552358906802176",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834637192011907181",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dfdtc7 一个不认识，没听说过，多新鲜呐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1834116580063793287",
+        "created_at": "2024-09-13T17:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T18:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834641488489464119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "961552358906802176",
+              "start": 0,
+              "username": "dfdtc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834641488489464119",
+        "in_reply_to_user_id": "961552358906802176",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834637192011907181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfdtc7 一个不认识，没听说过，多新鲜呐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "961552358906802176",
+        "conversation_id": "1834116580063793287",
+        "created_at": "2024-09-13T16:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T17:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834637192011907181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834637192011907181",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834116580063793287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 宁诺一堆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格 ❦  永劫无间 ❦ 无畏契约 ❦ 游戏王md ❦ 打游戏速速dd ❦ 半截入土 ❦ 坐标 宁波 ❦ 🚪50 ❦",
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 965,
+          "like_count": 5680,
+          "listed_count": 7,
+          "tweet_count": 1547
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-08T10:48:41.000Z",
+        "description": "是大头菜喵喵(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧ | 变成女孩子ing | 是幸福的猫猫🐱 | 有最在乎的人😽@shuyusihan1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "shuyusihan1"
+              }
+            ]
+          }
+        },
+        "id": "961552358906802176",
+        "name": "dfdtc🏳️‍⚧️",
+        "pinned_tweet_id": "1746489031146512667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705631137647808512/zTffC5Qf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2759,
+          "following_count": 1619,
+          "like_count": 45183,
+          "listed_count": 7,
+          "tweet_count": 14554
+        },
+        "username": "dfdtc7",
+        "verified": false
+      }
+    ]
+  }
+}

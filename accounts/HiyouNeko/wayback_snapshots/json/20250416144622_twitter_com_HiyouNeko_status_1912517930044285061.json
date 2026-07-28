@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1912440866112967027",
+    "created_at": "2025-04-16T14:46:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T15:46:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912517930044285061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1887583218079309825",
+          "start": 0,
+          "username": "dd_ysj43177"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912517930044285061",
+    "in_reply_to_user_id": "1887583218079309825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912489496609976429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dd_ysj43177 脱毛膏涂脸的话。。。脱毛仪或可一试，忍一忍做冰点去好了，但冰点打脸巨疼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1912440866112967027",
+        "created_at": "2025-04-16T14:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T15:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912517930044285061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1887583218079309825",
+              "start": 0,
+              "username": "dd_ysj43177"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912517930044285061",
+        "in_reply_to_user_id": "1887583218079309825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912489496609976429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dd_ysj43177 脱毛膏涂脸的话。。。脱毛仪或可一试，忍一忍做冰点去好了，但冰点打脸巨疼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887583218079309825",
+        "conversation_id": "1912440866112967027",
+        "created_at": "2025-04-16T12:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T13:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912489496609976429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912489496609976429",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912440866112967027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 还是脱毛仪或者脱毛膏吧 生拔好像会毛囊炎诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 985,
+          "like_count": 8679,
+          "listed_count": 6,
+          "media_count": 655,
+          "tweet_count": 2813
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T19:25:12.000Z",
+        "description": "想昏迷到7月醒来 这样一睁眼就能看到吊带袜天使第二季🥺🙏",
+        "id": "1887583218079309825",
+        "name": "我是来拉屎的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904588121154740224/C7Dbk2pO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 83,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 219
+        },
+        "username": "dd_ysj43177",
+        "verified": false
+      }
+    ]
+  }
+}

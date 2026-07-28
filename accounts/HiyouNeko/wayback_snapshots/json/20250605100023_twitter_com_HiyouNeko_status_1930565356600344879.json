@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1930319233403236714",
+    "created_at": "2025-06-05T10:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T11:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930565356600344879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1206932939470041089",
+          "start": 0,
+          "username": "thomaslim2019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930565356600344879",
+    "in_reply_to_user_id": "1206932939470041089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930319233403236714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thomaslim2019 不对，这事应该爸爸教，妈妈怎么教妈妈教不了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 346,
+        "media_key": "3_1930313978238119940",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsnaVgHasAQ9NGW.png",
+        "width": 294
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1930319233403236714",
+        "created_at": "2025-06-05T10:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T11:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930565356600344879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1206932939470041089",
+              "start": 0,
+              "username": "thomaslim2019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930565356600344879",
+        "in_reply_to_user_id": "1206932939470041089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930319233403236714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thomaslim2019 不对，这事应该爸爸教，妈妈怎么教妈妈教不了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930313978238119940"
+          ]
+        },
+        "author_id": "1206932939470041089",
+        "conversation_id": "1930319233403236714",
+        "created_at": "2025-06-04T17:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T18:25:27.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930314970455257149",
+          "1930319233403236714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VuqQxOqm6p",
+              "end": 152,
+              "expanded_url": "https://x.com/thomaslim2019/status/1930319233403236714/photo/1",
+              "media_key": "3_1930313978238119940",
+              "start": 129,
+              "url": "https://t.co/VuqQxOqm6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930319233403236714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 25364,
+          "like_count": 220,
+          "quote_count": 10,
+          "reply_count": 46,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "包皮必须翻开洗\n\n这个教育是不完整的！\n\n我有一个老处男朋友40岁才结婚，婚前去检查。他没有切包皮，妈妈也没教怎么洗。医生把他包皮翻开，完全就是撕裂的疼，打开里面是40年的舍利子级别的包皮垢，乳酪状态，直接掉落地。医生护士都没事，我朋友自己当场吐一地都是。 https://t.co/VuqQxOqm6p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2114,
+          "following_count": 993,
+          "like_count": 9116,
+          "listed_count": 6,
+          "media_count": 700,
+          "tweet_count": 3101
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-17T13:43:52.000Z",
+        "description": "迷雾里最远处吹来号角声",
+        "id": "1206932939470041089",
+        "name": "老林永生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1376930629229502472/rEjLtwVz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38254,
+          "following_count": 48,
+          "like_count": 2881,
+          "listed_count": 180,
+          "media_count": 18066,
+          "tweet_count": 37095
+        },
+        "username": "thomaslim2019",
+        "verified": true
+      }
+    ]
+  }
+}

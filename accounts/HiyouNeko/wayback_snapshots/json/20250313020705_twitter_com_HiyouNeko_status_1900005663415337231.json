@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1899663308783067221",
+    "created_at": "2025-03-13T02:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T03:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900005663415337231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1766025755161772032",
+          "start": 0,
+          "username": "Kiara939217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900005663415337231",
+    "in_reply_to_user_id": "1766025755161772032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899667835485327748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiara939217 上岗之前能不能先把中介费结一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1899663308783067221",
+        "created_at": "2025-03-13T02:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T03:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900005663415337231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1766025755161772032",
+              "start": 0,
+              "username": "Kiara939217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900005663415337231",
+        "in_reply_to_user_id": "1766025755161772032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899667835485327748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiara939217 上岗之前能不能先把中介费结一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766025755161772032",
+        "conversation_id": "1899663308783067221",
+        "created_at": "2025-03-12T03:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T04:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899667835485327748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899667835485327748",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 315,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899663308783067221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 孩子们我成国师了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是友跨顺难 ❦汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2052,
+          "following_count": 969,
+          "like_count": 8334,
+          "listed_count": 6,
+          "media_count": 636,
+          "tweet_count": 2586
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T08:58:57.000Z",
+        "description": "前次元斩大排档/打猎/ygo/kisskill/不鉴证/绝情道\n本人所作所为与群体无关\n可以牺牲，但不能被牺牲",
+        "id": "1766025755161772032",
+        "location": "如果你想要，你得自己来拿，但规矩你懂的",
+        "name": "真夜迴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881144126046896128/Lwe_LS4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 1491,
+          "like_count": 18798,
+          "listed_count": 1,
+          "media_count": 434,
+          "tweet_count": 3932
+        },
+        "username": "Kiara939217",
+        "verified": false
+      }
+    ]
+  }
+}

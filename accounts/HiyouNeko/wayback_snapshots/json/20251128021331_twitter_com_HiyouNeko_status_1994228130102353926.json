@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1994079211447869903",
+    "created_at": "2025-11-28T02:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T03:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994228130102353926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1497241020303495168",
+          "start": 0,
+          "username": "mosscghere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994228130102353926",
+    "in_reply_to_user_id": "1497241020303495168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994079211447869903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mosscghere 我都是一个项目一个虚拟环境"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1994079208491126784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xkeZwbEAAuVbD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1994079211447869903",
+        "created_at": "2025-11-28T02:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T03:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994228130102353926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1497241020303495168",
+              "start": 0,
+              "username": "mosscghere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994228130102353926",
+        "in_reply_to_user_id": "1497241020303495168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994079211447869903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mosscghere 我都是一个项目一个虚拟环境"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994079208491126784"
+          ]
+        },
+        "author_id": "1497241020303495168",
+        "conversation_id": "1994079211447869903",
+        "created_at": "2025-11-27T16:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T17:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994079211447869903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jTOt3N2bX2",
+              "end": 175,
+              "expanded_url": "https://x.com/mosscghere/status/1994079211447869903/photo/1",
+              "media_key": "3_1994079208491126784",
+              "start": 152,
+              "url": "https://t.co/jTOt3N2bX2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994079211447869903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 450,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电脑重装，顺带把python的项目换成了conda环境\n结果这么一换，好几个项目构建出来的软件包的大小从200-300M瞬间压缩到50M\n而且功能完全不影响\n可想而知我之前的软件包里装了多少💩\n（之前整台电脑上的所有项目共用一个python环境，所以pyinstaller会打包一些奇奇怪怪的东西进去） https://t.co/jTOt3N2bX2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "阳痿丨风湿丨前列腺炎丨腰间盘突出。逐渐沦为三坏xyn。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片（今日推荐：爆弹鱼）🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 1037,
+          "like_count": 9514,
+          "listed_count": 7,
+          "media_count": 751,
+          "tweet_count": 3426
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-25T16:04:20.000Z",
+        "description": "这里是啥也不会的墨姐姐｜闲聊日常技术推｜后端Java+Python工程师｜伪全栈｜早退OIer｜远古MC服主｜MossFrp老板娘｜Trans周边绝赞贩售中",
+        "id": "1497241020303495168",
+        "name": "啥也不会墨姐姐 #三玖天下第一！",
+        "pinned_tweet_id": "1805802094882078995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866694402057572356/bVsoVvV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6113,
+          "following_count": 826,
+          "like_count": 18718,
+          "listed_count": 6,
+          "media_count": 1417,
+          "tweet_count": 5420
+        },
+        "username": "mosscghere",
+        "verified": false
+      }
+    ]
+  }
+}

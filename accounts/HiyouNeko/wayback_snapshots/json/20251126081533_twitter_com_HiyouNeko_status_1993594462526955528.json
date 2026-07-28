@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1993466886382891124",
+    "created_at": "2025-11-26T08:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T09:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993594462526955528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1974865605204586498",
+          "start": 0,
+          "username": "ZJURsNvP5K25665"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993594462526955528",
+    "in_reply_to_user_id": "1974865605204586498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993466886382891124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZJURsNvP5K25665 这啥，想玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1993466748281229312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6o3chrbEAABJv2.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1993466886382891124",
+        "created_at": "2025-11-26T08:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T09:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993594462526955528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "ZJURsNvP5K25665"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993594462526955528",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993466886382891124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZJURsNvP5K25665 这啥，想玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993466748281229312"
+          ]
+        },
+        "author_id": "1974865605204586498",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993466886382891124",
+        "created_at": "2025-11-25T23:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T00:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993466886382891124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Q5EYv7NlT",
+              "end": 41,
+              "expanded_url": "https://x.com/ZJURsNvP5K25665/status/1993466886382891124/photo/1",
+              "media_key": "3_1993466748281229312",
+              "start": 18,
+              "url": "https://t.co/3Q5EYv7NlT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993466886382891124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "瑞典人你往霓虹里掺了什么屎自己看下 https://t.co/3Q5EYv7NlT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "阳痿丨风湿丨前列腺炎丨腰间盘突出。逐渐沦为三坏xyn。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片（今日推荐：爆弹鱼）🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 1035,
+          "like_count": 9496,
+          "listed_count": 7,
+          "media_count": 749,
+          "tweet_count": 3416
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "很差劲的废柴阴湿宅\n生活键政什么都发 \n马列毛书籍阅读中  目前还是☭ 赤匪😡📕🚩\n反建制🇨🇳中修伪政权必亡！\n接纳各中右立场请理性讨论\n友🏳️‍⚧️🏳️‍🌈多元性别无罪\n世界计划/术力口/BA/gal/HOI4…属性超杂随机掉落\n休学很无聊所以真的私信什么都行我睡醒了就会回    扩列也可以的！！",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "不/存在的第一共和国",
+        "pinned_tweet_id": "1990062733908230521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974874538384236544/06pl-pM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 788,
+          "like_count": 10053,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1097
+        },
+        "username": "ZJURsNvP5K25665",
+        "verified": false
+      }
+    ]
+  }
+}

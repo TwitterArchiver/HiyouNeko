@@ -1,0 +1,157 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1789096822323175630",
+    "created_at": "2024-05-11T00:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-11T01:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1789096822323175630"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HiyouNeko/stat…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/HiyouNeko/status/1788945134580863067",
+          "start": 60,
+          "url": "https://t.co/eqSQ6mQYBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789096822323175630",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788945134580863067",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一觉醒来这什么鬼...水是热水器放出来装灌肠器里的，不是锅里烧出来浇上去的，take it easy...plz... https://t.co/eqSQ6mQYBH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1789096822323175630",
+        "created_at": "2024-05-11T00:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T01:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789096822323175630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HiyouNeko/stat…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/HiyouNeko/status/1788945134580863067",
+              "start": 60,
+              "url": "https://t.co/eqSQ6mQYBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789096822323175630",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788945134580863067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一觉醒来这什么鬼...水是热水器放出来装灌肠器里的，不是锅里烧出来浇上去的，take it easy...plz... https://t.co/eqSQ6mQYBH"
+      },
+      {
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1788945134580863067",
+        "created_at": "2024-05-10T14:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T15:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788945134580863067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1788945134580863067",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 38810,
+          "like_count": 334,
+          "quote_count": 9,
+          "reply_count": 157,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我警告你们，灌肠千万不要用热水！！！尤其是70°C刚从热水器放出来没冷却的情况下！！！！！！！！！！！！！！！！！！老子要升天了！！！！！！！！！！日妈批！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦-希月涟漪赋予汐-❦Dom❦mtf🏳‍⚧❦降临派❦病娇❦麻木❦偶尔是发癫，抽象是常态❦活在幻想中的魔法少女❦i am a teapot❦每天都被爱心填满大脑❦真的很爱喝野格和咩宝宝@littlelambqwq❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "littlelambqwq"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "AAA希汐是水系魔法师👀",
+        "pinned_tweet_id": "1788119066642973057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786272582314106880/x7-Zl02l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 874,
+          "like_count": 4635,
+          "listed_count": 8,
+          "tweet_count": 1266
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

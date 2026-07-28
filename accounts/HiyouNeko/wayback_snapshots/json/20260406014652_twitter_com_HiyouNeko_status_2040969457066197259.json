@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040969454063083520"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2040969457066197259",
+    "created_at": "2026-04-06T01:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T02:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040969457066197259"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uslBo2aF1J",
+          "end": 30,
+          "expanded_url": "https://x.com/HiyouNeko/status/2040969457066197259/photo/1",
+          "media_key": "3_2040969454063083520",
+          "start": 7,
+          "url": "https://t.co/uslBo2aF1J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040969457066197259",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "免费喝奶茶了 https://t.co/uslBo2aF1J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2040969454063083520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFL656raYAA6t0p.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040969454063083520"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2040969457066197259",
+        "created_at": "2026-04-06T01:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T02:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040969457066197259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uslBo2aF1J",
+              "end": 30,
+              "expanded_url": "https://x.com/HiyouNeko/status/2040969457066197259/photo/1",
+              "media_key": "3_2040969454063083520",
+              "start": 7,
+              "url": "https://t.co/uslBo2aF1J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040969457066197259",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "免费喝奶茶了 https://t.co/uslBo2aF1J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦od💊不割手❦永不满足的爱，和以此倍增的恨.❦可爱小猫 @herself32 ❦发情期再放送.....❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "˚₊‧꒰ა超绝可爱☆派对姬໒꒱‧₊˚",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039989141258285056/QqoUIn1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2069,
+          "following_count": 1038,
+          "like_count": 9682,
+          "listed_count": 6,
+          "media_count": 803,
+          "tweet_count": 3632
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

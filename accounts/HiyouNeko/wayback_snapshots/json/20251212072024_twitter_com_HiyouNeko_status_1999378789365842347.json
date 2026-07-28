@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999378780662685696"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "conversation_id": "1999378789365842347",
+    "created_at": "2025-12-12T07:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T08:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999378789365842347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2AxJkX45W3",
+          "end": 170,
+          "expanded_url": "https://x.com/HiyouNeko/status/1999378789365842347/photo/1",
+          "media_key": "3_1999378780662685696",
+          "start": 147,
+          "url": "https://t.co/2AxJkX45W3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999378789365842347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不要恋爱，不要恋爱，不要恋爱 ---- 三体人如是说\n\n其实你们都不懂三体人，伟大的主没得感情主要是被恋爱伤透了心，水滴是来告诫地球人不要恋爱，质子是为了监视小情侣防止他们做出格的事情，让他们集中去澳大利亚是方便杀死恋爱的毒瘤。\n\n现在加入绝情宗一起用szb展开黑暗决斗净化这个世界的罪恶吧。 https://t.co/2AxJkX45W3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2055,
+        "media_key": "3_1999378780662685696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G784aGjaYAAopDW.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999378780662685696"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "conversation_id": "1999378789365842347",
+        "created_at": "2025-12-12T07:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T08:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999378789365842347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2AxJkX45W3",
+              "end": 170,
+              "expanded_url": "https://x.com/HiyouNeko/status/1999378789365842347/photo/1",
+              "media_key": "3_1999378780662685696",
+              "start": 147,
+              "url": "https://t.co/2AxJkX45W3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999378789365842347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要恋爱，不要恋爱，不要恋爱 ---- 三体人如是说\n\n其实你们都不懂三体人，伟大的主没得感情主要是被恋爱伤透了心，水滴是来告诫地球人不要恋爱，质子是为了监视小情侣防止他们做出格的事情，让他们集中去澳大利亚是方便杀死恋爱的毒瘤。\n\n现在加入绝情宗一起用szb展开黑暗决斗净化这个世界的罪恶吧。 https://t.co/2AxJkX45W3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "R6丨暗区丨GTA5 丨 影之诗。逐渐沦为三坏xyn。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片（今日推荐：爆弹鱼）🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 1037,
+          "like_count": 9575,
+          "listed_count": 7,
+          "media_count": 756,
+          "tweet_count": 3454
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

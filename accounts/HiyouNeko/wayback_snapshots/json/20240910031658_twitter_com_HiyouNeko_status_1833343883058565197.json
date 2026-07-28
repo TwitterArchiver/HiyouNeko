@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1833175188319728078",
+    "created_at": "2024-09-10T03:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T04:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833343883058565197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1389835823147745280",
+          "start": 0,
+          "username": "znsjtbxd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833343883058565197",
+    "in_reply_to_user_id": "1389835823147745280",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833178295069970603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@znsjtbxd 涩的只是文案"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1833175188319728078",
+        "created_at": "2024-09-10T03:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T04:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833343883058565197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1389835823147745280",
+              "start": 0,
+              "username": "znsjtbxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833343883058565197",
+        "in_reply_to_user_id": "1389835823147745280",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833178295069970603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@znsjtbxd 涩的只是文案"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389835823147745280",
+        "conversation_id": "1833175188319728078",
+        "created_at": "2024-09-09T16:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T17:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833178295069970603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833178295069970603",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833175188319728078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 文案太涩了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格 ❦  永劫无间 ❦ 无畏契约 ❦ 游戏王md ❦ 打游戏速速dd ❦ 半截入土 ❦ 坐标 宁波 ❦ 🚪50 ❦",
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 946,
+          "like_count": 5565,
+          "listed_count": 7,
+          "tweet_count": 1511
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-05T06:54:21.000Z",
+        "description": "05年 小药娘 🏳️‍⚧️ 🍥／161cm 42kg 贫乳／接线下援交、爸爸活！全国可飞 ✈／轻度听力障碍／正在努力成为真正的作曲家🎶／🚪门槛33，聊天问价先过门槛🚪哦（支付宝口令红包），不过🚪门槛不理",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.163.com/#/artist?id=34…",
+                "end": 23,
+                "expanded_url": "https://music.163.com/#/artist?id=34230059",
+                "start": 0,
+                "url": "https://t.co/qglqMlUw4s"
+              }
+            ]
+          }
+        },
+        "id": "1389835823147745280",
+        "location": "常驻广东省（全国可飞）",
+        "name": "青令韵 马儿 🍥（接线下援交）",
+        "pinned_tweet_id": "1827664468479979524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660541173017251840/orvxTPK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 1264,
+          "like_count": 10144,
+          "listed_count": 4,
+          "tweet_count": 9238
+        },
+        "url": "https://t.co/qglqMlUw4s",
+        "username": "znsjtbxd",
+        "verified": false
+      }
+    ]
+  }
+}

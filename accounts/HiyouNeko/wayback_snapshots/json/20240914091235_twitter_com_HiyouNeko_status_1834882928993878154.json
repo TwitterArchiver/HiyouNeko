@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1834860320764182747",
+    "created_at": "2024-09-14T09:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-14T10:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834882928993878154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721033524155916288",
+          "start": 0,
+          "username": "ANON_SHANGHAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834882928993878154",
+    "in_reply_to_user_id": "1721033524155916288",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834881555208290714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ANON_SHANGHAI 现在偶遇了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1834860320764182747",
+        "created_at": "2024-09-14T09:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T10:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834882928993878154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721033524155916288",
+              "start": 0,
+              "username": "ANON_SHANGHAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834882928993878154",
+        "in_reply_to_user_id": "1721033524155916288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834881555208290714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ANON_SHANGHAI 现在偶遇了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721033524155916288",
+        "conversation_id": "1834860320764182747",
+        "created_at": "2024-09-14T09:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T10:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834881555208290714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834881555208290714",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834878326286303493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 很酷，不说话😎😎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派 ❦ 活在幻想中的魔法少女 ❦ 病娇是魔女化后的产物 ❦ 真的很爱喝野格 ❦  永劫无间 ❦ 无畏契约 ❦ 游戏王md ❦ 打游戏速速dd ❦ 半截入土 ❦ 坐标 宁波 ❦",
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 972,
+          "like_count": 5700,
+          "listed_count": 7,
+          "tweet_count": 1554
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T05:15:57.000Z",
+        "description": "自己给自己打标签总是一件很愚蠢的事情🙃 It’s always silly to tag yourself ^_^  @MephiSprt 的🐶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "MephiSprt"
+              }
+            ]
+          }
+        },
+        "id": "1721033524155916288",
+        "name": "无水柠檬不加糖🍋‍🟩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819057901186715648/6808SdQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 253,
+          "like_count": 34537,
+          "listed_count": 0,
+          "tweet_count": 1874
+        },
+        "username": "ANON_SHANGHAI",
+        "verified": false
+      }
+    ]
+  }
+}

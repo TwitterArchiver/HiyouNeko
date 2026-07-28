@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1832293948767043667",
+    "created_at": "2024-09-07T11:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T12:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832384518474625079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1547020655740080128",
+          "start": 0,
+          "username": "HY3129342449"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832384518474625079",
+    "in_reply_to_user_id": "1547020655740080128",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832346308784615856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HY3129342449 校园暴力他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1832293948767043667",
+        "created_at": "2024-09-07T11:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T12:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832384518474625079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1547020655740080128",
+              "start": 0,
+              "username": "HY3129342449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832384518474625079",
+        "in_reply_to_user_id": "1547020655740080128",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832346308784615856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HY3129342449 校园暴力他"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547020655740080128",
+        "conversation_id": "1832293948767043667",
+        "created_at": "2024-09-07T09:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T10:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832346308784615856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832346308784615856",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832334006689657253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 说一年了都，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格 ❦  永劫无间 ❦ 无畏契约 ❦ 游戏王md ❦ 打游戏速速dd ❦ 半截入土 ❦ 坐标 宁波 ❦ 🚪50 ❦",
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "希汐是水系魔法师🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795034500881412096/5-HjWywU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 943,
+          "like_count": 5554,
+          "listed_count": 7,
+          "tweet_count": 1504
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T00:50:57.000Z",
+        "description": "想要交到好朋友，有时候笨笨的，因为一些原因可能有些麻木。\n……是男的()\n有时候好像会把过去的东西都忘光…希望大家不要忘掉我，我也会好好记住大家的……\n希望大家都能找到属于自己的真爱呢。\n问答箱https://t.co/qFhVEYT5L7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hy3129342449",
+                "end": 120,
+                "expanded_url": "https://ngl.link/hy3129342449",
+                "start": 97,
+                "url": "https://t.co/qFhVEYT5L7"
+              }
+            ]
+          }
+        },
+        "id": "1547020655740080128",
+        "location": "哈尔滨",
+        "name": "輝子",
+        "pinned_tweet_id": "1788435902139945017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805220283961548800/TpYkGZzS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 695,
+          "like_count": 14448,
+          "listed_count": 3,
+          "tweet_count": 6609
+        },
+        "username": "HY3129342449",
+        "verified": false
+      }
+    ]
+  }
+}

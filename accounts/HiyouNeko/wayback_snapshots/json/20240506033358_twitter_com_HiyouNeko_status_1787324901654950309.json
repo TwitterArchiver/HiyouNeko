@@ -1,0 +1,96 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1787324901654950309",
+    "created_at": "2024-05-06T03:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-06T04:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1787324901654950309"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1787324901654950309",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你的头发好漂亮，能告诉我用的什么洗发水吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1787324901654950309",
+        "created_at": "2024-05-06T03:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-06T04:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1787324901654950309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1787324901654950309",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的头发好漂亮，能告诉我用的什么洗发水吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦-希月涟漪赋予汐-❦Dom❦mtf🏳‍⚧❦降临派❦病娇❦麻木❦偶尔是发癫，抽象是常态❦活在幻想中的魔法少女❦i am a teapot❦每天都被爱心填满大脑❦真的很爱喝野格和咩宝宝@littlelambqwq❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "littlelambqwq"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "AAA希汐梦想是成为DJ😋",
+        "pinned_tweet_id": "1781711114604253320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786272582314106880/x7-Zl02l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 861,
+          "like_count": 4412,
+          "listed_count": 8,
+          "tweet_count": 1205
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1834051078847168569",
+    "created_at": "2024-09-12T02:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T03:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1834051078847168569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1547020655740080128",
+          "start": 0,
+          "username": "HY3129342449"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/KK404error/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/KK404error/status/1834043255358697581",
+          "start": 20,
+          "url": "https://t.co/lj4vZmvifw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834051078847168569",
+    "in_reply_to_user_id": "1547020655740080128",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834043255358697581",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HY3129342449 速速v50 https://t.co/lj4vZmvifw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1834051078847168569",
+        "created_at": "2024-09-12T02:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T03:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834051078847168569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1547020655740080128",
+              "start": 0,
+              "username": "HY3129342449"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/KK404error/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/KK404error/status/1834043255358697581",
+              "start": 20,
+              "url": "https://t.co/lj4vZmvifw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834051078847168569",
+        "in_reply_to_user_id": "1547020655740080128",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834043255358697581",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HY3129342449 速速v50 https://t.co/lj4vZmvifw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1834043253437726724"
+          ]
+        },
+        "author_id": "1450893562686541824",
+        "conversation_id": "1834043255358697581",
+        "created_at": "2024-09-12T01:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T02:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834043255358697581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xv2opvcuha",
+              "end": 143,
+              "expanded_url": "https://twitter.com/KK404error/status/1834043255358697581/photo/1",
+              "media_key": "3_1834043253437726724",
+              "start": 120,
+              "url": "https://t.co/Xv2OPvCUhA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834043255358697581",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "接下来我要赐予你六根法器\n\n眼见喜：你睁眼看见今天是星期四\n\n耳听怒：你耳朵听到旁边人在说肯德基\n\n鼻嗅爱：你闻到肯德基的炸鸡香味\n\n舌尝思：你舌头仿佛触及了炸鸡的味道\n\n身本忧：你的身体还老老实实坐着上班\n\n意见欲：你意识到应该v我50 https://t.co/Xv2OPvCUhA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格 ❦  永劫无间 ❦ 无畏契约 ❦ 游戏王md ❦ 打游戏速速dd ❦ 半截入土 ❦ 坐标 宁波 ❦ 🚪50 ❦",
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1818,
+          "following_count": 949,
+          "like_count": 5592,
+          "listed_count": 7,
+          "tweet_count": 1523
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T00:50:57.000Z",
+        "description": "想要交到好朋友，有时候笨笨的，因为一些原因可能有些麻木。\n……是男的()\n有时候好像会把过去的东西都忘光…希望大家不要忘掉我，我也会好好记住大家的……\n希望大家都能找到属于自己的真爱呢。\n问答箱https://t.co/qFhVEYT5L7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hy3129342449",
+                "end": 120,
+                "expanded_url": "https://ngl.link/hy3129342449",
+                "start": 97,
+                "url": "https://t.co/qFhVEYT5L7"
+              }
+            ]
+          }
+        },
+        "id": "1547020655740080128",
+        "location": "哈尔滨",
+        "name": "輝子",
+        "pinned_tweet_id": "1788435902139945017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805220283961548800/TpYkGZzS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 694,
+          "like_count": 14467,
+          "listed_count": 3,
+          "tweet_count": 6618
+        },
+        "username": "HY3129342449",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T18:36:02.000Z",
+        "description": "叫咱KK就是了/好想出门玩啊啊啊啊啊啊啊啊\n\nJe veux la gloire à mes genoux",
+        "id": "1450893562686541824",
+        "location": "广州/深圳",
+        "name": "Karma·Kaslana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821013028751749120/iRBPrtYJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12085,
+          "following_count": 2049,
+          "like_count": 37827,
+          "listed_count": 19,
+          "tweet_count": 24057
+        },
+        "username": "KK404error",
+        "verified": false
+      }
+    ]
+  }
+}

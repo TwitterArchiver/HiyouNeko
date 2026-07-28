@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "2044326861568909327",
+    "created_at": "2026-04-16T08:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T09:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044688142176006271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1514545830493044736",
+          "start": 0,
+          "username": "Miwu0721"
+        },
+        {
+          "end": 24,
+          "id": "1390652924481527810",
+          "start": 10,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044688142176006271",
+    "in_reply_to_user_id": "1514545830493044736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044590296043073965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miwu0721 @zqtlovekris99 我作為36K的年薪高薪貴族階層從來不屑於和月薪3000的底層牛馬聊薪資"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "2044326861568909327",
+        "created_at": "2026-04-16T08:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044688142176006271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1514545830493044736",
+              "start": 0,
+              "username": "Miwu0721"
+            },
+            {
+              "end": 24,
+              "id": "1390652924481527810",
+              "start": 10,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044688142176006271",
+        "in_reply_to_user_id": "1514545830493044736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044590296043073965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miwu0721 @zqtlovekris99 我作為36K的年薪高薪貴族階層從來不屑於和月薪3000的底層牛馬聊薪資"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514545830493044736",
+        "conversation_id": "2044326861568909327",
+        "created_at": "2026-04-16T01:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044590296043073965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044590296043073965",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 469,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044326861568909327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 尺度太大了，聊点成人话题吧，你月薪多少"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦精品神藥享受者💊不割手❦永不满足的爱，和以此倍增的恨.❦可爱小猫 @herself32 ❦警告🚫郁期勿扰.....❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "˚₊‧꒰ა超絕可愛☆派對姬໒꒱‧₊˚",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039989141258285056/QqoUIn1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 1052,
+          "like_count": 9824,
+          "listed_count": 6,
+          "media_count": 821,
+          "tweet_count": 3698
+        },
+        "url": "",
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-14T10:07:35.000Z",
+        "description": "你好！我是米坞(Miwu/ミウ)、bilibili：ミウ同学、\n碧蓝航线/星露谷物语/Minecraft/WT/CS2玩家、全推最尊重菠萝油的主播、国家一级退堂鼓表演艺术家、日本語は勉強する、よろしくお願いします\n涩涩里推：@Miuu0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Miuu0721"
+              }
+            ]
+          }
+        },
+        "id": "1514545830493044736",
+        "location": "废物保护协会",
+        "name": "ミウ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044300060884922368/zAjplHfc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 455,
+          "like_count": 83950,
+          "listed_count": 6,
+          "media_count": 720,
+          "tweet_count": 3596
+        },
+        "username": "Miwu0721",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 诡秘 @maoxian1527 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68/128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11939,
+          "following_count": 1471,
+          "like_count": 25186,
+          "listed_count": 16,
+          "media_count": 4604,
+          "tweet_count": 27429
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

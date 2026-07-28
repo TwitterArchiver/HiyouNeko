@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1972555158933668148",
+    "created_at": "2025-09-29T06:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T07:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972555158933668148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972555158933668148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972520141729767818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: 群主我还想再确认下，咱们国庆福利还是不是跟以前一样，每人一个内存泄漏，一个栈溢出，一个缓冲区溢出，一个内存溢出，一个重复释放，一个内存访问违规，一个内存碎片化，一个无效内存访问，一个释放后使用，一个差一错误，一个空指针引用，一个整数溢出，一个除零错误，一…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1972555158933668148",
+        "created_at": "2025-09-29T06:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T07:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972555158933668148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972555158933668148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972520141729767818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: 群主我还想再确认下，咱们国庆福利还是不是跟以前一样，每人一个内存泄漏，一个栈溢出，一个缓冲区溢出，一个内存溢出，一个重复释放，一个内存访问违规，一个内存碎片化，一个无效内存访问，一个释放后使用，一个差一错误，一个空指针引用，一个整数溢出，一个除零错误，一…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613079089879076864",
+        "conversation_id": "1972520141729767818",
+        "created_at": "2025-09-29T04:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T05:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972520141729767818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972520141729767818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "群主我还想再确认下，咱们国庆福利还是不是跟以前一样，每人一个内存泄漏，一个栈溢出，一个缓冲区溢出，一个内存溢出，一个重复释放，一个内存访问违规，一个内存碎片化，一个无效内存访问，一个释放后使用，一个差一错误，一个空指针引用，一个整数溢出，一个除零错误，一个逻辑错误，一个未初始化变量，一个死循环，一个算法复杂度错误，一个舍入误差，一个条件分支缺失，一个状态机错误，一个竞态条件，一个死锁，一个资源饥饿，一个优先级反转，一个数据竞争，一个原子性违反，一个顺序违反，一个上下文切换不一致，一个信号量误用，一个类型错误，一个资源泄漏，一个数据库连接泄漏，一个网络套接字泄漏，一个继承错误，一个多态误用，一个依赖项版本冲突，一个环境差异，一个服务调用超时，一个文件权限错误的报错吗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5053,
+          "like_count": 76,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "群主我还想再确认下，咱们国庆福利还是不是跟以前一样，每人一个内存泄漏，一个栈溢出，一个缓冲区溢出，一个内存溢出，一个重复释放，一个内存访问违规，一个内存碎片化，一个无效内存访问，一个释放后使用，一个差一错误，一个空指针引用，一个整数溢出，一个除零错误，一个逻辑错误，一个未初始化变"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 982,
+          "like_count": 9214,
+          "listed_count": 7,
+          "media_count": 725,
+          "tweet_count": 3251
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81271,
+          "following_count": 641,
+          "like_count": 30664,
+          "listed_count": 255,
+          "media_count": 12476,
+          "tweet_count": 17672
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

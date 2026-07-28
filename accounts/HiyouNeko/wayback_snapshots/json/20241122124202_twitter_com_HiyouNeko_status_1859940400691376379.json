@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1859822227740557420",
+    "created_at": "2024-11-22T12:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T13:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859940400691376379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766025755161772032",
+          "start": 0,
+          "username": "de_wu46744"
+        },
+        {
+          "end": 25,
+          "id": "1547020655740080128",
+          "start": 12,
+          "username": "HY3129342449"
+        },
+        {
+          "end": 37,
+          "id": "1687307776073297921",
+          "start": 26,
+          "username": "Pragevich2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859940400691376379",
+    "in_reply_to_user_id": "1766025755161772032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859833944688279785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@de_wu46744 @HY3129342449 @Pragevich2 幸好我已经过了喜欢和对象戴戒指的年纪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1859822227740557420",
+        "created_at": "2024-11-22T12:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T13:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859940400691376379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766025755161772032",
+              "start": 0,
+              "username": "de_wu46744"
+            },
+            {
+              "end": 25,
+              "id": "1547020655740080128",
+              "start": 12,
+              "username": "HY3129342449"
+            },
+            {
+              "end": 37,
+              "id": "1687307776073297921",
+              "start": 26,
+              "username": "Pragevich2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859940400691376379",
+        "in_reply_to_user_id": "1766025755161772032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859833944688279785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@de_wu46744 @HY3129342449 @Pragevich2 幸好我已经过了喜欢和对象戴戒指的年纪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766025755161772032",
+        "conversation_id": "1859822227740557420",
+        "created_at": "2024-11-22T05:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T06:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859833944688279785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1547020655740080128",
+              "start": 0,
+              "username": "HY3129342449"
+            },
+            {
+              "end": 25,
+              "id": "1687307776073297921",
+              "start": 14,
+              "username": "Pragevich2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859833944688279785",
+        "in_reply_to_user_id": "1547020655740080128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859822227740557420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HY3129342449 @Pragevich2 哪有人送对象戒指的（目移）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "★ 99Mtf一只🍥 ☆ 笨蛋一个 △ 是神奇的水系魔法师 △ 🚪66 QQ纯绿聊天不线下（除非你打❦舞萌❦） ♡ 真的真的很爱酥萌老师 ★ 你们补药欺负我的宝贝脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 84,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "一只希汐#θωθ",
+        "pinned_tweet_id": "1858814345456873777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 905,
+          "like_count": 6666,
+          "listed_count": 5,
+          "tweet_count": 1936
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T08:58:57.000Z",
+        "description": "即便如此！",
+        "id": "1766025755161772032",
+        "location": "如果你想要，你得自己来拿，但规矩你懂的",
+        "name": "大排档Muteki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771376668130639873/NPmTQYvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 1264,
+          "like_count": 15528,
+          "listed_count": 0,
+          "tweet_count": 2796
+        },
+        "username": "de_wu46744",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T00:50:57.000Z",
+        "description": "想要交到好朋友，有时候笨笨的，因为一些原因可能有些麻木。\n……是男的()\n有时候好像会把过去的东西都忘光…希望大家不要忘掉我，我也会好好记住大家的……\n希望大家都能找到属于自己的真爱呢。\n爱人:@Pragevich2    \n问答箱https://t.co/qFhVEYT5L7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 97,
+                "username": "Pragevich2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hy3129342449",
+                "end": 139,
+                "expanded_url": "https://ngl.link/hy3129342449",
+                "start": 116,
+                "url": "https://t.co/qFhVEYT5L7"
+              }
+            ]
+          }
+        },
+        "id": "1547020655740080128",
+        "location": "哈尔滨",
+        "name": "輝子",
+        "pinned_tweet_id": "1788435902139945017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805220283961548800/TpYkGZzS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 694,
+          "like_count": 15386,
+          "listed_count": 2,
+          "tweet_count": 6915
+        },
+        "username": "HY3129342449",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T03:41:45.000Z",
+        "description": "trans_xyn_pansexuality_live in a virtual world_really want company_love you all\n❤️@HY3129342449",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "HY3129342449"
+              }
+            ]
+          }
+        },
+        "id": "1687307776073297921",
+        "location": "Guangzhou, China",
+        "name": "alchemist",
+        "pinned_tweet_id": "1859876422518727107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756846101553168384/7MMtf2WW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5868,
+          "following_count": 293,
+          "like_count": 34070,
+          "listed_count": 6,
+          "tweet_count": 18848
+        },
+        "username": "Pragevich2",
+        "verified": false
+      }
+    ]
+  }
+}

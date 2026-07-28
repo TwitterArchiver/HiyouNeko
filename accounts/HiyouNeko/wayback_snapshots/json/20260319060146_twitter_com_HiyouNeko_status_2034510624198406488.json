@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034510616971677696"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2034510624198406488",
+    "created_at": "2026-03-19T06:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T07:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034510624198406488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MfR9Uo8KWy",
+          "end": 50,
+          "expanded_url": "https://x.com/HiyouNeko/status/2034510624198406488/photo/1",
+          "media_key": "3_2034510616971677696",
+          "start": 27,
+          "url": "https://t.co/MfR9Uo8KWy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034510624198406488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我又没偷没抢没做乞丐，只是人间魔鬼给我发了牌Oᴗoಣ https://t.co/MfR9Uo8KWy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1252,
+        "media_key": "3_2034510616971677696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwIoHhbkAAfKIN.jpg",
+        "width": 467
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034510616971677696"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034510624198406488",
+        "created_at": "2026-03-19T06:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T07:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034510624198406488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfR9Uo8KWy",
+              "end": 50,
+              "expanded_url": "https://x.com/HiyouNeko/status/2034510624198406488/photo/1",
+              "media_key": "3_2034510616971677696",
+              "start": 27,
+              "url": "https://t.co/MfR9Uo8KWy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034510624198406488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又没偷没抢没做乞丐，只是人间魔鬼给我发了牌Oᴗoಣ https://t.co/MfR9Uo8KWy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦od💊不割手❦永不满足的爱，和以此倍增的恨.❦可爱小猫 @herself32 ❦发情期进行中....❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "🎈来自LEVEL FUN的♀=)🎈",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031925900741386240/oJvtfkQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 1003,
+          "like_count": 9551,
+          "listed_count": 6,
+          "media_count": 770,
+          "tweet_count": 3522
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

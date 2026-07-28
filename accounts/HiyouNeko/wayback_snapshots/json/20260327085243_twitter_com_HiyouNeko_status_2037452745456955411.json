@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "2037452745456955411",
+    "created_at": "2026-03-27T08:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T09:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037452745456955411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Oyama_Tsuimei/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Oyama_Tsuimei/status/2037431766294966457",
+          "start": 18,
+          "url": "https://t.co/TYdVI0y2nK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037452745456955411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037431766294966457",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我，给，你爸，一，几把，口交，一天 https://t.co/TYdVI0y2nK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "2037452745456955411",
+        "created_at": "2026-03-27T08:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037452745456955411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Oyama_Tsuimei/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Oyama_Tsuimei/status/2037431766294966457",
+              "start": 18,
+              "url": "https://t.co/TYdVI0y2nK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037452745456955411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037431766294966457",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我，给，你爸，一，几把，口交，一天 https://t.co/TYdVI0y2nK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759598042704207872",
+        "conversation_id": "2037431766294966457",
+        "created_at": "2026-03-27T07:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T08:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037431766294966457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oyama_tsuimei/…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/oyama_tsuimei/status/2037350284423536899",
+              "start": 148,
+              "url": "https://t.co/X8PyW68z7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037431766294966457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037350284423536899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1、第一个字最好用的就是“我”\n2、然后接一个“把”或者“给”\n3、后面跟对面亲属称呼，比如你妈，你爸，你爷，你奶\n4、然后跟一个数字，比如三\n5、然后跟一个工具，比如刀\n6、然后再接一个动词，比如砍\n7、最后再跟一个数字接量词\n8、中间可以加上各种形容词\n组合起来，你就得到了最纯粹的人身攻击 https://t.co/X8PyW68z7F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦od💊不割手❦永不满足的爱，和以此倍增的恨.❦可爱小猫 @herself32 ❦发情期再放送.....❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "˚₊‧꒰ა超绝可爱☆派对姬໒꒱‧₊˚",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037432060563042304/vuTeUo-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 1014,
+          "like_count": 9643,
+          "listed_count": 6,
+          "media_count": 787,
+          "tweet_count": 3584
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T15:17:38.000Z",
+        "description": "有象斯有对 对必反其为 有反斯有仇 仇必和而解\ni'bo ac'oac神教教主兼先知\n名字是坠明，物种未知，性别未知\n没有米线，不吃压力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsu1me1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsu1me1",
+                "start": 0,
+                "url": "https://t.co/AghfCSrRUi"
+              }
+            ]
+          }
+        },
+        "id": "1759598042704207872",
+        "location": "旅行者的苍白之心",
+        "name": "Tsu1me1,the Leviathan",
+        "pinned_tweet_id": "2037089987309818231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036032927172280320/YJ3zUoFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 1012,
+          "like_count": 1045,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 2867
+        },
+        "url": "https://t.co/AghfCSrRUi",
+        "username": "Oyama_Tsuimei",
+        "verified": false
+      }
+    ]
+  }
+}

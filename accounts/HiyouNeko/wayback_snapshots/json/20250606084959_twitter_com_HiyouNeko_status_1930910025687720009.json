@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1930910025687720009",
+    "created_at": "2025-06-06T08:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T09:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930910025687720009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "4229371640",
+          "start": 3,
+          "username": "ringochichidim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930910025687720009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930662161531166911",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ringochichidim: 試探路過的推友\n𐃆 ˒˒ ͏\n                         ͏ ╱|、\n                       (˚ˎ 。7\n                        |、˜ 〵…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1930910025687720009",
+        "created_at": "2025-06-06T08:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T09:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930910025687720009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "4229371640",
+              "start": 3,
+              "username": "ringochichidim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930910025687720009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930662161531166911",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ringochichidim: 試探路過的推友\n𐃆 ˒˒ ͏\n                         ͏ ╱|、\n                       (˚ˎ 。7\n                        |、˜ 〵…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4229371640",
+        "conversation_id": "1930662161531166911",
+        "created_at": "2025-06-05T16:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T17:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930662161531166911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930662161531166911",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4705,
+          "like_count": 204,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "試探路過的推友\n𐃆 ˒˒ ͏\n                         ͏ ╱|、\n                       (˚ˎ 。7\n                        |、˜ 〵\n                       じしˍ,)ノ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118,
+          "following_count": 996,
+          "like_count": 9127,
+          "listed_count": 6,
+          "media_count": 703,
+          "tweet_count": 3112
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-14T01:26:50.000Z",
+        "description": "奇奇，是個無情的抱抱機器。\n唯一綁定：@Littlecat111007",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "Littlecat111007"
+              }
+            ]
+          }
+        },
+        "id": "4229371640",
+        "location": "Latium",
+        "name": "窮奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723951782311952384/8ApLa6F9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 1417,
+          "like_count": 34058,
+          "listed_count": 6,
+          "media_count": 2977,
+          "tweet_count": 9374
+        },
+        "username": "ringochichidim",
+        "verified": false
+      }
+    ]
+  }
+}

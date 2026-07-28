@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1863874292695667090",
+    "created_at": "2024-12-03T09:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T10:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863874292695667090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "91797559",
+          "start": 3,
+          "username": "akyu1884"
+        },
+        {
+          "end": 20,
+          "id": "1243945571796295681",
+          "start": 14,
+          "username": "yqua_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863874292695667090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863854162783719435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akyu1884: @yqua_ 这是赛博星人在运输他们收集的banana"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1863874292695667090",
+        "created_at": "2024-12-03T09:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T10:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863874292695667090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "91797559",
+              "start": 3,
+              "username": "akyu1884"
+            },
+            {
+              "end": 20,
+              "id": "1243945571796295681",
+              "start": 14,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863874292695667090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863854162783719435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akyu1884: @yqua_ 这是赛博星人在运输他们收集的banana"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "91797559",
+        "conversation_id": "1863829015787684300",
+        "created_at": "2024-12-03T07:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T08:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863854162783719435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "yqua_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863854162783719435",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863829015787684300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqua_ 这是赛博星人在运输他们收集的banana"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ HRT22/08/29 ❦ 坐标宁波 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我的小孩且宝贝脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "一只希汐#θωθ",
+        "pinned_tweet_id": "1863191732785152301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 963,
+          "like_count": 7303,
+          "listed_count": 5,
+          "media_count": 544,
+          "tweet_count": 2165
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-22T14:21:21.000Z",
+        "description": "旧时代的遗民 魔剑使 ブレ×ブレ 東方 04年东方玩家 舰c已弃坑舰B偶尔玩 尘白禁区千年之旅锚点降临 lycee lyceeoverture ws 幻塔 电雌刃 كوممۇنىست 骑公路车的菜腿",
+        "id": "91797559",
+        "location": " 帝国自設審查機構 京口市 南徐州 帝国",
+        "name": "稗田阿求bxb@ھەممىمىز تومۇرداش قان-قېرىنداشمىز",
+        "pinned_tweet_id": "1821029442703245720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833557552619261953/_0yOfLF3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 484,
+          "like_count": 2619,
+          "listed_count": 2,
+          "media_count": 2221,
+          "tweet_count": 11327
+        },
+        "username": "akyu1884",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "断糖MtX🏳️‍⚧️🍥｜八进制怎么算｜Language：🇬🇧🇺🇸/CN/🇮🇩/🇯🇵｜Life：@4cyun｜日本語/Game：@ryq59",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 47,
+                "username": "4cyun"
+              },
+              {
+                "end": 69,
+                "start": 63,
+                "username": "ryq59"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.759.dk",
+                "end": 23,
+                "expanded_url": "http://link.759.dk",
+                "start": 0,
+                "url": "https://t.co/e7DkaTgiTR"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "天泰路",
+        "name": "铨🍥",
+        "pinned_tweet_id": "1863553708816261124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13674,
+          "following_count": 4212,
+          "like_count": 160594,
+          "listed_count": 60,
+          "media_count": 3757,
+          "tweet_count": 18694
+        },
+        "url": "https://t.co/e7DkaTgiTR",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

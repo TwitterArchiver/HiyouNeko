@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1853305193049268480",
+    "created_at": "2024-11-04T06:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T07:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853329241196421616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300342509239848961",
+          "start": 0,
+          "username": "DDDDMMM76255717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853329241196421616",
+    "in_reply_to_user_id": "1300342509239848961",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853305193049268480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDDDMMM76255717 我是已阅，表示关心或喜欢都表达在评论区里₍˄·͈༝·͈˄*₎◞ ̑̑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1853305193049268480",
+        "created_at": "2024-11-04T06:51:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T07:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853329241196421616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300342509239848961",
+              "start": 0,
+              "username": "DDDDMMM76255717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853329241196421616",
+        "in_reply_to_user_id": "1300342509239848961",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853305193049268480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDDDMMM76255717 我是已阅，表示关心或喜欢都表达在评论区里₍˄·͈༝·͈˄*₎◞ ̑̑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300342509239848961",
+        "conversation_id": "1853305193049268480",
+        "created_at": "2024-11-04T05:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T06:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853305193049268480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1853305193049268480",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人把点赞当字面意思“喜欢(Like)”使用，这样如果其它人发了伤心的事，ta们就不会点赞。但是点赞的图标小红心也可以认为是关心的意思，所以对伤心的事点赞似乎也可以当成关心。还有人把点赞当成已阅。我在推上主要当成喜欢使用，但是遇到想表达关心的情况就很无力了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "是水系魔法师，非常高冷而且🚪88，你们不许乱碰我的脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "Aria&希汐公主殿下～⛧🏳‍⚧",
+        "pinned_tweet_id": "1851532132579221544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 895,
+          "like_count": 6397,
+          "listed_count": 5,
+          "tweet_count": 1842
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-31T07:59:55.000Z",
+        "description": "不要因为我关注你而回关，因为我随时会取关，偶尔还拉黑。偶尔有黄色，不适建议取关，不必双取，因为没有拉黑取关的习惯。 思想上是激进女权，性癖上是极端女尊。女是最广义意义下的女。感觉自己处于性癖孤岛，所以想认识更多同好，女s攻男m受均可，欢迎私信骚扰，聊性癖聊其它都行~不过自己好像也没什么值得被聊的地方~",
+        "id": "1300342509239848961",
+        "name": "无情的点赞机器",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1355407675283054593/W3mWrz1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 325,
+          "like_count": 2680,
+          "listed_count": 0,
+          "tweet_count": 2503
+        },
+        "username": "DDDDMMM76255717",
+        "verified": false
+      }
+    ]
+  }
+}

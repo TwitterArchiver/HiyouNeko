@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1909057139458326635",
+    "created_at": "2025-04-07T08:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T09:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909163528709374453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587653801305153538",
+          "start": 0,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909163528709374453",
+    "in_reply_to_user_id": "1587653801305153538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909057139458326635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoHuiHuiH 这文采我这辈子都学不来"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 300105,
+        "height": 960,
+        "media_key": "7_1909056959308857344",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1909056959308857344/pu/img/PWYslHCAz0hXnxRv.jpg",
+        "public_metrics": {
+          "view_count": 271
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1909056959308857344/pu/vid/avc1/320x426/B8htmp6aLhgXSWxj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1909056959308857344/pu/vid/avc1/480x640/fyDlnjdhfyX9yeoI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1909056959308857344/pu/vid/avc1/720x960/LixXtZEYHqKnUFLX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1909056959308857344/pu/pl/wIUnwLSsHD6_ti5J.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 960,
+        "media_key": "3_1909056959845683202",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn5VMLuW0AIgN10.jpg",
+        "width": 720
+      },
+      {
+        "height": 960,
+        "media_key": "3_1909056960198053888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn5VMNCXkAA4wlq.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1909057139458326635",
+        "created_at": "2025-04-07T08:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T09:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909163528709374453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587653801305153538",
+              "start": 0,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909163528709374453",
+        "in_reply_to_user_id": "1587653801305153538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909057139458326635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoHuiHuiH 这文采我这辈子都学不来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1909056959308857344",
+            "3_1909056959845683202",
+            "3_1909056960198053888"
+          ]
+        },
+        "author_id": "1587653801305153538",
+        "conversation_id": "1909057139458326635",
+        "created_at": "2025-04-07T01:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T02:15:20.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909052337517175129",
+          "1909057139458326635"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 62,
+              "tag": "男娘肉便器"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "男娘母狗"
+            },
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "男娘雌堕"
+            },
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "男の娘"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "药娘"
+            },
+            {
+              "end": 96,
+              "start": 90,
+              "tag": "男娘rbq"
+            },
+            {
+              "end": 100,
+              "start": 97,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RkeEQ8UN1",
+              "end": 124,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1909057139458326635/video/1",
+              "media_key": "7_1909056959308857344",
+              "start": 101,
+              "url": "https://t.co/6RkeEQ8UN1"
+            },
+            {
+              "display_url": "pic.x.com/6RkeEQ8UN1",
+              "end": 124,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1909057139458326635/video/1",
+              "media_key": "3_1909056959845683202",
+              "start": 101,
+              "url": "https://t.co/6RkeEQ8UN1"
+            },
+            {
+              "display_url": "pic.x.com/6RkeEQ8UN1",
+              "end": 124,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1909057139458326635/video/1",
+              "media_key": "3_1909056960198053888",
+              "start": 101,
+              "url": "https://t.co/6RkeEQ8UN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909057139458326635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1102,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果哥哥你跟我打视频通话的话🥺，咱对你这样卖骚~😋，哥哥能忍住多久才射呢？😘\n射手机屏幕上的话🥵，就是相当于射了我一身哦🥰\n#男娘肉便器 #男娘母狗 #男娘雌堕 #男の娘 #药娘 #男娘rbq #男娘 https://t.co/6RkeEQ8UN1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是友跨顺难 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 967,
+          "like_count": 8548,
+          "listed_count": 6,
+          "media_count": 647,
+          "tweet_count": 2730
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西都在咱主页的“亮点”里哦😈\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🩷💜/含糖🍥2023.12.7/泛性恋🏳️‍🌈/21岁/可1可0可S可M🥵/单身没人要😭/加拿大留学🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/淫趴头子+滥交药攻/地雷嗑学家💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1907530233210863756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9770,
+          "following_count": 1104,
+          "like_count": 97897,
+          "listed_count": 21,
+          "media_count": 3481,
+          "tweet_count": 49032
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

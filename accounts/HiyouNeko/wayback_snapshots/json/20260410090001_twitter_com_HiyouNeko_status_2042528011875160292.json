@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042527993810350080"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "conversation_id": "2042528011875160292",
+    "created_at": "2026-04-10T09:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T10:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042528011875160292"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/msTvyJSdFE",
+          "end": 166,
+          "expanded_url": "https://x.com/HiyouNeko/status/2042528011875160292/photo/1",
+          "media_key": "3_2042527993810350080",
+          "start": 143,
+          "url": "https://t.co/msTvyJSdFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042528011875160292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "毕业上班之后周末从不出门所以不洗头只穿着睡衣。\n太穷了很少网购没有快递，要么忙起来忘记了之前买了自己喜欢的东西。\n0个人在意减肥无关紧要，并且我胃口小吃的很少长不胖。\n回家累趴了倒头就睡，或者鱼鱼蒸发作od完晕倒在床或者失眠怕第二天迟到通了一宵，次日狂炫咖啡因维持开机。\n\n生锈的齿轮 https://t.co/msTvyJSdFE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1213,
+        "media_key": "3_2042527993810350080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiEY3rbcAA8h82.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042527993810350080"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "conversation_id": "2042528011875160292",
+        "created_at": "2026-04-10T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042528011875160292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/msTvyJSdFE",
+              "end": 166,
+              "expanded_url": "https://x.com/HiyouNeko/status/2042528011875160292/photo/1",
+              "media_key": "3_2042527993810350080",
+              "start": 143,
+              "url": "https://t.co/msTvyJSdFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042528011875160292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毕业上班之后周末从不出门所以不洗头只穿着睡衣。\n太穷了很少网购没有快递，要么忙起来忘记了之前买了自己喜欢的东西。\n0个人在意减肥无关紧要，并且我胃口小吃的很少长不胖。\n回家累趴了倒头就睡，或者鱼鱼蒸发作od完晕倒在床或者失眠怕第二天迟到通了一宵，次日狂炫咖啡因维持开机。\n\n生锈的齿轮 https://t.co/msTvyJSdFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦od💊不割手❦永不满足的爱，和以此倍增的恨.❦可爱小猫 @herself32 ❦警告🚫郁期勿扰.....❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "˚₊‧꒰ა超絕可愛☆派對姬໒꒱‧₊˚",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039989141258285056/QqoUIn1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 1049,
+          "like_count": 9778,
+          "listed_count": 6,
+          "media_count": 819,
+          "tweet_count": 3683
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

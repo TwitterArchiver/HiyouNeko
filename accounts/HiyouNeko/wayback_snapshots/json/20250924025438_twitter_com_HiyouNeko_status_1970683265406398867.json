@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970683245969936384"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1970550943755460952",
+    "created_at": "2025-09-24T02:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T03:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970683265406398867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1504429360987930624",
+          "start": 0,
+          "username": "bmiaomiaoss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4erz3aOv0Q",
+          "end": 59,
+          "expanded_url": "https://x.com/HiyouNeko/status/1970683265406398867/photo/1",
+          "media_key": "3_1970683245969936384",
+          "start": 36,
+          "url": "https://t.co/4erz3aOv0Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970683265406398867",
+    "in_reply_to_user_id": "1504429360987930624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970651768221769970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bmiaomiaoss 因为远征19给玩家整出了一堆奇奇怪怪的护卫舰 https://t.co/4erz3aOv0Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970683245969936384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1lF-JjaEAAIkvl.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970683245969936384"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1970550943755460952",
+        "created_at": "2025-09-24T02:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T03:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970683265406398867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1504429360987930624",
+              "start": 0,
+              "username": "bmiaomiaoss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4erz3aOv0Q",
+              "end": 59,
+              "expanded_url": "https://x.com/HiyouNeko/status/1970683265406398867/photo/1",
+              "media_key": "3_1970683245969936384",
+              "start": 36,
+              "url": "https://t.co/4erz3aOv0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970683265406398867",
+        "in_reply_to_user_id": "1504429360987930624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970651768221769970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bmiaomiaoss 因为远征19给玩家整出了一堆奇奇怪怪的护卫舰 https://t.co/4erz3aOv0Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504429360987930624",
+        "conversation_id": "1970550943755460952",
+        "created_at": "2025-09-24T00:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T01:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970651768221769970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970651768221769970",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970550943755460952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 怎么这个游戏又被翻出来了🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 981,
+          "like_count": 9182,
+          "listed_count": 7,
+          "media_count": 722,
+          "tweet_count": 3240
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T12:08:14.000Z",
+        "description": "时隔x年回归，信我是秦始皇v我50 封你做大将军",
+        "id": "1504429360987930624",
+        "location": "Macau",
+        "name": "落落五号机",
+        "pinned_tweet_id": "1968680678699991108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504429826241101824/02-Cvrui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 170,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "username": "bmiaomiaoss",
+        "verified": false
+      }
+    ]
+  }
+}

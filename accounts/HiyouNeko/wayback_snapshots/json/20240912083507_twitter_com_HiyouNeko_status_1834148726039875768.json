@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1834142848230330566",
+    "created_at": "2024-09-12T08:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T09:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834148726039875768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1720356797758763008",
+          "start": 0,
+          "username": "shenlebanyueyin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834148726039875768",
+    "in_reply_to_user_id": "1720356797758763008",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834142848230330566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shenlebanyueyin 多睡美容觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1834142848230330566",
+        "created_at": "2024-09-12T08:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T09:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834148726039875768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1720356797758763008",
+              "start": 0,
+              "username": "shenlebanyueyin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834148726039875768",
+        "in_reply_to_user_id": "1720356797758763008",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834142848230330566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shenlebanyueyin 多睡美容觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720356797758763008",
+        "conversation_id": "1834142848230330566",
+        "created_at": "2024-09-12T08:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T09:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834142848230330566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834142848230330566",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "果然睡多了皮肤会变好诶\n或许和我2天喝了3瓶水溶c有关🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格 ❦  永劫无间 ❦ 无畏契约 ❦ 游戏王md ❦ 打游戏速速dd ❦ 半截入土 ❦ 坐标 宁波 ❦ 🚪50 ❦",
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1815,
+          "following_count": 953,
+          "like_count": 5618,
+          "listed_count": 7,
+          "tweet_count": 1530
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T08:27:22.000Z",
+        "description": "厌食症治疗勉强？焦虑发作进行时/永远18岁/🚪80/亲亲抱抱贴贴涩涩/maimai/phigros/糖糖3年/hrt/日本語/繁體中文/简体中文/English/CPA/ACCA",
+        "id": "1720356797758763008",
+        "name": "抹茶不是小蛋糕🍥🍓🍣🍔",
+        "pinned_tweet_id": "1825705565169004850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815341128947826688/7swH5T5F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 1578,
+          "like_count": 7290,
+          "listed_count": 2,
+          "tweet_count": 4759
+        },
+        "username": "shenlebanyueyin",
+        "verified": false
+      }
+    ]
+  }
+}

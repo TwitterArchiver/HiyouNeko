@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1888790268155171284",
+    "created_at": "2025-02-10T08:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T09:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888873802295357461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1762120281626415104",
+          "start": 0,
+          "username": "X_jvzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888873802295357461",
+    "in_reply_to_user_id": "1762120281626415104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888836482313683363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X_jvzhi 是呢，年假连通宵15天顶不住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1888790268155171284",
+        "created_at": "2025-02-10T08:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T09:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888873802295357461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1762120281626415104",
+              "start": 0,
+              "username": "X_jvzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888873802295357461",
+        "in_reply_to_user_id": "1762120281626415104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888836482313683363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X_jvzhi 是呢，年假连通宵15天顶不住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762120281626415104",
+        "conversation_id": "1888790268155171284",
+        "created_at": "2025-02-10T06:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T07:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888836482313683363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888836482313683363",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888790268155171284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 好耶，回来啦(´▽｀)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法师 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1876180576878899482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877247691027263488/PyTo1_2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 960,
+          "like_count": 8148,
+          "listed_count": 6,
+          "media_count": 626,
+          "tweet_count": 2488
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T14:19:56.000Z",
+        "description": "好耶～放飞自我啦～",
+        "id": "1762120281626415104",
+        "name": "橘枳",
+        "pinned_tweet_id": "1886692793537433697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872202164141178880/U1rrhR63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 97,
+          "like_count": 18389,
+          "listed_count": 8,
+          "media_count": 148,
+          "tweet_count": 6772
+        },
+        "username": "X_jvzhi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1922858319493947633",
+    "created_at": "2025-05-15T05:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T06:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922890515298570310"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1922890515298570310",
+    "in_reply_to_user_id": "1528928909734973440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922858319493947633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "起因是玩狼人杀预言家警下预贴脸，于是有：\n\n“大家都是这样的，你这把被贴脸输了，下把我们也要被贴脸而输掉分，所以这是公平的”\n\n他拿一个本来就不合理的事情去为他违反游戏规则狡辩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1922858319493947633",
+        "created_at": "2025-05-15T05:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T06:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922890515298570310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922890515298570310",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922858319493947633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "起因是玩狼人杀预言家警下预贴脸，于是有：\n\n“大家都是这样的，你这把被贴脸输了，下把我们也要被贴脸而输掉分，所以这是公平的”\n\n他拿一个本来就不合理的事情去为他违反游戏规则狡辩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1922858319493947633",
+        "created_at": "2025-05-15T03:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T04:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922858319493947633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922858319493947633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我听到了什么扯淡发言？他说：\n\n“重男轻女，分家产只分给男的不分给女的看似不公平实际是公平的，因为你老公那里也是这样的。”\n\n什么傻逼玩意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 果然是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登（当心给你下降头） ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 123,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1922832818012340691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2102,
+          "following_count": 981,
+          "like_count": 8953,
+          "listed_count": 6,
+          "media_count": 681,
+          "tweet_count": 2985
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

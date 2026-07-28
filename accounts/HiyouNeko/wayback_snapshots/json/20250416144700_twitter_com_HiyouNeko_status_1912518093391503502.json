@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1912440866112967027",
+    "created_at": "2025-04-16T14:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T15:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912518093391503502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1499063886015725569",
+          "start": 0,
+          "username": "qingyou52867427"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912518093391503502",
+    "in_reply_to_user_id": "1499063886015725569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912487668308697114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingyou52867427 其实目的不仅仅是脱毛，更想尝试根除毛囊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1912440866112967027",
+        "created_at": "2025-04-16T14:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T15:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912518093391503502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1499063886015725569",
+              "start": 0,
+              "username": "qingyou52867427"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912518093391503502",
+        "in_reply_to_user_id": "1499063886015725569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912487668308697114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingyou52867427 其实目的不仅仅是脱毛，更想尝试根除毛囊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499063886015725569",
+        "conversation_id": "1912440866112967027",
+        "created_at": "2025-04-16T12:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T13:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912487668308697114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912487668308697114",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912440866112967027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 那你是个狠人👍，不如修眉刀和脱毛仪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 985,
+          "like_count": 8680,
+          "listed_count": 6,
+          "media_count": 655,
+          "tweet_count": 2814
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-02T16:47:45.000Z",
+        "description": "社交废物",
+        "id": "1499063886015725569",
+        "location": "幻想边缘",
+        "name": "清幽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510712243016589320/--B4-NE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 176,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 205
+        },
+        "username": "qingyou52867427",
+        "verified": false
+      }
+    ]
+  }
+}

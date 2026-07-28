@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1831978151838154752"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "conversation_id": "1831965974427529407",
+    "created_at": "2024-09-06T08:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T09:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831978161971863746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1697903165570686976",
+          "start": 0,
+          "username": "kikoxts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pqzumb7j58",
+          "end": 32,
+          "expanded_url": "https://twitter.com/HiyouNeko/status/1831978161971863746/photo/1",
+          "media_key": "3_1831978151838154752",
+          "start": 9,
+          "url": "https://t.co/PQzUMB7j58"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831978161971863746",
+    "in_reply_to_user_id": "1697903165570686976",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831965974427529407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kikoxts https://t.co/PQzUMB7j58"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_1831978151838154752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWx-bECXAAAF_9J.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831978151838154752"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "conversation_id": "1831965974427529407",
+        "created_at": "2024-09-06T08:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T09:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831978161971863746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1697903165570686976",
+              "start": 0,
+              "username": "kikoxts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pqzumb7j58",
+              "end": 32,
+              "expanded_url": "https://twitter.com/HiyouNeko/status/1831978161971863746/photo/1",
+              "media_key": "3_1831978151838154752",
+              "start": 9,
+              "url": "https://t.co/PQzUMB7j58"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831978161971863746",
+        "in_reply_to_user_id": "1697903165570686976",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831965974427529407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikoxts https://t.co/PQzUMB7j58"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697903165570686976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357506193879486469",
+              "name": "Python"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1831965974427529407",
+        "created_at": "2024-09-06T08:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T09:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831965974427529407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1831965974427529407",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家有什麼比較好的Python教程嗎（有C語言的基礎，了解一點Java和C#）？不想聽課了，老師講的........只能說就是把PPT讀了一遍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格 ❦  永劫无间 ❦ 无畏契约 ❦ 游戏王md ❦ 打游戏速速dd ❦ 半截入土 ❦ 坐标 宁波 ❦ 🚪50 ❦",
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "希汐是水系魔法师🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795034500881412096/5-HjWywU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 942,
+          "like_count": 5547,
+          "listed_count": 7,
+          "tweet_count": 1499
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T09:24:11.000Z",
+        "description": "MTF/家长党（不管）党？/正在努力变pass/想要陪伴@Kietter387803一生/可愛的妹妹@Jin_Ge233和@nai_miao42598和@Ranxi_Mtf/在意的人@QuarkLine/愿你梦时无有悲伤，祝你醒时梦皆如愿/咱是女孩子，再问咱真的会咬你的（超凶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Kietter387803"
+              },
+              {
+                "end": 60,
+                "start": 50,
+                "username": "Jin_Ge233"
+              },
+              {
+                "end": 75,
+                "start": 61,
+                "username": "nai_miao42598"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "Ranxi_Mtf"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "username": "QuarkLine"
+              }
+            ]
+          }
+        },
+        "id": "1697903165570686976",
+        "location": "随机刷新在你身边",
+        "name": "是kiko哦~🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805906602203258880/1_XW1ZyT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 509,
+          "like_count": 1617,
+          "listed_count": 1,
+          "tweet_count": 1211
+        },
+        "username": "kikoxts",
+        "verified": false
+      }
+    ]
+  }
+}

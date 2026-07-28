@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1833794990532919510",
+    "created_at": "2024-09-11T09:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T10:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1833794990532919510"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TianqiChen666/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/TianqiChen666/status/1833426079165649151",
+          "start": 7,
+          "url": "https://t.co/unF8HXa9OW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833794990532919510",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833426079165649151",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已入土... https://t.co/unF8HXa9OW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1833794990532919510",
+        "created_at": "2024-09-11T09:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T10:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833794990532919510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TianqiChen666/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/TianqiChen666/status/1833426079165649151",
+              "start": 7,
+              "url": "https://t.co/unF8HXa9OW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833794990532919510",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833426079165649151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已入土... https://t.co/unF8HXa9OW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833426071615901696"
+          ]
+        },
+        "author_id": "1566815552777383936",
+        "conversation_id": "1833426079165649151",
+        "created_at": "2024-09-10T08:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T09:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833426079165649151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pywyqpxbkj",
+              "end": 36,
+              "expanded_url": "https://twitter.com/TianqiChen666/status/1833426079165649151/photo/1",
+              "media_key": "3_1833426071615901696",
+              "start": 13,
+              "url": "https://t.co/PYwYQPxBKJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833426079165649151",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 49931,
+          "like_count": 1234,
+          "quote_count": 7,
+          "reply_count": 102,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "看过这个的应该都长大了吧 https://t.co/PYwYQPxBKJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格 ❦  永劫无间 ❦ 无畏契约 ❦ 游戏王md ❦ 打游戏速速dd ❦ 半截入土 ❦ 坐标 宁波 ❦ 🚪50 ❦",
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 948,
+          "like_count": 5590,
+          "listed_count": 7,
+          "tweet_count": 1520
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T15:48:41.000Z",
+        "description": "大学生、06、🚹、中国人です🇨🇳、いま成都に住んでいる、自国を愛する。もちろん、みんなと仲良くしたい\n|日常|絡み重視|変な垢以外フォロバ💯|アニメ|ゲーム|kig初心者|里：@menma_sub|\n興味：#原神、#アークナイツ、#ブルアカ、#ボカロ、#着ぐるみ\n｜私は日本語を自分で勉強しています｜\n匿名質問↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "原神"
+              },
+              {
+                "end": 114,
+                "start": 107,
+                "tag": "アークナイツ"
+              },
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "ボカロ"
+              },
+              {
+                "end": 131,
+                "start": 126,
+                "tag": "着ぐるみ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "menma_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/TianqiChen6665…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/TianqiChen66655157",
+                "start": 0,
+                "url": "https://t.co/fCSPq9Gws0"
+              }
+            ]
+          }
+        },
+        "id": "1566815552777383936",
+        "location": "Sichuan",
+        "name": "めんま",
+        "pinned_tweet_id": "1674739627121606656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651955050032533504/SPAFB7jU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3322,
+          "following_count": 3221,
+          "like_count": 35003,
+          "listed_count": 11,
+          "tweet_count": 8012
+        },
+        "url": "https://t.co/fCSPq9Gws0",
+        "username": "TianqiChen666",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1881914504273121328",
+    "created_at": "2025-01-22T05:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T06:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881932745200546287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1766025755161772032",
+          "start": 0,
+          "username": "HoshinoKai6465"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881932745200546287",
+    "in_reply_to_user_id": "1766025755161772032",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881914504273121328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoshinoKai6465 ！！！amazing"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1881914504273121328",
+        "created_at": "2025-01-22T05:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T06:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881932745200546287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1766025755161772032",
+              "start": 0,
+              "username": "HoshinoKai6465"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881932745200546287",
+        "in_reply_to_user_id": "1766025755161772032",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881914504273121328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoshinoKai6465 ！！！amazing"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766025755161772032",
+        "conversation_id": "1881914504273121328",
+        "created_at": "2025-01-22T03:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T04:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881914504273121328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881914504273121328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有群星打了，以后不乱搞了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法师 ❦ 这个世上没有比假花更美的花 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1876180576878899482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877247691027263488/PyTo1_2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 965,
+          "like_count": 8170,
+          "listed_count": 6,
+          "media_count": 623,
+          "tweet_count": 2465
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T08:58:57.000Z",
+        "description": "前次元斩大排档/打猎/ygo/防火龙/不鉴证/绝情道/避世/都哥们叫我回天就行",
+        "id": "1766025755161772032",
+        "location": "如果你想要，你得自己来拿，但规矩你懂的",
+        "name": "真夜迴",
+        "pinned_tweet_id": "1880438001077240184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881144126046896128/Lwe_LS4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 1391,
+          "like_count": 16304,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 3105
+        },
+        "username": "HoshinoKai6465",
+        "verified": false
+      }
+    ]
+  }
+}

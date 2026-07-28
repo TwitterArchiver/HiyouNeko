@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1876488907355025408"
+      ],
+      "media_source_tweet_id": [
+        "1876488937272926240"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "conversation_id": "1876557367862772048",
+    "created_at": "2025-01-07T09:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T10:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876557367862772048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1636032119209365504",
+          "start": 3,
+          "username": "zixuanmiao"
+        },
+        {
+          "end": 30,
+          "id": "778797401196736513",
+          "start": 19,
+          "username": "jiuxingmao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Nb8VZWpna",
+          "end": 99,
+          "expanded_url": "https://x.com/zixuanmiao/status/1876488937272926240/video/1",
+          "media_key": "7_1876488907355025408",
+          "start": 76,
+          "url": "https://t.co/2Nb8VZWpna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876557367862772048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876488937272926240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zixuanmiao: 小馋猫@jiuxingmao，趴在我腿上一起刷视频，还要偷偷舔两口。舌头小小的软软的，真可爱(๑&gt;؂&lt;๑） https://t.co/2Nb8VZWpna"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1876557367862772048].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1876557367862772048",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1876557367862772048"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15301,
+        "height": 1280,
+        "media_key": "7_1876488907355025408",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1876488907355025408/pu/img/QOva7D_UZTsZEf-t.jpg",
+        "public_metrics": {
+          "view_count": 6057
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1876488907355025408/pu/vid/avc1/320x568/QVSxjIB5aDN2_pnS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1876488907355025408/pu/vid/avc1/480x852/z721iBSNzWkKePoJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1876488907355025408/pu/vid/avc1/720x1280/7cxs3Zp5CCGfIsfI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1876488907355025408/pu/pl/Tmdtoz5JlAFTqQkv.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1876488907355025408"
+          ]
+        },
+        "author_id": "1636032119209365504",
+        "conversation_id": "1876488937272926240",
+        "created_at": "2025-01-07T04:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T05:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876488937272926240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "778797401196736513",
+              "start": 3,
+              "username": "jiuxingmao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Nb8VZWpna",
+              "end": 83,
+              "expanded_url": "https://x.com/zixuanmiao/status/1876488937272926240/video/1",
+              "media_key": "7_1876488907355025408",
+              "start": 60,
+              "url": "https://t.co/2Nb8VZWpna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876488937272926240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 15610,
+          "like_count": 795,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "小馋猫@jiuxingmao，趴在我腿上一起刷视频，还要偷偷舔两口。舌头小小的软软的，真可爱(๑&gt;؂&lt;๑） https://t.co/2Nb8VZWpna"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "这个世上没有比假花更美的花 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1876180576878899482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2017,
+          "following_count": 994,
+          "like_count": 7805,
+          "listed_count": 6,
+          "media_count": 595,
+          "tweet_count": 2340
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-15T15:50:37.000Z",
+        "description": "原账号@ciduozixuanmiao，被盗哩，已经不是本人了，大家注意一下，不要被骗了\n165/52 可爱的孩子都来让我抱抱ヽ(｡･ω･｡)ﾉ\n老婆@Muz7ovo\n门槛88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "ciduozixuanmiao"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "Muz7ovo"
+              }
+            ]
+          }
+        },
+        "id": "1636032119209365504",
+        "location": "0531",
+        "name": "梓璇喵",
+        "pinned_tweet_id": "1874809952424124924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872816899127648256/nkkZae_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11152,
+          "following_count": 72,
+          "like_count": 152,
+          "listed_count": 59,
+          "media_count": 13,
+          "tweet_count": 43
+        },
+        "username": "zixuanmiao",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-22T03:25:44.000Z",
+        "description": "置顶链接是推广，有问题私信。  166.5/110 南京  口令100 加V或者Q \n@xbaiyang07",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "xbaiyang07"
+              }
+            ]
+          }
+        },
+        "id": "778797401196736513",
+        "name": "小白杨",
+        "pinned_tweet_id": "1865734159756566940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802204297062686720/ZdKRnH2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70639,
+          "following_count": 580,
+          "like_count": 1941,
+          "listed_count": 340,
+          "media_count": 131,
+          "tweet_count": 910
+        },
+        "username": "jiuxingmao",
+        "verified": false
+      }
+    ]
+  }
+}

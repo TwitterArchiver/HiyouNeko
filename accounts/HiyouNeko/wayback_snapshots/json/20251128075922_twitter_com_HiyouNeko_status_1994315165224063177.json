@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1993961455314718883",
+    "created_at": "2025-11-28T07:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T08:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994315165224063177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1090988661733113856",
+          "start": 0,
+          "username": "DoraDaemon1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994315165224063177",
+    "in_reply_to_user_id": "1090988661733113856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993961455314718883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoraDaemon1 挺好的。他发明了动能回收"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 619,
+        "media_key": "3_1993961440282312704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6v5XY_agAAQ9hj.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1993961455314718883",
+        "created_at": "2025-11-28T07:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T08:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994315165224063177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1090988661733113856",
+              "start": 0,
+              "username": "DoraDaemon1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994315165224063177",
+        "in_reply_to_user_id": "1090988661733113856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993961455314718883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoraDaemon1 挺好的。他发明了动能回收"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993961440282312704"
+          ]
+        },
+        "author_id": "1090988661733113856",
+        "conversation_id": "1993961455314718883",
+        "created_at": "2025-11-27T08:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993961455314718883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mC0bZePy7s",
+              "end": 143,
+              "expanded_url": "https://x.com/DoraDaemon1/status/1993961455314718883/photo/1",
+              "media_key": "3_1993961440282312704",
+              "start": 120,
+              "url": "https://t.co/mC0bZePy7s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993961455314718883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 47133,
+          "like_count": 145,
+          "quote_count": 7,
+          "reply_count": 57,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "11月27日，某博主发布视频：一电动车车主在车顶安装4台风力发电机，行车时利用气流发电并接入充电口，实现“边跑边充”。网友质疑此举违背能量守恒，认为发电收益远不抵阻力带来的额外电耗，且属非法改装。交管部门此前已查处类似改装行为并予以处罚. https://t.co/mC0bZePy7s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "阳痿丨风湿丨前列腺炎丨腰间盘突出。逐渐沦为三坏xyn。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片（今日推荐：爆弹鱼）🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 1037,
+          "like_count": 9522,
+          "listed_count": 7,
+          "media_count": 751,
+          "tweet_count": 3429
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-31T15:02:21.000Z",
+        "description": "G+难民/花草植物/游记/IT技术；",
+        "id": "1090988661733113856",
+        "location": "Earth",
+        "name": "𝐃ora𝐃aemon",
+        "pinned_tweet_id": "1118869795829501952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1090990788001951745/G6bCRlQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11566,
+          "following_count": 2346,
+          "like_count": 118315,
+          "listed_count": 75,
+          "media_count": 21513,
+          "tweet_count": 76826
+        },
+        "username": "DoraDaemon1",
+        "verified": false
+      }
+    ]
+  }
+}

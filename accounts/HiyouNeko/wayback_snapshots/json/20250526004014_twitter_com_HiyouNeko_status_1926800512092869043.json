@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1926800512092869043",
+    "created_at": "2025-05-26T00:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T01:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926800512092869043"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kiara939217/st…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Kiara939217/status/1926670251757871484",
+          "start": 19,
+          "url": "https://t.co/wtAkc0Wn9Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926800512092869043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926670251757871484",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孩子甜美可人，价格实惠家人们抓紧下单 https://t.co/wtAkc0Wn9Y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1926800512092869043",
+        "created_at": "2025-05-26T00:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T01:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926800512092869043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kiara939217/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Kiara939217/status/1926670251757871484",
+              "start": 19,
+              "url": "https://t.co/wtAkc0Wn9Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926800512092869043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926670251757871484",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子甜美可人，价格实惠家人们抓紧下单 https://t.co/wtAkc0Wn9Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766025755161772032",
+        "conversation_id": "1926670251757871484",
+        "created_at": "2025-05-25T16:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T17:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926670251757871484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926670251757871484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1739,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备开始接线下圆角了\n目前打算是600一次1000一晚\n过🚪20详谈\n有人可以给我出出主意吗，可以陪你一晚哦ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 汉尼拔宁波分拔»»我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 只要你也玩暗区突围你就是我脑婆ww ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1922832818012340691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2107,
+          "following_count": 989,
+          "like_count": 9046,
+          "listed_count": 6,
+          "media_count": 686,
+          "tweet_count": 3041
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T08:58:57.000Z",
+        "description": "前次元斩大排档/打猎/ygo/kisskill/不鉴证/绝情道\n可以牺牲，但不能被牺牲\n被绑架你就眨眨眼",
+        "id": "1766025755161772032",
+        "location": "如果你想要，你得自己来拿，但规矩你懂的",
+        "name": "真夜迴-神楽坂扩张",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920505185467551744/5GlV5gFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 1476,
+          "like_count": 18697,
+          "listed_count": 0,
+          "media_count": 461,
+          "tweet_count": 4095
+        },
+        "username": "Kiara939217",
+        "verified": false
+      }
+    ]
+  }
+}

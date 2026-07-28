@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1889862202007724255",
+    "created_at": "2025-02-14T01:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T02:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890214942785303001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1011861281387655169",
+          "start": 0,
+          "username": "nxssvk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890214942785303001",
+    "in_reply_to_user_id": "1011861281387655169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890000571010335218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nxssvk 好耶～贴贴～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1889862202007724255",
+        "created_at": "2025-02-14T01:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T02:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890214942785303001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1011861281387655169",
+              "start": 0,
+              "username": "nxssvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890214942785303001",
+        "in_reply_to_user_id": "1011861281387655169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890000571010335218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nxssvk 好耶～贴贴～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1011861281387655169",
+        "conversation_id": "1889862202007724255",
+        "created_at": "2025-02-13T11:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T12:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890000571010335218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890000571010335218",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889862202007724255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 好耶，贴贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法师 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1876180576878899482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877247691027263488/PyTo1_2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 961,
+          "like_count": 8170,
+          "listed_count": 6,
+          "media_count": 627,
+          "tweet_count": 2501
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-27T06:38:23.000Z",
+        "description": "私は暗黒の主です\n我永远喜欢橘吸食香\n修行中",
+        "id": "1011861281387655169",
+        "location": "楼顶",
+        "name": "无糖",
+        "pinned_tweet_id": "1874817823773737252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888284182780182528/K1YH5imz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 1154,
+          "like_count": 29489,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 2936
+        },
+        "username": "nxssvk",
+        "verified": false
+      }
+    ]
+  }
+}

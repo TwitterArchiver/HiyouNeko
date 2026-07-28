@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1794990685793489186",
+    "created_at": "2024-05-27T08:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T09:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795002481388507176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1465701247021838341",
+          "start": 0,
+          "username": "show5560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795002481388507176",
+    "in_reply_to_user_id": "1465701247021838341",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794990685793489186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@show5560 戳戳_(:з」∠)_"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1794990685793489186",
+        "created_at": "2024-05-27T08:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T09:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795002481388507176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795002481388507176",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794990685793489186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 戳戳_(:з」∠)_"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794990683264311296"
+          ]
+        },
+        "author_id": "1465701247021838341",
+        "conversation_id": "1794990685793489186",
+        "created_at": "2024-05-27T07:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T08:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794990685793489186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/qRwZ93eboU",
+              "end": 37,
+              "expanded_url": "https://twitter.com/show5560/status/1794990685793489186/photo/1",
+              "media_key": "3_1794990683264311296",
+              "start": 14,
+              "url": "https://t.co/qRwZ93eboU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794990685793489186",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想有人能陪我玩，呜呜呜呜 https://t.co/qRwZ93eboU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦-希月涟漪赋予汐-❦降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格❦是香香软软的友跨顺男捏❦全世界最闪耀的蝎蝎 @XIEXIEkawaii ❦🚪100",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "XIEXIEkawaii"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "AAA希汐是水系魔法师👀",
+        "pinned_tweet_id": "1793882386452898295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794192527870013440/Q6s20Es1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1798,
+          "following_count": 907,
+          "like_count": 5153,
+          "listed_count": 9,
+          "tweet_count": 1376
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "△ 电子猫咪 △想当魔法师的mtx△慢慢变得好看△想要一直放松开心下去△ 当前形态-猫咪正太 ◁开始了发癫日常△  长时间穷 △  🚪 50",
+        "id": "1465701247021838341",
+        "location": "迷茫前行",
+        "name": "暮はい電子猫ちゃん",
+        "pinned_tweet_id": "1787899435562975631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794786472517877761/qvmfPoe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 1119,
+          "like_count": 23690,
+          "listed_count": 3,
+          "tweet_count": 4960
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

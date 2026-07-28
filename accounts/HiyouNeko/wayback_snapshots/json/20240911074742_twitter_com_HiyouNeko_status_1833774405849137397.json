@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1833774404632969216"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "conversation_id": "1833774405849137397",
+    "created_at": "2024-09-11T07:47:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T08:47:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833774405849137397"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1833774405849137397",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "公司15号发工资，但是15号中秋节放假，有人说会提前发我不信你们觉得呢？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2024-09-12T07:47:42.000Z",
+        "id": "1833774404632969216",
+        "options": [
+          {
+            "label": "会提前发",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "不可能！绝对不可能！",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "不知道，看结果",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1833774404632969216"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "conversation_id": "1833774405849137397",
+        "created_at": "2024-09-11T07:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T08:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833774405849137397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1833774405849137397",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "公司15号发工资，但是15号中秋节放假，有人说会提前发我不信你们觉得呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格 ❦  永劫无间 ❦ 无畏契约 ❦ 游戏王md ❦ 打游戏速速dd ❦ 半截入土 ❦ 坐标 宁波 ❦ 🚪50 ❦",
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 948,
+          "like_count": 5583,
+          "listed_count": 7,
+          "tweet_count": 1518
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

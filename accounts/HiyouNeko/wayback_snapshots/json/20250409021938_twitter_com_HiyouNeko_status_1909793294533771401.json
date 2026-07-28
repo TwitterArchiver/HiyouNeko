@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1909793293271281664"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "conversation_id": "1909793294533771401",
+    "created_at": "2025-04-09T02:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T03:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909793294533771401"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1909793294533771401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没读过书的我问问知识渊博的大家，现在是春季还是夏季？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2025-04-10T02:19:38.000Z",
+        "id": "1909793293271281664",
+        "options": [
+          {
+            "label": "春季",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "夏季",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "钝角",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "原神",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1909793293271281664"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "conversation_id": "1909793294533771401",
+        "created_at": "2025-04-09T02:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T03:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909793294533771401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909793294533771401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没读过书的我问问知识渊博的大家，现在是春季还是夏季？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是友跨顺难 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 971,
+          "like_count": 8573,
+          "listed_count": 6,
+          "media_count": 650,
+          "tweet_count": 2745
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

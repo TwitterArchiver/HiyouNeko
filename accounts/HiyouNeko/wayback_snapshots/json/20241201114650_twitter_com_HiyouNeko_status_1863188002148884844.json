@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1863184552547750395",
+    "created_at": "2024-12-01T11:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T12:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863188002148884844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        },
+        {
+          "end": 27,
+          "id": "1794154221194932224",
+          "start": 14,
+          "username": "NagiVictoria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863188002148884844",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863184552547750395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ @NagiVictoria 你给他们提供了一个不错的思路"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1863184552547750395",
+        "created_at": "2024-12-01T11:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T12:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863188002148884844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            },
+            {
+              "end": 27,
+              "id": "1794154221194932224",
+              "start": 14,
+              "username": "NagiVictoria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863188002148884844",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863184552547750395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ @NagiVictoria 你给他们提供了一个不错的思路"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863184538295279617"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "1863184552547750395",
+        "created_at": "2024-12-01T11:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T12:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863184552547750395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "NagiVictoria"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6COYXdqmNZ",
+              "end": 55,
+              "expanded_url": "https://x.com/huahuojiang_/status/1863184552547750395/photo/1",
+              "media_key": "3_1863184538295279617",
+              "start": 32,
+              "url": "https://t.co/6COYXdqmNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863184552547750395",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@NagiVictoria 说过不会变就不会变，除非被人盗号了 https://t.co/6COYXdqmNZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ HRT22/08/29 ❦ 坐标宁波 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我的小孩且宝贝脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "一只希汐#θωθ",
+        "pinned_tweet_id": "1858814345456873777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 946,
+          "like_count": 7135,
+          "listed_count": 5,
+          "media_count": 531,
+          "tweet_count": 2107
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@Marionette_Sa｜换一个提问箱：https://t.co/LtoB1mloS1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "Marionette_Sa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang/",
+                "end": 58,
+                "expanded_url": "https://ngl.link/huahuojiang/",
+                "start": 35,
+                "url": "https://t.co/LtoB1mloS1"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1861755790669005311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770720359312240640/qCqdMpdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3575,
+          "following_count": 3010,
+          "like_count": 48162,
+          "listed_count": 8,
+          "media_count": 1850,
+          "tweet_count": 34433
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "宝宝你是一条Victoria Line🥺 厦门人 英(日)文名是Nagi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExTBHF"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "Victoria line",
+        "name": "维多利亚线🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1851827913668067351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859930806539390976/GY-HEnGl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 522,
+          "like_count": 7254,
+          "listed_count": 3,
+          "media_count": 925,
+          "tweet_count": 7263
+        },
+        "url": "https://t.co/xPejExTBHF",
+        "username": "NagiVictoria",
+        "verified": false
+      }
+    ]
+  }
+}

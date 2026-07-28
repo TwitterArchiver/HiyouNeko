@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1877271320318083448",
+    "created_at": "2025-01-09T08:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T09:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1877271320318083448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Cldeop/status/1876977386807349448",
+          "start": 12,
+          "url": "https://t.co/9dXCJMnrSY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877271320318083448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876977386807349448",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们wmc也不取对象吗 https://t.co/9dXCJMnrSY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1877271320318083448",
+        "created_at": "2025-01-09T08:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T09:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877271320318083448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Cldeop/status/1876977386807349448",
+              "start": 12,
+              "url": "https://t.co/9dXCJMnrSY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877271320318083448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876977386807349448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们wmc也不取对象吗 https://t.co/9dXCJMnrSY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876977378389622784",
+            "3_1876977378381205505"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1876977386807349448",
+        "created_at": "2025-01-08T13:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T14:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876977386807349448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uj5USvh90D",
+              "end": 42,
+              "expanded_url": "https://x.com/Cldeop/status/1876977386807349448/photo/1",
+              "media_key": "3_1876977378389622784",
+              "start": 19,
+              "url": "https://t.co/uj5USvh90D"
+            },
+            {
+              "display_url": "pic.x.com/uj5USvh90D",
+              "end": 42,
+              "expanded_url": "https://x.com/Cldeop/status/1876977386807349448/photo/1",
+              "media_key": "3_1876977378381205505",
+              "start": 19,
+              "url": "https://t.co/uj5USvh90D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876977386807349448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 20098,
+          "like_count": 299,
+          "quote_count": 5,
+          "reply_count": 17,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "孩子谈恋爱怎么办？\n教你一招轻松解决 https://t.co/uj5USvh90D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 汉尼拔宁波分拔 ❦ 水系魔法师 ❦ 这个世上没有比假花更美的花 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1876180576878899482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877247691027263488/PyTo1_2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2017,
+          "following_count": 993,
+          "like_count": 7850,
+          "listed_count": 6,
+          "media_count": 597,
+          "tweet_count": 2356
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū\n推特见证每一种生物\n生活号@ACldJP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 22,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1874123551281991887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696802554318061568/M4Tec_5U_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51334,
+          "following_count": 522,
+          "like_count": 22845,
+          "listed_count": 179,
+          "media_count": 6986,
+          "tweet_count": 9969
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

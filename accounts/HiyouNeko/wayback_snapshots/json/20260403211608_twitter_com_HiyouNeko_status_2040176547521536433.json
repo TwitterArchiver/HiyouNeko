@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "2040176547521536433",
+    "created_at": "2026-04-03T21:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T22:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040176547521536433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cici20120712/s…",
+          "end": 111,
+          "expanded_url": "https://twitter.com/cici20120712/status/2040080078974157145",
+          "start": 88,
+          "url": "https://t.co/UWfkSCgxz9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040176547521536433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040080078974157145",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "从前以为全世界只有我一个人跨，从来不敢和别人说，直到我遇到第二个跨。\n后来以为全世界只有我一个人压床，直到去年之前都骗人说我是冲出来的，直到我遇到第二个压床的人....... https://t.co/UWfkSCgxz9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "2040176547521536433",
+        "created_at": "2026-04-03T21:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T22:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040176547521536433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cici20120712/s…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/cici20120712/status/2040080078974157145",
+              "start": 88,
+              "url": "https://t.co/UWfkSCgxz9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040176547521536433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040080078974157145",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从前以为全世界只有我一个人跨，从来不敢和别人说，直到我遇到第二个跨。\n后来以为全世界只有我一个人压床，直到去年之前都骗人说我是冲出来的，直到我遇到第二个压床的人....... https://t.co/UWfkSCgxz9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808604308163940352",
+        "conversation_id": "2040080078974157145",
+        "created_at": "2026-04-03T14:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040080078974157145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040080078974157145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 105760,
+          "like_count": 543,
+          "quote_count": 25,
+          "reply_count": 83,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "你知道吗，如果男孩子小时候不是手冲出来的是压床出来的，长大了就会变成小男娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦od💊不割手❦永不满足的爱，和以此倍增的恨.❦可爱小猫 @herself32 ❦发情期再放送.....❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "˚₊‧꒰ა超绝可爱☆派对姬໒꒱‧₊˚",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039989141258285056/QqoUIn1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 1036,
+          "like_count": 9663,
+          "listed_count": 6,
+          "media_count": 799,
+          "tweet_count": 3620
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T20:50:59.000Z",
+        "description": "门槛68zfb口令就行了喵\n底边coser，偶尔会配音或者画画，大部分时间在睡觉，小号@ci20120712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "ci20120712"
+              }
+            ]
+          }
+        },
+        "id": "1808604308163940352",
+        "name": "魔法少女凛瓷瓷",
+        "pinned_tweet_id": "2006526827796586753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831679763368353792/JCLSUlMG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70154,
+          "following_count": 102,
+          "like_count": 858,
+          "listed_count": 181,
+          "media_count": 731,
+          "tweet_count": 1311
+        },
+        "username": "cici20120712",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1894026280376709630",
+    "created_at": "2025-02-25T05:38:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T06:38:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894260736865833001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863305908111220736",
+          "start": 0,
+          "username": "GayIsReadinThis"
+        },
+        {
+          "end": 31,
+          "id": "1672508255891849216",
+          "start": 17,
+          "username": "chengqing_shs"
+        },
+        {
+          "end": 48,
+          "id": "1797727504540807168",
+          "start": 32,
+          "username": "od_angelkaii_od"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894260736865833001",
+    "in_reply_to_user_id": "1863305908111220736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894140004802199726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GayIsReadinThis @chengqing_shs @od_angelkaii_od 反正比我一月工资多，谁给我1w包养我，啊不，5k就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1894026280376709630",
+        "created_at": "2025-02-25T05:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T06:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894260736865833001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863305908111220736",
+              "start": 0,
+              "username": "GayIsReadinThis"
+            },
+            {
+              "end": 31,
+              "id": "1672508255891849216",
+              "start": 17,
+              "username": "chengqing_shs"
+            },
+            {
+              "end": 48,
+              "id": "1797727504540807168",
+              "start": 32,
+              "username": "od_angelkaii_od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894260736865833001",
+        "in_reply_to_user_id": "1863305908111220736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894140004802199726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GayIsReadinThis @chengqing_shs @od_angelkaii_od 反正比我一月工资多，谁给我1w包养我，啊不，5k就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863305908111220736",
+        "conversation_id": "1894026280376709630",
+        "created_at": "2025-02-24T21:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T22:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894140004802199726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672508255891849216",
+              "start": 0,
+              "username": "chengqing_shs"
+            },
+            {
+              "end": 31,
+              "id": "1797727504540807168",
+              "start": 15,
+              "username": "od_angelkaii_od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894140004802199726",
+        "in_reply_to_user_id": "1672508255891849216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894139048266215448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengqing_shs @od_angelkaii_od 好吧可能稍微有点攻击性了，其实我想说包养一个月1w是很多钱的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法师 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1876180576878899482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877247691027263488/PyTo1_2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 958,
+          "like_count": 8223,
+          "listed_count": 6,
+          "media_count": 630,
+          "tweet_count": 2529
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T19:35:48.000Z",
+        "description": "ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ (≧◡≦)",
+        "id": "1863305908111220736",
+        "location": "这是一个善良的人类。",
+        "name": "父亲",
+        "pinned_tweet_id": "1878989606043214008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878614634573557760/tUmykVH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 81,
+          "like_count": 979,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 1034
+        },
+        "username": "GayIsReadinThis",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T07:33:55.000Z",
+        "description": "低浮上‖顺女‖中文/English/日本語勉强中‖友跨‖不鉴政‖日常碎碎念\n直fo就是喜欢你",
+        "id": "1672508255891849216",
+        "name": "スミღ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808207000666529794/B-RcZGFB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 265,
+          "like_count": 486,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 259
+        },
+        "username": "chengqing_shs",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "古希腊掌管od的神\n本账号为多人账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.jp",
+                "end": 23,
+                "expanded_url": "https://www.overdose.jp/",
+                "start": 0,
+                "url": "https://t.co/CE5mLEgqfK"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose知识站点",
+        "pinned_tweet_id": "1893544417618706597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889532170391396352/BjXFZMK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3226,
+          "following_count": 4103,
+          "like_count": 2260,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 2062
+        },
+        "url": "https://t.co/CE5mLEgqfK",
+        "username": "od_angelkaii_od",
+        "verified": false
+      }
+    ]
+  }
+}

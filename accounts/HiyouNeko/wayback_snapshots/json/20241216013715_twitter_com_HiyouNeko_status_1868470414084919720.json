@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1868470414084919720",
+    "created_at": "2024-12-16T01:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T02:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868470414084919720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3192740093",
+          "start": 3,
+          "username": "zc52032"
+        },
+        {
+          "end": 112,
+          "id": "946612726951960576",
+          "start": 100,
+          "username": "magicfoxxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868470414084919720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "1674682333256089602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zc52032: 【開放式關係】\n\n開放式關係有非常多形式，每段關係的相處和定義並不相同。這次是友人私下詢問，若是從一對一關係要加入第三人(甚至更多)，這段關係該怎麼開始，以下是我跟我家狐狸 @magicfoxxxx 的討論，僅供參考。… https://t.co/cM…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1868470414084919720",
+        "created_at": "2024-12-16T01:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T02:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868470414084919720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3192740093",
+              "start": 3,
+              "username": "zc52032"
+            },
+            {
+              "end": 112,
+              "id": "946612726951960576",
+              "start": 100,
+              "username": "magicfoxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868470414084919720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "1674682333256089602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zc52032: 【開放式關係】\n\n開放式關係有非常多形式，每段關係的相處和定義並不相同。這次是友人私下詢問，若是從一對一關係要加入第三人(甚至更多)，這段關係該怎麼開始，以下是我跟我家狐狸 @magicfoxxxx 的討論，僅供參考。… https://t.co/cM…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1674682315145117696",
+            "3_1674682315140927488",
+            "3_1674682315124137985",
+            "3_1674682315145089029"
+          ]
+        },
+        "author_id": "3192740093",
+        "conversation_id": "1674682333256089602",
+        "created_at": "2023-06-30T07:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-30T08:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1674682333256089602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 99,
+              "id": "946612726951960576",
+              "start": 87,
+              "username": "magicfoxxxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cMfDyFETIb",
+              "end": 134,
+              "expanded_url": "https://x.com/zc52032/status/1674682333256089602/photo/1",
+              "media_key": "3_1674682315145117696",
+              "start": 111,
+              "url": "https://t.co/cMfDyFETIb"
+            },
+            {
+              "display_url": "pic.x.com/cMfDyFETIb",
+              "end": 134,
+              "expanded_url": "https://x.com/zc52032/status/1674682333256089602/photo/1",
+              "media_key": "3_1674682315140927488",
+              "start": 111,
+              "url": "https://t.co/cMfDyFETIb"
+            },
+            {
+              "display_url": "pic.x.com/cMfDyFETIb",
+              "end": 134,
+              "expanded_url": "https://x.com/zc52032/status/1674682333256089602/photo/1",
+              "media_key": "3_1674682315124137985",
+              "start": 111,
+              "url": "https://t.co/cMfDyFETIb"
+            },
+            {
+              "display_url": "pic.x.com/cMfDyFETIb",
+              "end": 134,
+              "expanded_url": "https://x.com/zc52032/status/1674682333256089602/photo/1",
+              "media_key": "3_1674682315145089029",
+              "start": 111,
+              "url": "https://t.co/cMfDyFETIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1674682333256089602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 99,
+                "id": "946612726951960576",
+                "start": 87,
+                "username": "magicfoxxxx"
+              }
+            ]
+          },
+          "text": "【開放式關係】\n\n開放式關係有非常多形式，每段關係的相處和定義並不相同。這次是友人私下詢問，若是從一對一關係要加入第三人(甚至更多)，這段關係該怎麼開始，以下是我跟我家狐狸 @magicfoxxxx 的討論，僅供參考。\n\n開放式關係要新增他人的前提是『不能更動原有關係』，一旦關係發生變動，勢必會造成另外一半的不安、猜忌、吃醋等等情緒，所以第三方該怎麼加入，以及他的位子在哪裡都是必須協調的。並且不能指責對方「明明一開始你說可以，為什麼現在不行？」必須時常關注對方的感受進行調整更動。\n\n--\n\n第三人的加入是單方喜歡或是多方喜歡都成立的。我可以接受你跟他在一起但我不想要跟他那麼親密，你去找他的時候告知我一聲。也有一種是，你跟我在一起的時候就專心陪我，其他時間我不想管(同意不知情)。\n\n或是我也喜歡他，我們可以彼此出去約會，也可以三人約會(可以三人約會也並不代表可以接受三人同時發生性行為，這是大家常常誤解的部分)，不管哪一種形式都有協調空間。\n\n--\n\n若是出現搶人或是試圖取代某一方則是非常容易造成關係破裂，是非常嚴重的NG行為。\n\n這樣的關係需要比單一伴侶關係付出更多的時間和情緒勞動，若是在單一伴侶關係都沒有辦法進行良好的溝通協調，增加人數只會讓情況更混亂，並不是一個解套的方法。\n\n「既然這樣的關係更進階又更麻煩，為什麼還有人想要被分享？不會吃醋嗎？」\n\n不會吃醋嗎？當然還是會啊開什麼玩笑！多人關係只要任兩個出去約會把我排除(即使是我時間安排不上)，我還能同時吃兩倍的醋呢！\n\n要說開放式關係的優點，當協調的好，彼此找到自己舒適的位子，在感情中需要承接對方的重量也會被均分。我想要有人陪，A想要打遊戲或是有工作，沒有「遊戲/工作重要還是我重要？」這種問題，我直接去找B就好。\n\n或是兩方吵架，由第三方會擔任緩衝的角色安撫雙方。互相支援經濟層面、傷病輪流照顧、也有適合生活依賴對方但性生活不協調而進入開放式關係(甚至可以說最後這點是最常見的主因)。\n\n若是對方嘗試過卻發現自己還是沒辦法接受，也請完全尊重對方的意願，要嘛你放棄要嘛他放棄，失戀是一時的，好過多年的彼此折磨。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 113846,
+          "like_count": 621,
+          "quote_count": 15,
+          "reply_count": 25,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "【開放式關係】\n\n開放式關係有非常多形式，每段關係的相處和定義並不相同。這次是友人私下詢問，若是從一對一關係要加入第三人(甚至更多)，這段關係該怎麼開始，以下是我跟我家狐狸 @magicfoxxxx 的討論，僅供參考。… https://t.co/cMfDyFETIb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ HRT22/08/29 ❦ 坐标宁波 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我脑婆/主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 109,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "梦幻楼与不眠希汐#θωθ",
+        "pinned_tweet_id": "1863879352221618461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2012,
+          "following_count": 977,
+          "like_count": 7567,
+          "listed_count": 6,
+          "media_count": 568,
+          "tweet_count": 2261
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-21T23:11:33.000Z",
+        "description": "Dom有狗有伴//斜槓性別//雜貓窩萬事屋店長//Zc手工皮革項圈製作//魔法道具商人//委託可私訊// 自家狐狸 @magicfoxxxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "magicfoxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/zimgela",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/zimgela",
+                "start": 0,
+                "url": "https://t.co/MScuKGOy32"
+              }
+            ]
+          }
+        },
+        "id": "3192740093",
+        "location": "Taichung City, Taiwan",
+        "name": "北極沒有蛋蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865113579583868929/WftPnPV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19225,
+          "following_count": 2200,
+          "like_count": 108122,
+          "listed_count": 25,
+          "media_count": 1240,
+          "tweet_count": 12751
+        },
+        "url": "https://t.co/MScuKGOy32",
+        "username": "zc52032",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-29T05:23:56.000Z",
+        "description": "本來想當感傷帳，結果變成廢文帳//非單客滿//有很愛我的家人們//身心靈工作者//Zc手工皮革、手工藝、石頭商人、薩滿//神秘學//歡迎委託 #天安門事件",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 71,
+                "tag": "天安門事件"
+              }
+            ]
+          }
+        },
+        "id": "946612726951960576",
+        "location": "亞特蘭提斯",
+        "name": "狐尼🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666793903549456392/z-Aun64K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2865,
+          "following_count": 4354,
+          "like_count": 25021,
+          "listed_count": 5,
+          "media_count": 746,
+          "tweet_count": 11072
+        },
+        "username": "magicfoxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

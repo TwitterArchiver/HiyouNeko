@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1858837118313001019",
+    "created_at": "2024-11-20T02:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T03:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859060344242794624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1673364955171782657",
+          "start": 0,
+          "username": "kxk1388574"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859060344242794624",
+    "in_reply_to_user_id": "1673364955171782657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858837118313001019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kxk1388574 这是另一种play吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1858837118313001019",
+        "created_at": "2024-11-20T02:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T03:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859060344242794624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1673364955171782657",
+              "start": 0,
+              "username": "kxk1388574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859060344242794624",
+        "in_reply_to_user_id": "1673364955171782657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858837118313001019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kxk1388574 这是另一种play吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858837114932375552"
+          ]
+        },
+        "author_id": "1673364955171782657",
+        "conversation_id": "1858837118313001019",
+        "created_at": "2024-11-19T11:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T12:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858837118313001019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y9j8zptaxp",
+              "end": 49,
+              "expanded_url": "https://x.com/kxk1388574/status/1858837118313001019/photo/1",
+              "media_key": "3_1858837114932375552",
+              "start": 26,
+              "url": "https://t.co/y9j8zptaxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858837118313001019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12327,
+          "like_count": 181,
+          "quote_count": 2,
+          "reply_count": 34,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "需要用多大力多大决心才能在被迫口的时候把oo咬断呢 https://t.co/y9j8zptaxp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "★ 99Mtf一只🍥 ☆ 笨蛋一个 △ 是神奇水系魔法师 △ 🚪66 QQ纯绿聊天不线下（除非你打❦舞萌❦） ♡ 真的真的很爱暮暮 ★ 你们补药欺负我的宝贝脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "★ 希汐 ☆",
+        "pinned_tweet_id": "1858814345456873777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 898,
+          "like_count": 6596,
+          "listed_count": 5,
+          "tweet_count": 1909
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "可以叫kk，可能会随机掉落柠檬🍋茶，见到麻烦fo咱一个喵~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kxk123…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/kxk123.bsky.social",
+                "start": 0,
+                "url": "https://t.co/0DssxjpAf9"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋（讨fo中）",
+        "pinned_tweet_id": "1857037967803531412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2135,
+          "following_count": 3546,
+          "like_count": 13419,
+          "listed_count": 1,
+          "tweet_count": 2232
+        },
+        "url": "https://t.co/0DssxjpAf9",
+        "username": "kxk1388574",
+        "verified": false
+      }
+    ]
+  }
+}

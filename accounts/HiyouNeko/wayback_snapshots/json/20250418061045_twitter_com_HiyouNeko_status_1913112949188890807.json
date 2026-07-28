@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1913078990916767906",
+    "created_at": "2025-04-18T06:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T07:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913112949188890807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596652915959078913",
+          "start": 0,
+          "username": "nanami5513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913112949188890807",
+    "in_reply_to_user_id": "1596652915959078913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913078990916767906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami5513 高冷路人，朋友很多，不敢搭话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1913078990916767906",
+        "created_at": "2025-04-18T06:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T07:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913112949188890807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596652915959078913",
+              "start": 0,
+              "username": "nanami5513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913112949188890807",
+        "in_reply_to_user_id": "1596652915959078913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913078990916767906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami5513 高冷路人，朋友很多，不敢搭话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596652915959078913",
+        "conversation_id": "1913078990916767906",
+        "created_at": "2025-04-18T03:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T04:55:41.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913078955919491347",
+          "1913078990916767906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913078990916767906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 510,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们为什么会喜欢/讨厌nagi？或者说怎么评价nagi这个人？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 果然是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登（当心给你下降头） ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 123,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912900474048798722/bFsyDl2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092,
+          "following_count": 993,
+          "like_count": 8748,
+          "listed_count": 6,
+          "media_count": 662,
+          "tweet_count": 2854
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T23:51:38.000Z",
+        "description": "@nanami_mua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "nanami_mua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nanami99230",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nanami99230",
+                "start": 0,
+                "url": "https://t.co/X8pmKTdZQA"
+              }
+            ]
+          }
+        },
+        "id": "1596652915959078913",
+        "name": "七海～四悸～🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905276702319943680/VEHSyuLl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 410,
+          "like_count": 19011,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 2753
+        },
+        "url": "https://t.co/X8pmKTdZQA",
+        "username": "nanami5513",
+        "verified": true
+      }
+    ]
+  }
+}

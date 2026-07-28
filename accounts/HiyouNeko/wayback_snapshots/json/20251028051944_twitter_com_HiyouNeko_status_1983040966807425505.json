@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1982629947341672783",
+    "created_at": "2025-10-28T05:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T06:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983040966807425505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1731865096345780224",
+          "start": 0,
+          "username": "Ustinian_XiXi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983040966807425505",
+    "in_reply_to_user_id": "1731865096345780224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982629947341672783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ustinian_XiXi 真有这样的三好xyn耶www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1982629947341672783",
+        "created_at": "2025-10-28T05:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T06:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983040966807425505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1731865096345780224",
+              "start": 0,
+              "username": "Ustinian_XiXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983040966807425505",
+        "in_reply_to_user_id": "1731865096345780224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982629947341672783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ustinian_XiXi 真有这样的三好xyn耶www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731865096345780224",
+        "conversation_id": "1982629947341672783",
+        "created_at": "2025-10-27T02:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T03:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982629947341672783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982629947341672783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 39252,
+          "like_count": 260,
+          "quote_count": 0,
+          "reply_count": 79,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "找对象！(｢･ω･)｢\n本人是xyn，不抽烟不喝酒不割手精神比较稳定，pass会伪音脾气好粘人不占便宜，infp，很孤单没朋友每天很无聊，王者第五二游都可以玩（射击游戏不会噢，看不见人）\n是无性恋不在乎性别，偏柏拉图，消息秒回（前提是我抓着爪机），不处对象的话交个朋友也可以哇\n人在石家庄家住厦门"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片（今日推荐：疾驰龙）🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 1017,
+          "like_count": 9360,
+          "listed_count": 7,
+          "media_count": 739,
+          "tweet_count": 3331
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T02:36:44.000Z",
+        "description": "是超级圆圆的嘟嘟鱼！(｢･ω･)｢\n持证含糖，hrt  2023.12.7",
+        "id": "1731865096345780224",
+        "name": "✎ℳ₯㎕希曦🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734585005718839296/RvMQy4gy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 401,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 140
+        },
+        "username": "Ustinian_XiXi",
+        "verified": false
+      }
+    ]
+  }
+}

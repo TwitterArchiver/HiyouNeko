@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1925791550912508292",
+    "created_at": "2025-05-23T05:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T06:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925791550912508292"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1925791550912508292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一开始,我觉得割腕没什么\n渐渐地,我觉得绞刑也不错\n渐渐地,我觉得上吊也不错\n渐渐地,我觉得窒息也不错\n渐渐地,我觉得溺亡也不错\n渐渐地,我觉得跳楼也不错\n渐渐地,我觉得卧轨也不错\n渐渐地,我觉得钡盐也不错\n渐渐地,我觉得钠盐也不错\n渐渐地,我觉得静推也不错\n每一步都那么自然，每一步都在向深渊坠落"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1925791550912508292",
+        "created_at": "2025-05-23T05:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T06:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925791550912508292"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925791550912508292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一开始,我觉得割腕没什么\n渐渐地,我觉得绞刑也不错\n渐渐地,我觉得上吊也不错\n渐渐地,我觉得窒息也不错\n渐渐地,我觉得溺亡也不错\n渐渐地,我觉得跳楼也不错\n渐渐地,我觉得卧轨也不错\n渐渐地,我觉得钡盐也不错\n渐渐地,我觉得钠盐也不错\n渐渐地,我觉得静推也不错\n每一步都那么自然，每一步都在向深渊坠落"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 果然是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登（当心给你下降头） ❦ 这个世上没有比假花更美的花❦ 一起打暗区你就是我的好脑婆（） ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1922832818012340691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2102,
+          "following_count": 987,
+          "like_count": 9014,
+          "listed_count": 6,
+          "media_count": 685,
+          "tweet_count": 3025
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1838829059335426048"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "conversation_id": "1838829287945966011",
+    "created_at": "2024-09-25T06:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T07:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1838829287945966011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2p2g6jzrfu",
+          "end": 42,
+          "expanded_url": "https://twitter.com/HiyouNeko/status/1838829287945966011/video/1",
+          "media_key": "7_1838829059335426048",
+          "start": 19,
+          "url": "https://t.co/2P2G6Jzrfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838829287945966011",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不敢想象2个g把尤贝尔大人吓退缩了 https://t.co/2P2G6Jzrfu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 139996,
+        "height": 576,
+        "media_key": "7_1838829059335426048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1838829059335426048/pu/img/Z0N0LZQ00eFjeEOA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1838829059335426048/pu/vid/avc1/600x270/JwSaRg9VX85mue3W.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1838829059335426048/pu/vid/avc1/800x360/Hx2SYfxmDQ084cej.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1838829059335426048/pu/vid/avc1/1280x576/rlGzeP5Idgw7B0M-.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1838829059335426048/pu/pl/1agySrLj-6VLZdQs.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1838829059335426048"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "conversation_id": "1838829287945966011",
+        "created_at": "2024-09-25T06:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T07:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838829287945966011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2p2g6jzrfu",
+              "end": 42,
+              "expanded_url": "https://twitter.com/HiyouNeko/status/1838829287945966011/video/1",
+              "media_key": "7_1838829059335426048",
+              "start": 19,
+              "url": "https://t.co/2P2G6Jzrfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838829287945966011",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不敢想象2个g把尤贝尔大人吓退缩了 https://t.co/2P2G6Jzrfu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派 ❦ 活在幻想中的魔法少女 ❦ 病娇是魔女化后的产物 ❦ 真的很爱喝野格 ❦ 魔女化进度丨                                            丨0%❦",
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 988,
+          "like_count": 5810,
+          "listed_count": 7,
+          "tweet_count": 1616
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

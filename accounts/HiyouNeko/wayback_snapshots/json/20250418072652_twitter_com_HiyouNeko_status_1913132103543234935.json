@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1913041731886657556",
+    "created_at": "2025-04-18T07:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T08:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913132103543234935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1791585754755350528",
+          "start": 0,
+          "username": "mtfmengyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913132103543234935",
+    "in_reply_to_user_id": "1791585754755350528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913041731886657556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mtfmengyu 老师帮我剪个女头呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1913041731886657556",
+        "created_at": "2025-04-18T07:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T08:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913132103543234935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "mtfmengyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913132103543234935",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913041731886657556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mtfmengyu 老师帮我剪个女头呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791585754755350528",
+        "conversation_id": "1913041731886657556",
+        "created_at": "2025-04-18T01:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T02:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913041731886657556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913041731886657556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 363,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问姐姐们一个问题…\n\n就是…去理发店修头发…怎么和tony老师说呀…\n（想修一下刘海…但是咱不知道怎么说qwq）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 果然是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登（当心给你下降头） ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 123,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912900474048798722/bFsyDl2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 994,
+          "like_count": 8752,
+          "listed_count": 6,
+          "media_count": 663,
+          "tweet_count": 2858
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07年的超大只mtf🍥🏳️‍⚧️｜无证含糖，hrt2023.7.15｜深柜家暴党｜双向+重抑｜高三牲，备战高考ing｜⚠️随机出现血图⚠️|欢迎来找我贴贴｜",
+        "id": "1791585754755350528",
+        "location": "雨檬の幻想乡",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍥（大号限流版）",
+        "pinned_tweet_id": "1912106285845368867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906911119580823552/VQjZGMza_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 146,
+          "like_count": 641,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 155
+        },
+        "username": "mtfmengyu",
+        "verified": false
+      }
+    ]
+  }
+}

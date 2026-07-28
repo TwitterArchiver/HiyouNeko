@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1834116580063793287",
+    "created_at": "2024-09-12T06:53:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T07:53:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834123165406298238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1570069037496819714",
+          "start": 0,
+          "username": "BestCooker4Ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834123165406298238",
+    "in_reply_to_user_id": "1570069037496819714",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834121775145496850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BestCooker4Ever 多新鲜呢....从来没听过说过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1834116580063793287",
+        "created_at": "2024-09-12T06:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T07:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834123165406298238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1570069037496819714",
+              "start": 0,
+              "username": "BestCooker4Ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834123165406298238",
+        "in_reply_to_user_id": "1570069037496819714",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834121775145496850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BestCooker4Ever 多新鲜呢....从来没听过说过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570069037496819714",
+        "conversation_id": "1834116580063793287",
+        "created_at": "2024-09-12T06:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T07:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834121775145496850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834121775145496850",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834116580063793287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 宁波一大堆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格 ❦  永劫无间 ❦ 无畏契约 ❦ 游戏王md ❦ 打游戏速速dd ❦ 半截入土 ❦ 坐标 宁波 ❦ 🚪50 ❦",
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 951,
+          "like_count": 5606,
+          "listed_count": 7,
+          "tweet_count": 1528
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T15:17:34.000Z",
+        "description": "本体在广州丨✈︎tg: https://t.co/aI2cuJM2W8丨醒来，活下去。❤️\n@skmt26628703",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "skmt26628703"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/WeisseGestalt",
+                "end": 35,
+                "expanded_url": "https://t.me/WeisseGestalt",
+                "start": 12,
+                "url": "https://t.co/aI2cuJM2W8"
+              }
+            ]
+          }
+        },
+        "id": "1570069037496819714",
+        "name": "疏乞巧🍥🏳️‍⚧️🍳🌈🎮👭👩‍❤️‍👩👩‍❤️‍💋‍👩🌐☮️🤟",
+        "pinned_tweet_id": "1829858629065031934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833386690410647552/kkty7yVr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 879,
+          "like_count": 28566,
+          "listed_count": 5,
+          "tweet_count": 4267
+        },
+        "username": "BestCooker4Ever",
+        "verified": false
+      }
+    ]
+  }
+}

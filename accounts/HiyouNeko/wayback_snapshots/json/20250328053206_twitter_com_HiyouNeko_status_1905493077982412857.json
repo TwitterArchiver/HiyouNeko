@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1905464184923435064",
+    "created_at": "2025-03-28T05:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T06:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905493077982412857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1766025755161772032",
+          "start": 0,
+          "username": "Kiara939217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905493077982412857",
+    "in_reply_to_user_id": "1766025755161772032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905464184923435064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiara939217 那我请问了，钱呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1905464184923435064",
+        "created_at": "2025-03-28T05:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T06:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905493077982412857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1766025755161772032",
+              "start": 0,
+              "username": "Kiara939217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905493077982412857",
+        "in_reply_to_user_id": "1766025755161772032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905464184923435064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiara939217 那我请问了，钱呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766025755161772032",
+        "conversation_id": "1905464184923435064",
+        "created_at": "2025-03-28T03:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T04:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905464184923435064"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905464184923435064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 672,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天给金主大人口了...太用力了嗓子疼\n但是他真的好大..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是友跨顺难 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 956,
+          "like_count": 8457,
+          "listed_count": 6,
+          "media_count": 643,
+          "tweet_count": 2682
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T08:58:57.000Z",
+        "description": "前次元斩大排档/打猎/ygo/kisskill/不鉴证/绝情道\n本人所作所为与群体无关\n可以牺牲，但不能被牺牲",
+        "id": "1766025755161772032",
+        "location": "如果你想要，你得自己来拿，但规矩你懂的",
+        "name": "真夜迴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881144126046896128/Lwe_LS4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 1494,
+          "like_count": 18897,
+          "listed_count": 0,
+          "media_count": 448,
+          "tweet_count": 4014
+        },
+        "username": "Kiara939217",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "author_id": "1528928909734973440",
+    "conversation_id": "1844381643152449581",
+    "created_at": "2024-10-11T08:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-11T09:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1844659269502976160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680508885394927616",
+          "start": 0,
+          "username": "04177_realname"
+        }
+      ]
+    },
+    "id": "1844659269502976160",
+    "in_reply_to_user_id": "1680508885394927616",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 90,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844381643152449581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04177_realname 直覺告訴我x=y=z然後就好解了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1528928909734973440",
+        "conversation_id": "1844381643152449581",
+        "created_at": "2024-10-11T08:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-11T09:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1844659269502976160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680508885394927616",
+              "start": 0,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "id": "1844659269502976160",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844381643152449581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_realname 直覺告訴我x=y=z然後就好解了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ HRT22/08/29 ❦ 坐标宁波 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我脑婆/主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 109,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "一只希汐#θωθ",
+        "pinned_tweet_id": "1863879352221618461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 972,
+          "like_count": 7424,
+          "listed_count": 5,
+          "media_count": 554,
+          "tweet_count": 2208
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "ftm/逃生舱：@04177_truth/🦋：@04177realname.bsky.social/政治倾向不明/坚定的互fo主义者/梦想和中推所有人互fo/不爱了请双取，你的单取是我午夜梦回的惩罚😿/提问箱：https://t.co/pe56J9RdeY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "04177_truth"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "04177realname"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/04177_realname",
+                "end": 128,
+                "expanded_url": "https://ngl.link/04177_realname",
+                "start": 105,
+                "url": "https://t.co/pe56J9RdeY"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8172,
+          "following_count": 5756,
+          "like_count": 52113,
+          "listed_count": 26,
+          "media_count": 1465,
+          "tweet_count": 13740
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

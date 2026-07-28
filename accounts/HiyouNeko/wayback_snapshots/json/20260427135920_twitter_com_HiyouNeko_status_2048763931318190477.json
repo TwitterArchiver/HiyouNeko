@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "2048763931318190477",
+    "created_at": "2026-04-27T13:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048763931318190477"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048763931318190477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我需要用書本搭一個10級或更高的台階，佩戴強制墊腳器，在第3級的時候將繩子套在脖子上，並用鑰匙鎖上，鑰匙放置在第10級台階的高處並需要伸長手臂才能夠到的方，要增加趣味性可以用紅包包起來並混入其他的鑰匙。\n如果挑戰成功了你可以包養我一個月並每週操我至少3次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "2048763931318190477",
+        "created_at": "2026-04-27T13:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048763931318190477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048763931318190477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要用書本搭一個10級或更高的台階，佩戴強制墊腳器，在第3級的時候將繩子套在脖子上，並用鑰匙鎖上，鑰匙放置在第10級台階的高處並需要伸長手臂才能夠到的方，要增加趣味性可以用紅包包起來並混入其他的鑰匙。\n如果挑戰成功了你可以包養我一個月並每週操我至少3次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦精品神藥享受者💊不割手❦永不满足的爱，和以此倍增的恨.❦ bambisleep淪陷中.... ❦可爱小猫 @herself32 ❦警告🚫郁期勿扰.....❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "˚₊‧꒰ა淫亂雌豚☆斑比醬໒꒱‧₊˚",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039989141258285056/QqoUIn1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 1063,
+          "like_count": 9854,
+          "listed_count": 6,
+          "media_count": 826,
+          "tweet_count": 3727
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

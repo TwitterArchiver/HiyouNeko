@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892094274101198848"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "conversation_id": "1892094285169791051",
+    "created_at": "2025-02-19T06:10:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T07:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892094285169791051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xBbOBM5gev",
+          "end": 36,
+          "expanded_url": "https://x.com/HiyouNeko/status/1892094285169791051/photo/1",
+          "media_key": "3_1892094274101198848",
+          "start": 13,
+          "url": "https://t.co/xBbOBM5gev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892094285169791051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "传下去，滴蜡熊被拍出水了 https://t.co/xBbOBM5gev"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 915,
+        "media_key": "3_1892094274101198848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkIRt7FaQAAYGpv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892094274101198848"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "conversation_id": "1892094285169791051",
+        "created_at": "2025-02-19T06:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T07:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892094285169791051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xBbOBM5gev",
+              "end": 36,
+              "expanded_url": "https://x.com/HiyouNeko/status/1892094285169791051/photo/1",
+              "media_key": "3_1892094274101198848",
+              "start": 13,
+              "url": "https://t.co/xBbOBM5gev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892094285169791051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "传下去，滴蜡熊被拍出水了 https://t.co/xBbOBM5gev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法师 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1876180576878899482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877247691027263488/PyTo1_2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 960,
+          "like_count": 8185,
+          "listed_count": 6,
+          "media_count": 629,
+          "tweet_count": 2514
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

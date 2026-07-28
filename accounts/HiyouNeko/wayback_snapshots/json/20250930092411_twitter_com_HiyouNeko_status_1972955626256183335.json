@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1972947707271766378",
+    "created_at": "2025-09-30T09:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T10:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972955626256183335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "4847160698",
+          "start": 0,
+          "username": "ells_rie"
+        },
+        {
+          "end": 25,
+          "id": "69165914",
+          "start": 10,
+          "username": "Leaf_Fallfield"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972955626256183335",
+    "in_reply_to_user_id": "4847160698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972948527836954976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ells_rie @Leaf_Fallfield 胡了，清一色对对胡你这把输我7万"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1972947707271766378",
+        "created_at": "2025-09-30T09:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T10:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972955626256183335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "4847160698",
+              "start": 0,
+              "username": "ells_rie"
+            },
+            {
+              "end": 25,
+              "id": "69165914",
+              "start": 10,
+              "username": "Leaf_Fallfield"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972955626256183335",
+        "in_reply_to_user_id": "4847160698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972948527836954976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ells_rie @Leaf_Fallfield 胡了，清一色对对胡你这把输我7万"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4847160698",
+        "conversation_id": "1972947707271766378",
+        "created_at": "2025-09-30T08:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T09:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972948527836954976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "69165914",
+              "start": 0,
+              "username": "Leaf_Fallfield"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972948527836954976",
+        "in_reply_to_user_id": "69165914",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972947707271766378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leaf_Fallfield 七万"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片（今日推荐：跳弹鱼）🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 983,
+          "like_count": 9240,
+          "listed_count": 7,
+          "media_count": 725,
+          "tweet_count": 3262
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-02T02:05:30.000Z",
+        "description": "死肥宅/精神病/一般路过中年人",
+        "id": "4847160698",
+        "name": "鳗",
+        "pinned_tweet_id": "1951700297921056862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658301184959205377/ad2XGeU4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 38,
+          "like_count": 4281,
+          "listed_count": 1,
+          "media_count": 535,
+          "tweet_count": 8213
+        },
+        "username": "ells_rie",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-27T01:47:30.000Z",
+        "description": "",
+        "id": "69165914",
+        "name": "叶子🍃",
+        "pinned_tweet_id": "1598564782402981888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1379731567048749060/SjDc8XbH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8891,
+          "following_count": 2728,
+          "like_count": 21209,
+          "listed_count": 25,
+          "media_count": 1052,
+          "tweet_count": 10907
+        },
+        "username": "Leaf_Fallfield",
+        "verified": false
+      }
+    ]
+  }
+}

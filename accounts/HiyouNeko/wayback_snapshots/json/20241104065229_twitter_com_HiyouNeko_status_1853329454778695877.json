@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1853329454778695877",
+    "created_at": "2024-11-04T06:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T07:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1853329454778695877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/1853259573924442163",
+          "start": 11,
+          "url": "https://t.co/IXy7V6fn4X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853329454778695877",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853259573924442163",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“明天见”申请出战？ https://t.co/IXy7V6fn4X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1853329454778695877",
+        "created_at": "2024-11-04T06:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T07:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853329454778695877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/1853259573924442163",
+              "start": 11,
+              "url": "https://t.co/IXy7V6fn4X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853329454778695877",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853259573924442163",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“明天见”申请出战？ https://t.co/IXy7V6fn4X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853259570724147200"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1853259573924442163",
+        "created_at": "2024-11-04T02:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T03:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853259573924442163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T6FIZ0BU95",
+              "end": 28,
+              "expanded_url": "https://x.com/Rococo90933671/status/1853259573924442163/photo/1",
+              "media_key": "3_1853259570724147200",
+              "start": 5,
+              "url": "https://t.co/T6FIZ0BU95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853259573924442163",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4056,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是什么呢 https://t.co/T6FIZ0BU95"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "是水系魔法师，非常高冷而且🚪88，你们不许乱碰我的脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "Aria&希汐公主殿下～⛧🏳‍⚧",
+        "pinned_tweet_id": "1851532132579221544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1961,
+          "following_count": 895,
+          "like_count": 6399,
+          "listed_count": 5,
+          "tweet_count": 1843
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "还有两年24岁，已不是学生|360°无死角友好（包括政见与性别认同）|母单|足控|可莉厨|语言爱好者|梦想成为polyglot|十五年war3玩家|椎名林檎を愛する|渴望真我|大概率回fo（可私信）|Languages: 🇨🇳🇬🇧🇯🇵🇫🇷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/rococo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/rococo90933671.bsky.social",
+                "start": 0,
+                "url": "https://t.co/VjeoDILd8h"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1823311655712981035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827642239587319808/CmeoJREY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2547,
+          "following_count": 1874,
+          "like_count": 17130,
+          "listed_count": 5,
+          "tweet_count": 9589
+        },
+        "url": "https://t.co/VjeoDILd8h",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

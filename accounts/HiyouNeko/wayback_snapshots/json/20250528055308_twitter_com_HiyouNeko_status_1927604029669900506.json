@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1927074005334339584"
+      ],
+      "media_source_tweet_id": [
+        "1927074062825570614"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "conversation_id": "1927604029669900506",
+    "created_at": "2025-05-28T05:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T06:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927604029669900506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1353169870691549184",
+          "start": 3,
+          "username": "iPaulCanada"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7dvFEsvzgt",
+          "end": 71,
+          "expanded_url": "https://x.com/iPaulCanada/status/1927074062825570614/video/1",
+          "media_key": "13_1927074005334339584",
+          "start": 48,
+          "url": "https://t.co/7dvFEsvzgt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927604029669900506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1103
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927074062825570614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iPaulCanada: 原来觉得女演员挣钱不容易，现在才发现挣钱最不容易的是摄影师。 https://t.co/7dvFEsvzgt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60836,
+        "height": 960,
+        "media_key": "13_1927074005334339584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1927074005334339584/img/P-aC5gTqmYhrgA3x.jpg",
+        "public_metrics": {
+          "view_count": 2698362
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927074005334339584/vid/avc1/320x568/akGw2GUniNunugqn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927074005334339584/vid/avc1/480x852/qIUcE1khizaX9GgU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927074005334339584/vid/avc1/540x960/dRcz4V1YROtLNfns.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1927074005334339584/pl/F2Rxk6LUDRjkgKj4.m3u8?v=cfc"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1927074005334339584"
+          ],
+          "media_source_tweet_id": [
+            "1927074062825570614"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "conversation_id": "1927604029669900506",
+        "created_at": "2025-05-28T05:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T06:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927604029669900506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1353169870691549184",
+              "start": 3,
+              "username": "iPaulCanada"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7dvFEsvzgt",
+              "end": 71,
+              "expanded_url": "https://x.com/iPaulCanada/status/1927074062825570614/video/1",
+              "media_key": "13_1927074005334339584",
+              "start": 48,
+              "url": "https://t.co/7dvFEsvzgt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927604029669900506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1103
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927074062825570614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iPaulCanada: 原来觉得女演员挣钱不容易，现在才发现挣钱最不容易的是摄影师。 https://t.co/7dvFEsvzgt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1927074005334339584"
+          ]
+        },
+        "author_id": "1353169870691549184",
+        "conversation_id": "1927074062825570614",
+        "created_at": "2025-05-26T18:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T19:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927074062825570614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7dvFEsvzgt",
+              "end": 54,
+              "expanded_url": "https://x.com/iPaulCanada/status/1927074062825570614/video/1",
+              "media_key": "13_1927074005334339584",
+              "start": 31,
+              "url": "https://t.co/7dvFEsvzgt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927074062825570614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1972,
+          "impression_count": 4049447,
+          "like_count": 8482,
+          "quote_count": 147,
+          "reply_count": 330,
+          "retweet_count": 1103
+        },
+        "reply_settings": "everyone",
+        "text": "原来觉得女演员挣钱不容易，现在才发现挣钱最不容易的是摄影师。 https://t.co/7dvFEsvzgt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 汉尼拔宁波分拔»»我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 只要你也玩暗区突围你就是我脑婆ww ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1922832818012340691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 990,
+          "like_count": 9067,
+          "listed_count": 6,
+          "media_count": 689,
+          "tweet_count": 3056
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "Canada",
+        "name": "iPaul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128754,
+          "following_count": 505,
+          "like_count": 7421,
+          "listed_count": 529,
+          "media_count": 8865,
+          "tweet_count": 15021
+        },
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

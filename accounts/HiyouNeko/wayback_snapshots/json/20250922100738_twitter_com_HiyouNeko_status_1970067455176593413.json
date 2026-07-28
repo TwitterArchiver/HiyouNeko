@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1969685420482150739",
+    "created_at": "2025-09-22T10:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T11:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970067455176593413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970067455176593413",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969685420482150739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ 不是说投票所有人可分享吗，好像拉拢网友投也没犯规？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1969685414526275584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1W6ctwbUAAiQot.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1600,
+        "media_key": "3_1969685417265143811",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1W6c39bIAMlync.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1969685420482150739",
+        "created_at": "2025-09-22T10:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T11:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970067455176593413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970067455176593413",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969685420482150739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ 不是说投票所有人可分享吗，好像拉拢网友投也没犯规？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969685414526275584",
+            "3_1969685417265143811"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "1969685420482150739",
+        "created_at": "2025-09-21T08:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T09:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969685420482150739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/90pRD0GW6y",
+              "end": 39,
+              "expanded_url": "https://x.com/huahuojiang_/status/1969685420482150739/photo/1",
+              "media_key": "3_1969685414526275584",
+              "start": 16,
+              "url": "https://t.co/90pRD0GW6y"
+            },
+            {
+              "display_url": "pic.x.com/90pRD0GW6y",
+              "end": 39,
+              "expanded_url": "https://x.com/huahuojiang_/status/1969685420482150739/photo/1",
+              "media_key": "3_1969685417265143811",
+              "start": 16,
+              "url": "https://t.co/90pRD0GW6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969685420482150739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 59833,
+          "like_count": 293,
+          "quote_count": 3,
+          "reply_count": 30,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "民心所向，您就是新一任人大代表 https://t.co/90pRD0GW6y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 981,
+          "like_count": 9176,
+          "listed_count": 7,
+          "media_count": 720,
+          "tweet_count": 3236
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1939327665745564090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909879230248501250/Q3RTGa6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6356,
+          "following_count": 3622,
+          "like_count": 91873,
+          "listed_count": 16,
+          "media_count": 5315,
+          "tweet_count": 80019
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862149589161086976"
+      ],
+      "media_source_tweet_id": [
+        "1862149600041378205"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "conversation_id": "1862346008526823836",
+    "created_at": "2024-11-29T04:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T05:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862346008526823836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1730436732049600512",
+          "start": 3,
+          "username": "sally7731478613"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RzYbxJoK28",
+          "end": 140,
+          "expanded_url": "https://x.com/sally7731478613/status/1862149600041378205/photo/1",
+          "media_key": "3_1862149589161086976",
+          "start": 117,
+          "url": "https://t.co/RzYbxJoK28"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862346008526823836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862149600041378205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sally7731478613: 分手的时候对面会因为细数不出我的过错而气急败坏，他认为我很洋洋得意，实际上我会因为知道了那个我曾经最信任的人，是个虚伪的人渣…而难过😔\n真诚对待别人也许没有错，但是会给人渣创造伤害你的机会（ https://t.co/RzYbxJoK28"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1862149589161086976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdevL2yWEAAXRje.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862149589161086976"
+          ],
+          "media_source_tweet_id": [
+            "1862149600041378205"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "conversation_id": "1862346008526823836",
+        "created_at": "2024-11-29T04:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T05:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862346008526823836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1730436732049600512",
+              "start": 3,
+              "username": "sally7731478613"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RzYbxJoK28",
+              "end": 140,
+              "expanded_url": "https://x.com/sally7731478613/status/1862149600041378205/photo/1",
+              "media_key": "3_1862149589161086976",
+              "start": 117,
+              "url": "https://t.co/RzYbxJoK28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862346008526823836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862149600041378205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sally7731478613: 分手的时候对面会因为细数不出我的过错而气急败坏，他认为我很洋洋得意，实际上我会因为知道了那个我曾经最信任的人，是个虚伪的人渣…而难过😔\n真诚对待别人也许没有错，但是会给人渣创造伤害你的机会（ https://t.co/RzYbxJoK28"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862149589161086976"
+          ]
+        },
+        "author_id": "1730436732049600512",
+        "conversation_id": "1862149600041378205",
+        "created_at": "2024-11-28T15:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T16:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862149600041378205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RzYbxJoK28",
+              "end": 119,
+              "expanded_url": "https://x.com/sally7731478613/status/1862149600041378205/photo/1",
+              "media_key": "3_1862149589161086976",
+              "start": 96,
+              "url": "https://t.co/RzYbxJoK28"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862149600041378205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6639,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "分手的时候对面会因为细数不出我的过错而气急败坏，他认为我很洋洋得意，实际上我会因为知道了那个我曾经最信任的人，是个虚伪的人渣…而难过😔\n真诚对待别人也许没有错，但是会给人渣创造伤害你的机会（ https://t.co/RzYbxJoK28"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我的小孩脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 88,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "一只希汐#θωθ",
+        "pinned_tweet_id": "1858814345456873777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 919,
+          "like_count": 6877,
+          "listed_count": 5,
+          "media_count": 511,
+          "tweet_count": 2022
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T04:00:53.000Z",
+        "description": "看清楚是药娘xyn🏳️‍⚧️，天残党，已经炸柜，半家长党，线下圆角实习中....\n🚪150（线下🈷先过🚪）口令or赞赏码，真的很感谢，咱可以陪聊或者偶尔发涩涩...",
+        "id": "1730436732049600512",
+        "location": "Addison apartment ",
+        "name": "sally🍥",
+        "pinned_tweet_id": "1831570603280855318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740231177469083648/AJ4IwuGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57324,
+          "following_count": 757,
+          "like_count": 21587,
+          "listed_count": 165,
+          "media_count": 1778,
+          "tweet_count": 10345
+        },
+        "username": "sally7731478613",
+        "verified": false
+      }
+    ]
+  }
+}

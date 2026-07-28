@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1862414090540654595"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "conversation_id": "1862414091413069866",
+    "created_at": "2024-11-29T08:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T09:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862414091413069866"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1862414091413069866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无题"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 80,
+        "end_datetime": "2024-11-29T09:51:35.000Z",
+        "id": "1862414090540654595",
+        "options": [
+          {
+            "label": "自己逃",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "关照别人情绪",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1862414090540654595"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "conversation_id": "1862414091413069866",
+        "created_at": "2024-11-29T08:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T09:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862414091413069866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862414091413069866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我的小孩脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 88,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "一只希汐#θωθ",
+        "pinned_tweet_id": "1858814345456873777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 920,
+          "like_count": 6888,
+          "listed_count": 5,
+          "media_count": 512,
+          "tweet_count": 2032
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

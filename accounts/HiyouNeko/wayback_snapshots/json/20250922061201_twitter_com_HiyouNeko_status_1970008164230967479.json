@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970008151484514304"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1970008164230967479",
+    "created_at": "2025-09-22T06:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T07:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970008164230967479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sv0iH7F3Am",
+          "end": 41,
+          "expanded_url": "https://x.com/HiyouNeko/status/1970008164230967479/photo/1",
+          "media_key": "3_1970008151484514304",
+          "start": 18,
+          "url": "https://t.co/sv0iH7F3Am"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970008164230967479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "让你自定义飞船不是让你来打牌的嘿？ https://t.co/sv0iH7F3Am"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1482,
+        "media_key": "3_1970008151484514304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1bf-enbwAArvB-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970008151484514304"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1970008164230967479",
+        "created_at": "2025-09-22T06:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T07:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970008164230967479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sv0iH7F3Am",
+              "end": 41,
+              "expanded_url": "https://x.com/HiyouNeko/status/1970008164230967479/photo/1",
+              "media_key": "3_1970008151484514304",
+              "start": 18,
+              "url": "https://t.co/sv0iH7F3Am"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970008164230967479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让你自定义飞船不是让你来打牌的嘿？ https://t.co/sv0iH7F3Am"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 981,
+          "like_count": 9172,
+          "listed_count": 7,
+          "media_count": 720,
+          "tweet_count": 3234
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

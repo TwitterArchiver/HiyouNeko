@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050496970427637760"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2050496978690412861",
+    "created_at": "2026-05-02T08:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050496978690412861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fNPOgg8Kcl",
+          "end": 38,
+          "expanded_url": "https://x.com/HiyouNeko/status/2050496978690412861/photo/1",
+          "media_key": "3_2050496970427637760",
+          "start": 15,
+          "url": "https://t.co/fNPOgg8Kcl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050496978690412861",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是牛肉更是牛肉喵⌯ᵔᗜᵔ⌯ಣ https://t.co/fNPOgg8Kcl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 638,
+        "media_key": "3_2050496970427637760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTUIW9aoAAiLEM.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050496970427637760"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050496978690412861",
+        "created_at": "2026-05-02T08:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050496978690412861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fNPOgg8Kcl",
+              "end": 38,
+              "expanded_url": "https://x.com/HiyouNeko/status/2050496978690412861/photo/1",
+              "media_key": "3_2050496970427637760",
+              "start": 15,
+              "url": "https://t.co/fNPOgg8Kcl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050496978690412861",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是牛肉更是牛肉喵⌯ᵔᗜᵔ⌯ಣ https://t.co/fNPOgg8Kcl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦精品神藥享受者💊不割手❦永不满足的爱，和以此倍增的恨.❦ bambisleep淪陷中.... ❦可爱小猫 @herself32 ❦關注斑比醬喵w謝謝喵w❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "˚₊‧꒰ა淫亂雌豚☆斑比醬໒꒱‧₊˚",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049934586797498368/LXLTNPuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 1071,
+          "like_count": 9934,
+          "listed_count": 6,
+          "media_count": 840,
+          "tweet_count": 3767
+        },
+        "username": "HiyouNeko",
+        "verified": true
+      }
+    ]
+  }
+}

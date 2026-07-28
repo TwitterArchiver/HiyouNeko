@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1793849557660631458",
+    "created_at": "2024-05-24T05:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T06:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793872785657479195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1652582280974708736",
+          "start": 0,
+          "username": "yingxue20747802"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793872785657479195",
+    "in_reply_to_user_id": "1652582280974708736",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793849557660631458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yingxue20747802 看着都尴尬，他不尴尬吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1793849557660631458",
+        "created_at": "2024-05-24T05:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T06:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793872785657479195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1652582280974708736",
+              "start": 0,
+              "username": "yingxue20747802"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793872785657479195",
+        "in_reply_to_user_id": "1652582280974708736",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793849557660631458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yingxue20747802 看着都尴尬，他不尴尬吗"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793849555127300096"
+          ]
+        },
+        "author_id": "1652582280974708736",
+        "conversation_id": "1793849557660631458",
+        "created_at": "2024-05-24T03:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T04:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793849557660631458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/jef4Fu6AdI",
+              "end": 143,
+              "expanded_url": "https://twitter.com/yingxue20747802/status/1793849557660631458/photo/1",
+              "media_key": "3_1793849555127300096",
+              "start": 120,
+              "url": "https://t.co/jef4Fu6AdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793849557660631458",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2766,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是……我真的好讨厌刚接受私信就开始“审问”我的私人问题……\n一口一个“变性手术”就算了还一条一条问隐私，我回你一个挺隐私的问题不代表我就会接受你的深入追问叭？？？\n不知道还以为我犯啥事了被抓了，问我家庭情况、父母关系、住址、大学专业…… https://t.co/jef4Fu6AdI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦-希月涟漪赋予汐-❦Dom/假的❦mtf🏳‍⚧❦降临派/请主降临毁灭人类❦魔女化后是病娇魔女❦麻木/没有感情的AI❦偶尔是发癫/抽象是常态❦活在幻想中的魔法少女/无恶不作的邪恶妖女❦i am a teapot/bad guy❦讨厌恐怖直立猿/喜欢猫❦真的很爱喝野格和咩宝宝@littlelambqwq❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 137,
+                "username": "littlelambqwq"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "AAA希汐是水系魔法师（妖女版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786272582314106880/x7-Zl02l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 892,
+          "like_count": 4975,
+          "listed_count": 9,
+          "tweet_count": 1345
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T07:55:02.000Z",
+        "description": "文学少女 / mtf  / 退役魔法少女（尊嘟） / 美食生活岁静日常推 / hrt2023.11.5 / 女同 / INFP-A / 无知又博学？  / 家长党 / 努力党~ / 天赋党？（别人说的……我看肯定存疑！）  / 支持部分同类、友跨贴贴互fo~ / 欢迎私信找我聊天但不回三无、看黄或者没礼貌号哦~",
+        "id": "1652582280974708736",
+        "location": "Super Earth",
+        "name": "樱雪🏳️‍⚧️🍥 🥟🍜🍔🍇🍟🍰🍪🍱🍓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787758645188689920/M7T8Ew8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8838,
+          "following_count": 301,
+          "like_count": 18005,
+          "listed_count": 27,
+          "tweet_count": 5943
+        },
+        "username": "yingxue20747802",
+        "verified": false
+      }
+    ]
+  }
+}

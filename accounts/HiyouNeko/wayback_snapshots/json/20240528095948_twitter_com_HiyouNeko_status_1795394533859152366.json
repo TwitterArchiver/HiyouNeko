@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1795271243895382334",
+    "created_at": "2024-05-28T09:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T10:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795394533859152366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1383940842239381510",
+          "start": 0,
+          "username": "Teufel_Tigrov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795394533859152366",
+    "in_reply_to_user_id": "1383940842239381510",
+    "lang": "eu",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795271243895382334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Teufel_Tigrov Ruarua"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1795271243895382334",
+        "created_at": "2024-05-28T09:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T10:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795394533859152366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1383940842239381510",
+              "start": 0,
+              "username": "Teufel_Tigrov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795394533859152366",
+        "in_reply_to_user_id": "1383940842239381510",
+        "lang": "eu",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795271243895382334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Teufel_Tigrov Ruarua"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1795169960282443779"
+          ],
+          "media_source_tweet_id": [
+            "1795170003466989762"
+          ]
+        },
+        "author_id": "1383940842239381510",
+        "conversation_id": "1795271243895382334",
+        "created_at": "2024-05-28T01:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T02:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795271243895382334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/S1WSKx3ckw",
+              "end": 36,
+              "expanded_url": "https://twitter.com/TheRotFox/status/1795170003466989762/video/1",
+              "media_key": "7_1795169960282443779",
+              "start": 13,
+              "url": "https://t.co/S1WSKx3ckw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795271243895382334",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 306,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "(带着孩子坟头蹦迪的店长 https://t.co/S1WSKx3ckw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦-这个老登叫希汐-❦Dom❦RIP1999.05.10～2028.07.09❦降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格❦是香香软软的持证含糖友跨顺男捏❦全世界最闪耀的蝎蝎 @XIEXIEkawaii ❦🚪100",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 100,
+                "username": "XIEXIEkawaii"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "AAA希汐是水系魔法师👀",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795034500881412096/5-HjWywU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 905,
+          "like_count": 5255,
+          "listed_count": 9,
+          "tweet_count": 1403
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-19T00:30:40.000Z",
+        "description": "静候天机/半拉机佬/弹底引信装药列巴/野生，无法驯服，会咬人/拒绝键政（tl清洗常态化）/Steam人/夹着尾巴做狐/夏季毛/´∀`祝各位财源广进，万事如意~/被迫广告位@SuzukiAiko123 瘦干似的占卜白狐狸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 85,
+                "username": "SuzukiAiko123"
+              }
+            ]
+          }
+        },
+        "id": "1383940842239381510",
+        "location": "神々が恋した幻想郷",
+        "name": "狐店長🍞尾翼稳定脱壳穿甲狐",
+        "pinned_tweet_id": "1782928715363868880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724325631188754432/SjtdN8Qq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2326,
+          "following_count": 757,
+          "like_count": 87501,
+          "listed_count": 18,
+          "tweet_count": 69853
+        },
+        "username": "Teufel_Tigrov",
+        "verified": false
+      }
+    ]
+  }
+}

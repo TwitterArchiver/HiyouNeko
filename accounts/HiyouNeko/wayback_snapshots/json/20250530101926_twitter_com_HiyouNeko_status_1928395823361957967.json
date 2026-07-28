@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1928386724960596097",
+    "created_at": "2025-05-30T10:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T11:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928395823361957967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1383940842239381510",
+          "start": 0,
+          "username": "Teufel_Tigrov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928395823361957967",
+    "in_reply_to_user_id": "1383940842239381510",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928388624204132765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Teufel_Tigrov 狐狐好玩ruarua♀=)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_1928388614590959616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsMDOlmaEAA4ogA.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1928386724960596097",
+        "created_at": "2025-05-30T10:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T11:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928395823361957967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1383940842239381510",
+              "start": 0,
+              "username": "Teufel_Tigrov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928395823361957967",
+        "in_reply_to_user_id": "1383940842239381510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928388624204132765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Teufel_Tigrov 狐狐好玩ruarua♀=)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928388614590959616"
+          ]
+        },
+        "author_id": "1383940842239381510",
+        "conversation_id": "1928386724960596097",
+        "created_at": "2025-05-30T09:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T10:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928388624204132765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EYCDbYyN6f",
+              "end": 45,
+              "expanded_url": "https://x.com/Teufel_Tigrov/status/1928388624204132765/photo/1",
+              "media_key": "3_1928388614590959616",
+              "start": 22,
+              "url": "https://t.co/EYCDbYyN6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928388624204132765",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928386724960596097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko (看起来很可爱，尝尝 https://t.co/EYCDbYyN6f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2110,
+          "following_count": 991,
+          "like_count": 9088,
+          "listed_count": 6,
+          "media_count": 693,
+          "tweet_count": 3070
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-19T00:30:40.000Z",
+        "description": "赛博极乐ing/静候天机/电脑配件零售商/亞空間厨房次元厨师，喜欢炖肉/厌恶键政仔，跳脸会B",
+        "id": "1383940842239381510",
+        "location": "Tarkov",
+        "name": "狐店長🍖「边缘世界之狐」",
+        "pinned_tweet_id": "1910998726098690411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911003273693102080/YJtmcZSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2739,
+          "following_count": 828,
+          "like_count": 100746,
+          "listed_count": 23,
+          "media_count": 11075,
+          "tweet_count": 82801
+        },
+        "username": "Teufel_Tigrov",
+        "verified": false
+      }
+    ]
+  }
+}

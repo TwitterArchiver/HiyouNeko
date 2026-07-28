@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1838023106637832588",
+    "created_at": "2024-09-23T08:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T09:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838140829376151610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1833053351027843072",
+          "start": 0,
+          "username": "KivotoSky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838140829376151610",
+    "in_reply_to_user_id": "1833053351027843072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838023106637832588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KivotoSky ₍˄·͈༝·͈˄*₎◞ ̑̑←反正我先放只猫猫在这里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1838023106637832588",
+        "created_at": "2024-09-23T08:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T09:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838140829376151610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1833053351027843072",
+              "start": 0,
+              "username": "KivotoSky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838140829376151610",
+        "in_reply_to_user_id": "1833053351027843072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838023106637832588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KivotoSky ₍˄·͈༝·͈˄*₎◞ ̑̑←反正我先放只猫猫在这里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833053351027843072",
+        "conversation_id": "1838023106637832588",
+        "created_at": "2024-09-23T01:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T02:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838023106637832588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KivotoSky/stat…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/KivotoSky/status/1837966445885771782",
+              "start": 42,
+              "url": "https://t.co/7z7Wf7lfWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838023106637832588",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837966445885771782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后续，一切都只是自作多情\nxyn还是不配拥有爱情啦\n还是继续和姐妹们贴贴啦~🤕🤕🤕 https://t.co/7z7Wf7lfWQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派 ❦ 活在幻想中的魔法少女 ❦ 病娇是魔女化后的产物 ❦ 真的很爱喝野格 ❦ 魔女化进度丨▉▉                                    丨20%❦",
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1856,
+          "following_count": 986,
+          "like_count": 5792,
+          "listed_count": 7,
+          "tweet_count": 1603
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T08:03:09.000Z",
+        "description": "一只不会科研的废柴Sensei，只能来推玩抽象惹。🤓👆\n🏳️‍⚧️🍥 / INFP / 是未知生物，重度玉玉、双相、DID，爱哭很孤僻，爱割手手和od，出没不定，会失踪\n最好的妹妹@SuzukiYuna233，好姐妹@ANON_SHANGHA，最爱的姐姐@ …\n—————\n“雪落无痕，雁过留声，花开花落无人问”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "SuzukiYuna233"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "ANON_SHANGHA"
+              }
+            ]
+          }
+        },
+        "id": "1833053351027843072",
+        "name": "夏日走过山间🍥",
+        "pinned_tweet_id": "1837568428863115613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833113664758689792/tXgVFIDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 81,
+          "like_count": 208,
+          "listed_count": 0,
+          "tweet_count": 226
+        },
+        "username": "KivotoSky",
+        "verified": false
+      }
+    ]
+  }
+}

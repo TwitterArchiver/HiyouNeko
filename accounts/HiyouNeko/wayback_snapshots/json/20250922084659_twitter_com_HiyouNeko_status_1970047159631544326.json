@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1969387252041335262",
+    "created_at": "2025-09-22T08:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T09:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970047159631544326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1951444346433314818",
+          "start": 0,
+          "username": "cai0000012"
+        },
+        {
+          "end": 20,
+          "id": "1618557658163970049",
+          "start": 12,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970047159631544326",
+    "in_reply_to_user_id": "1951444346433314818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969400514728378421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cai0000012 @qqqqqf5 “我重生了！我重生到了百万推主身上”\n“上一世你恶意造谣，害我掉fo只剩几十，这一世我定要让你身败名裂”\n“你别被她骗了，她就是个废物，怎么可能有百万fo”\n“凭什么她发什么都有人看，我却无人问津？我一定要让你万劫不复”\n“是你输了，这一次，我定会让你生不如死”\n“不，不可能，她就是个废物而已啊”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1969387252041335262",
+        "created_at": "2025-09-22T08:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T09:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970047159631544326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1951444346433314818",
+              "start": 0,
+              "username": "cai0000012"
+            },
+            {
+              "end": 20,
+              "id": "1618557658163970049",
+              "start": 12,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970047159631544326",
+        "in_reply_to_user_id": "1951444346433314818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969400514728378421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cai0000012 @qqqqqf5 “我重生了！我重生到了百万推主身上”\n“上一世你恶意造谣，害我掉fo只剩几十，这一世我定要让你身败名裂”\n“你别被她骗了，她就是个废物，怎么可能有百万fo”\n“凭什么她发什么都有人看，我却无人问津？我一定要让你万劫不复”\n“是你输了，这一次，我定会让你生不如死”\n“不，不可能，她就是个废物而已啊”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951444346433314818",
+        "conversation_id": "1969387252041335262",
+        "created_at": "2025-09-20T13:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T14:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969400514728378421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618557658163970049",
+              "start": 0,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969400514728378421",
+        "in_reply_to_user_id": "1618557658163970049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9798,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969387252041335262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf5 这是在说我吗，我最近两位数fo了，我上一世只有8个fo…这一世发的那么多推收到的唯一一条回复是说我胸小的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 981,
+          "like_count": 9174,
+          "listed_count": 7,
+          "media_count": 720,
+          "tweet_count": 3235
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T00:46:16.000Z",
+        "description": "什么都很菜的cai/无证含糖MtF/HRT 2025.02.04",
+        "id": "1951444346433314818",
+        "name": "🍥cai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951445525925863424/zOv7gm1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 14,
+          "like_count": 607,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 172
+        },
+        "username": "cai0000012",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "Null         \n逃生舱:@qqqqqf_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "qqqqqf_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962054912130600960/NK8jfwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1792,
+          "like_count": 5283,
+          "listed_count": 7,
+          "media_count": 478,
+          "tweet_count": 1615
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878272169001799680"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1878272178111848789",
+    "created_at": "2025-01-12T02:45:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T03:45:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1878272178111848789"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/laof9McV1Y",
+          "end": 32,
+          "expanded_url": "https://x.com/HiyouNeko/status/1878272178111848789/photo/1",
+          "media_key": "3_1878272169001799680",
+          "start": 9,
+          "url": "https://t.co/laof9McV1Y"
+        },
+        {
+          "display_url": "x.com/HiyouNeko/stat…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/HiyouNeko/status/1878117122586652934",
+          "start": 33,
+          "url": "https://t.co/IBENCHyjUn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878272178111848789",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878117122586652934",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "出狱了啊我的公主 https://t.co/laof9McV1Y https://t.co/IBENCHyjUn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1878272169001799680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhD2lhDa0AADHiz.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878272169001799680"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1878272178111848789",
+        "created_at": "2025-01-12T02:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T03:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878272178111848789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/laof9McV1Y",
+              "end": 32,
+              "expanded_url": "https://x.com/HiyouNeko/status/1878272178111848789/photo/1",
+              "media_key": "3_1878272169001799680",
+              "start": 9,
+              "url": "https://t.co/laof9McV1Y"
+            },
+            {
+              "display_url": "x.com/HiyouNeko/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/HiyouNeko/status/1878117122586652934",
+              "start": 33,
+              "url": "https://t.co/IBENCHyjUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878272178111848789",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878117122586652934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出狱了啊我的公主 https://t.co/laof9McV1Y https://t.co/IBENCHyjUn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878117110985134080"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1878117122586652934",
+        "created_at": "2025-01-11T16:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T17:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878117122586652934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RhrTfe2rJ0",
+              "end": 45,
+              "expanded_url": "https://x.com/HiyouNeko/status/1878117122586652934/photo/1",
+              "media_key": "3_1878117110985134080",
+              "start": 22,
+              "url": "https://t.co/RhrTfe2rJ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878117122586652934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是乌蒙好玩，全连都没有EX不希汐了qwq https://t.co/RhrTfe2rJ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 汉尼拔宁波分拔 ❦ 水系魔法师 ❦ 这个世上没有比假花更美的花 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1876180576878899482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877247691027263488/PyTo1_2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2018,
+          "following_count": 1002,
+          "like_count": 7951,
+          "listed_count": 6,
+          "media_count": 607,
+          "tweet_count": 2395
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

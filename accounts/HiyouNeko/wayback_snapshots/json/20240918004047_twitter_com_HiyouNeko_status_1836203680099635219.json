@@ -1,0 +1,87 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1836203680099635219",
+    "created_at": "2024-09-18T00:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T01:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1836203680099635219"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1836203680099635219",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一大早进公司差点摔一个大逼兜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1836203680099635219",
+        "created_at": "2024-09-18T00:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T01:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836203680099635219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836203680099635219",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一大早进公司差点摔一个大逼兜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派 ❦ 活在幻想中的魔法少女 ❦ 病娇是魔女化后的产物 ❦ 真的很爱喝野格 ❦ 魔女化进度丨▉▉                                    丨20%❦",
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1848,
+          "following_count": 981,
+          "like_count": 5739,
+          "listed_count": 7,
+          "tweet_count": 1577
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

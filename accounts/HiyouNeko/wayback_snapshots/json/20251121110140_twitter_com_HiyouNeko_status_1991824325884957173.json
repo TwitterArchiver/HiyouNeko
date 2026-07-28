@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1991824325884957173",
+    "created_at": "2025-11-21T11:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T12:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991824325884957173"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1991824325884957173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "忘了之前哪里写的PEA致死量1000mg，我吃了1000多一点也不过微微出汗，我感觉需要4000mg，但是我又忘了哪儿看到有人吞了4000也不过洗洗胃就回家了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1991824325884957173",
+        "created_at": "2025-11-21T11:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T12:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991824325884957173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991824325884957173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忘了之前哪里写的PEA致死量1000mg，我吃了1000多一点也不过微微出汗，我感觉需要4000mg，但是我又忘了哪儿看到有人吞了4000也不过洗洗胃就回家了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "阳痿丨风湿丨前列腺炎丨腰间盘突出。逐渐沦为三坏xyn。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片（今日推荐：爆弹鱼）🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 1038,
+          "like_count": 9476,
+          "listed_count": 7,
+          "media_count": 746,
+          "tweet_count": 3403
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

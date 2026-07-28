@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "2040178619398668429",
+    "created_at": "2026-04-03T21:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T22:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040178619398668429"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mengmeng_JM/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/mengmeng_JM/status/2039954194300555553",
+          "start": 20,
+          "url": "https://t.co/trvd2in2E1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040178619398668429",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039954194300555553",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "So.....why Is blue？ https://t.co/trvd2in2E1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18273,
+        "height": 1280,
+        "media_key": "13_2039954061483802624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039954061483802624/img/iIGwBAHuR-91BJVG.jpg",
+        "public_metrics": {
+          "view_count": 688873
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039954061483802624/vid/avc1/320x568/KjgmkXXiD9Ro8wl-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039954061483802624/vid/avc1/480x852/sMXuA2WUEwyZ4Fjz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039954061483802624/vid/avc1/720x1280/Ou-7q3pX-iOr9bBE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039954061483802624/pl/6pHz4xWA-GtHsNMN.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "2040178619398668429",
+        "created_at": "2026-04-03T21:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T22:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040178619398668429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mengmeng_JM/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/mengmeng_JM/status/2039954194300555553",
+              "start": 20,
+              "url": "https://t.co/trvd2in2E1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040178619398668429",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039954194300555553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "So.....why Is blue？ https://t.co/trvd2in2E1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039954061483802624"
+          ]
+        },
+        "author_id": "1459715095899131911",
+        "conversation_id": "2039954194300555553",
+        "created_at": "2026-04-03T06:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039954194300555553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NA1htZ46CG",
+              "end": 164,
+              "expanded_url": "https://x.com/mengmeng_JM/status/2039954194300555553/video/1",
+              "media_key": "13_2039954061483802624",
+              "start": 141,
+              "url": "https://t.co/NA1htZ46CG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039954194300555553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 894,
+          "impression_count": 49597,
+          "like_count": 2594,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "今天戴锁塞着跳蛋，一早上开会，批文，整天酥酥麻麻的，吃饭的时候比较吵就开到最强，顿时吃不下饭了，一阵高潮，感觉下面憋的不行，精液不断涌出，第一次在锁内射了，饭也不吃了，直接回办公室，想看看有没有弄脏，结果没有，都在锁里呢，看着短小的牛子，笑了出来，怎么那么没用，还没硬呢，就泄了… https://t.co/NA1htZ46CG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦od💊不割手❦永不满足的爱，和以此倍增的恨.❦可爱小猫 @herself32 ❦发情期再放送.....❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "˚₊‧꒰ა超绝可爱☆派对姬໒꒱‧₊˚",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039989141258285056/QqoUIn1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2069,
+          "following_count": 1036,
+          "like_count": 9666,
+          "listed_count": 6,
+          "media_count": 800,
+          "tweet_count": 3623
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-14T02:49:42.000Z",
+        "description": "伪娘 反差婊 喜欢露出 记录另一个自己",
+        "id": "1459715095899131911",
+        "name": "萌萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845667128755572736/pbNgObve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5385,
+          "following_count": 217,
+          "like_count": 464,
+          "listed_count": 32,
+          "media_count": 141,
+          "tweet_count": 690
+        },
+        "username": "mengmeng_JM",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1934447391002006012",
+    "created_at": "2025-06-17T07:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T08:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934883379285201096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "165407871",
+          "start": 0,
+          "username": "Solitude_Sola"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934883379285201096",
+    "in_reply_to_user_id": "165407871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934447391002006012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Solitude_Sola 初中老师都有教，科学发展是站在巨人的肩膀上的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1934446794752307200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtiJHFYasAAebKk.jpg",
+        "width": 896
+      },
+      {
+        "height": 1320,
+        "media_key": "3_1934447312874717184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtiJlPibQAAGb_u.jpg",
+        "width": 1218
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1934447391002006012",
+        "created_at": "2025-06-17T07:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T08:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934883379285201096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "165407871",
+              "start": 0,
+              "username": "Solitude_Sola"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934883379285201096",
+        "in_reply_to_user_id": "165407871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934447391002006012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Solitude_Sola 初中老师都有教，科学发展是站在巨人的肩膀上的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934446794752307200",
+            "3_1934447312874717184"
+          ]
+        },
+        "author_id": "165407871",
+        "conversation_id": "1934447391002006012",
+        "created_at": "2025-06-16T03:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T04:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934447391002006012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YE9Ca1kFMm",
+              "end": 39,
+              "expanded_url": "https://x.com/Solitude_Sola/status/1934447391002006012/photo/1",
+              "media_key": "3_1934446794752307200",
+              "start": 16,
+              "url": "https://t.co/YE9Ca1kFMm"
+            },
+            {
+              "display_url": "pic.x.com/YE9Ca1kFMm",
+              "end": 39,
+              "expanded_url": "https://x.com/Solitude_Sola/status/1934447391002006012/photo/1",
+              "media_key": "3_1934447312874717184",
+              "start": 16,
+              "url": "https://t.co/YE9Ca1kFMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934447391002006012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 135466,
+          "like_count": 784,
+          "quote_count": 4,
+          "reply_count": 50,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "无可奈何花落去，似曾相识燕归来 https://t.co/YE9Ca1kFMm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2123,
+          "following_count": 982,
+          "like_count": 9192,
+          "listed_count": 6,
+          "media_count": 708,
+          "tweet_count": 3171
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-11T13:41:45.000Z",
+        "description": "守序邪恶 == 真名宿敌\n\n万般皆下品，唯有狞狞高。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Solitude_Sola",
+                "end": 23,
+                "expanded_url": "http://t.me/Solitude_Sola",
+                "start": 0,
+                "url": "https://t.co/bwcOewi77e"
+              }
+            ]
+          }
+        },
+        "id": "165407871",
+        "location": "投身之所",
+        "name": "空空 🌟 狞猫世界第一可爱！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1422573861787209730/RJWO2Gsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20241,
+          "following_count": 552,
+          "like_count": 554,
+          "listed_count": 124,
+          "media_count": 20060,
+          "tweet_count": 65723
+        },
+        "url": "https://t.co/bwcOewi77e",
+        "username": "Solitude_Sola",
+        "verified": true
+      }
+    ]
+  }
+}

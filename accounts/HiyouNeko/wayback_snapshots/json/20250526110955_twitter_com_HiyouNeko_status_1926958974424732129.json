@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1926922601412100585",
+    "created_at": "2025-05-26T11:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T12:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926958974424732129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1200920554007515138",
+          "start": 0,
+          "username": "moskalin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926958974424732129",
+    "in_reply_to_user_id": "1200920554007515138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926943329771458596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moskalin1 离职人多需要挂号排队办理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1926922601412100585",
+        "created_at": "2025-05-26T11:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T12:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926958974424732129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1200920554007515138",
+              "start": 0,
+              "username": "moskalin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926958974424732129",
+        "in_reply_to_user_id": "1200920554007515138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926943329771458596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moskalin1 离职人多需要挂号排队办理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1200920554007515138",
+        "conversation_id": "1926922601412100585",
+        "created_at": "2025-05-26T10:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T11:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926943329771458596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926943329771458596",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926922601412100585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 汉尼拔宁波分拔»»我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 只要你也玩暗区突围你就是我脑婆ww ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1922832818012340691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 991,
+          "like_count": 9056,
+          "listed_count": 6,
+          "media_count": 689,
+          "tweet_count": 3048
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-30T23:32:45.000Z",
+        "description": "家猫wᦗ纯种病娇ᦗ注意！此人会进行极其强大的自我PUAᦗ色补服用中ᦗ重度焦虑ᦗ想吃火锅ᦗ我喜欢大家ᦗ想要对象",
+        "id": "1200920554007515138",
+        "location": "请来找我plz",
+        "name": "moskalin",
+        "pinned_tweet_id": "1786795952520745468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882240978008039424/LvePGDY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 289,
+          "like_count": 1313,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1357
+        },
+        "username": "moskalin1",
+        "verified": false
+      }
+    ]
+  }
+}

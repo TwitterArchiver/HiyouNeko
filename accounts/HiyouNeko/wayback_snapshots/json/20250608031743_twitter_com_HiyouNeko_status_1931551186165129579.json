@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1931551186165129579",
+    "created_at": "2025-06-08T03:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T04:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931551186165129579"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931551186165129579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好的，可算是清醒了，总结一下时间线吧，三件套星期五晚上11点左右开始的，600+30+4，20min没什么感觉，40min初有起效，60分钟也就那样，120分钟感觉还好，又加了600+20+4，不知道过了多少分钟开始发癫，话痨，又不知道多少分钟倒头就睡，第二天晕麻了，坐车时候的推背感好爽好爽爽翻了翻白眼了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1931551186165129579",
+        "created_at": "2025-06-08T03:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T04:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931551186165129579"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931551186165129579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好的，可算是清醒了，总结一下时间线吧，三件套星期五晚上11点左右开始的，600+30+4，20min没什么感觉，40min初有起效，60分钟也就那样，120分钟感觉还好，又加了600+20+4，不知道过了多少分钟开始发癫，话痨，又不知道多少分钟倒头就睡，第二天晕麻了，坐车时候的推背感好爽好爽爽翻了翻白眼了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2117,
+          "following_count": 995,
+          "like_count": 9134,
+          "listed_count": 6,
+          "media_count": 703,
+          "tweet_count": 3120
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

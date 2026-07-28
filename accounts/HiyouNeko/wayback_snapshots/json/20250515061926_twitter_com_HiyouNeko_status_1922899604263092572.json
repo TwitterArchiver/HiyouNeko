@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1922899604263092572",
+    "created_at": "2025-05-15T06:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T07:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922899604263092572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jianlvup/statu…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/jianlvup/status/1922674533250564311",
+          "start": 13,
+          "url": "https://t.co/6srNw3Nu1s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922899604263092572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922674533250564311",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不管叫谁我都是叫“老师” https://t.co/6srNw3Nu1s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 928,
+        "media_key": "3_1922674525780738048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq62S1_agAA6909.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1922899604263092572",
+        "created_at": "2025-05-15T06:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T07:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922899604263092572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianlvup/statu…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/jianlvup/status/1922674533250564311",
+              "start": 13,
+              "url": "https://t.co/6srNw3Nu1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922899604263092572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922674533250564311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不管叫谁我都是叫“老师” https://t.co/6srNw3Nu1s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922674525780738048"
+          ]
+        },
+        "author_id": "1589809419822329857",
+        "conversation_id": "1922674533250564311",
+        "created_at": "2025-05-14T15:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T16:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922674533250564311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5kb0sjS0Kg",
+              "end": 31,
+              "expanded_url": "https://x.com/jianlvup/status/1922674533250564311/photo/1",
+              "media_key": "3_1922674525780738048",
+              "start": 8,
+              "url": "https://t.co/5kb0sjS0Kg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922674533250564311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2344,
+          "like_count": 30,
+          "quote_count": 6,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么称呼对方？ https://t.co/5kb0sjS0Kg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 果然是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登（当心给你下降头） ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 123,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1922832818012340691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2102,
+          "following_count": 981,
+          "like_count": 8956,
+          "listed_count": 6,
+          "media_count": 681,
+          "tweet_count": 2986
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 可互fo（私信） INTJ 二次元热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 逃生舱：待定\n搭档:@KawawaDiana8964\n朋友:@hhjnjkoguyunmo\n伙伴：@RealColidora3\n前身：@Jianlv117（复活赛中）1.5万粉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 98,
+                "start": 83,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "RealColidora3"
+              },
+              {
+                "end": 130,
+                "start": 120,
+                "username": "Jianlv117"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E6%90%9E%E7%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E6%90%9E%E7%AC%91%E8%A7%86%E9%A2%91-mvp",
+                "start": 0,
+                "url": "https://t.co/391J9kVPFC"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（回复1和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律·繁律（互fo私信）",
+        "pinned_tweet_id": "1922283125721227569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 536,
+          "like_count": 6969,
+          "listed_count": 6,
+          "media_count": 297,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/391J9kVPFC",
+        "username": "jianlvup",
+        "verified": false
+      }
+    ]
+  }
+}

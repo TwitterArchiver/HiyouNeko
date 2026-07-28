@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1909516390501171445",
+    "created_at": "2025-04-08T07:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T08:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909516390501171445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DDzhanshou5150…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/DDzhanshou5150/status/1909221607387853303",
+          "start": 44,
+          "url": "https://t.co/2DZzYhT9Zj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909516390501171445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909221607387853303",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "咱这边是摆烂了已经，今天挣钱明天花，明天花完后天死，存下来也留不到下辈子的说..... https://t.co/2DZzYhT9Zj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1909221567827247104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn7q5oPbgAATtXx.png",
+        "width": 797
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1909516390501171445",
+        "created_at": "2025-04-08T07:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T08:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909516390501171445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DDzhanshou5150…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/DDzhanshou5150/status/1909221607387853303",
+              "start": 44,
+              "url": "https://t.co/2DZzYhT9Zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909516390501171445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909221607387853303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱这边是摆烂了已经，今天挣钱明天花，明天花完后天死，存下来也留不到下辈子的说..... https://t.co/2DZzYhT9Zj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909221567827247104"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1909221607387853303",
+        "created_at": "2025-04-07T12:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T13:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909221607387853303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wqvd5AJDL2",
+              "end": 50,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1909221607387853303/photo/1",
+              "media_key": "3_1909221567827247104",
+              "start": 27,
+              "url": "https://t.co/Wqvd5AJDL2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909221607387853303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 334,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "低情商：我没钱没存款\n高情商：本人呈现金融脆弱性特征 https://t.co/Wqvd5AJDL2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是友跨顺难 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2076,
+          "following_count": 969,
+          "like_count": 8560,
+          "listed_count": 6,
+          "media_count": 649,
+          "tweet_count": 2738
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人  fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "蒂蒂斩首",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908057654267990016/0WM0C63a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2481,
+          "following_count": 2562,
+          "like_count": 4734,
+          "listed_count": 2,
+          "media_count": 762,
+          "tweet_count": 6742
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

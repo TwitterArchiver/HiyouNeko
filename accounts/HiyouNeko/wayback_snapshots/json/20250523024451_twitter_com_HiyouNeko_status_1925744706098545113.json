@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1925744706098545113",
+    "created_at": "2025-05-23T02:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T03:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925744706098545113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Cldeop/status/1925582173169754296",
+          "start": 5,
+          "url": "https://t.co/StZfeLLArC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925744706098545113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925582173169754296",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "黑暗决斗 https://t.co/StZfeLLArC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1871,
+        "media_key": "3_1925204914395070464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grezq2JawAAK4OO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1925744706098545113",
+        "created_at": "2025-05-23T02:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T03:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925744706098545113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Cldeop/status/1925582173169754296",
+              "start": 5,
+              "url": "https://t.co/StZfeLLArC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925744706098545113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925582173169754296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "黑暗决斗 https://t.co/StZfeLLArC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925204914395070464"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1925582173169754296",
+        "created_at": "2025-05-22T15:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T16:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925582173169754296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3II0bV0Min",
+              "end": 35,
+              "expanded_url": "https://x.com/Cldeop/status/1925582173169754296/photo/1",
+              "media_key": "3_1925204914395070464",
+              "start": 12,
+              "url": "https://t.co/3II0bV0Min"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925582173169754296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 20444,
+          "like_count": 307,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "？你们打羽毛球的好恐怖 https://t.co/3II0bV0Min"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 果然是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登（当心给你下降头） ❦ 这个世上没有比假花更美的花❦ 一起打暗区你就是我的好脑婆（） ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1922832818012340691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2102,
+          "following_count": 986,
+          "like_count": 9013,
+          "listed_count": 6,
+          "media_count": 684,
+          "tweet_count": 3023
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65985,
+          "following_count": 568,
+          "like_count": 28990,
+          "listed_count": 221,
+          "media_count": 9872,
+          "tweet_count": 14028
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

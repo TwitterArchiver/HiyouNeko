@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972579432624967680"
+      ],
+      "media_source_tweet_id": [
+        "1972579435808428450"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "conversation_id": "1972898267815104759",
+    "created_at": "2025-09-30T05:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T06:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972898267815104759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639816523190763521",
+          "start": 3,
+          "username": "ggdxfulan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dVyTdrUebZ",
+          "end": 42,
+          "expanded_url": "https://x.com/ggdxfulan/status/1972579435808428450/photo/1",
+          "media_key": "3_1972579432624967680",
+          "start": 19,
+          "url": "https://t.co/dVyTdrUebZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972898267815104759",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972579435808428450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggdxfulan: ？？？ https://t.co/dVyTdrUebZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_1972579432624967680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ACivTaUAAeW9E.jpg",
+        "width": 1266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972579432624967680"
+          ],
+          "media_source_tweet_id": [
+            "1972579435808428450"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "conversation_id": "1972898267815104759",
+        "created_at": "2025-09-30T05:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T06:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972898267815104759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639816523190763521",
+              "start": 3,
+              "username": "ggdxfulan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dVyTdrUebZ",
+              "end": 42,
+              "expanded_url": "https://x.com/ggdxfulan/status/1972579435808428450/photo/1",
+              "media_key": "3_1972579432624967680",
+              "start": 19,
+              "url": "https://t.co/dVyTdrUebZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972898267815104759",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972579435808428450",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggdxfulan: ？？？ https://t.co/dVyTdrUebZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972579432624967680"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "conversation_id": "1972579435808428450",
+        "created_at": "2025-09-29T08:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T09:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972579435808428450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dVyTdrUebZ",
+              "end": 27,
+              "expanded_url": "https://x.com/ggdxfulan/status/1972579435808428450/photo/1",
+              "media_key": "3_1972579432624967680",
+              "start": 4,
+              "url": "https://t.co/dVyTdrUebZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972579435808428450",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 73700,
+          "like_count": 405,
+          "quote_count": 6,
+          "reply_count": 28,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "？？？ https://t.co/dVyTdrUebZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 982,
+          "like_count": 9230,
+          "listed_count": 7,
+          "media_count": 725,
+          "tweet_count": 3256
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "MtX药娘只1不0永不翻车、持MtF证(莫名其妙开出来的)、抖s、ENFP，男同攻、姐T的组合体，喜欢草人",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒芙兰🍥",
+        "pinned_tweet_id": "1956173228302589992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929849322272968704/hQan_chB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11195,
+          "following_count": 448,
+          "like_count": 27287,
+          "listed_count": 20,
+          "media_count": 2909,
+          "tweet_count": 9998
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

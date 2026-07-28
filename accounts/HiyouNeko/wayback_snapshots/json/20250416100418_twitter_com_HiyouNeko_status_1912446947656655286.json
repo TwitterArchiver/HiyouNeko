@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1912446947656655286",
+    "created_at": "2025-04-16T10:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T11:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912446947656655286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/teachaerli/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/teachaerli/status/1912324027965927618",
+          "start": 8,
+          "url": "https://t.co/8Kw0NqTOMG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912446947656655286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912324027965927618",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "铁臂，碎石给闪 https://t.co/8Kw0NqTOMG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 655,
+        "media_key": "3_1912324025147117568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GonwkaZW0AAhpw0.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1912446947656655286",
+        "created_at": "2025-04-16T10:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T11:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912446947656655286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/teachaerli/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/teachaerli/status/1912324027965927618",
+              "start": 8,
+              "url": "https://t.co/8Kw0NqTOMG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912446947656655286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912324027965927618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "铁臂，碎石给闪 https://t.co/8Kw0NqTOMG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912324025147117568"
+          ]
+        },
+        "author_id": "1817573438334341120",
+        "conversation_id": "1912324027965927618",
+        "created_at": "2025-04-16T01:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T02:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912324027965927618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/omA5h3WfiK",
+              "end": 23,
+              "expanded_url": "https://x.com/teachaerli/status/1912324027965927618/photo/1",
+              "media_key": "3_1912324025147117568",
+              "start": 0,
+              "url": "https://t.co/omA5h3WfiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912324027965927618",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 91475,
+          "like_count": 402,
+          "quote_count": 42,
+          "reply_count": 403,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/omA5h3WfiK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 984,
+          "like_count": 8673,
+          "listed_count": 6,
+          "media_count": 655,
+          "tweet_count": 2807
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T14:51:15.000Z",
+        "description": "墙外天才鉴定师，没病走两步！",
+        "id": "1817573438334341120",
+        "name": "我是你的李院长",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817578026479370240/ENddSCbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4018,
+          "following_count": 84,
+          "like_count": 40,
+          "listed_count": 10,
+          "media_count": 308,
+          "tweet_count": 331
+        },
+        "username": "teachaerli",
+        "verified": true
+      }
+    ]
+  }
+}

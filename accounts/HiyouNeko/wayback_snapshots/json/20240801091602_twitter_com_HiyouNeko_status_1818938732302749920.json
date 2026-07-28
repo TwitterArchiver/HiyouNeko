@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1818549392833757273",
+    "created_at": "2024-08-01T09:16:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T10:16:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818938732302749920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1622900690829053952",
+          "start": 0,
+          "username": "mfsnmlx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818938732302749920",
+    "in_reply_to_user_id": "1622900690829053952",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818679170622537993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mfsnmlx 我讨厌ntr（小声bb）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1818549392833757273",
+        "created_at": "2024-08-01T09:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T10:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818938732302749920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1622900690829053952",
+              "start": 0,
+              "username": "mfsnmlx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818938732302749920",
+        "in_reply_to_user_id": "1622900690829053952",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818679170622537993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mfsnmlx 我讨厌ntr（小声bb）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622900690829053952",
+        "conversation_id": "1818549392833757273",
+        "created_at": "2024-07-31T16:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T17:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818679170622537993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818679170622537993",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818549392833757273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 发动抢夺，偷走猫猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦-这个老登叫希汐-❦Dom❦RIP1999.05.10～2028.07.09❦降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格❦全世界最闪耀的蝎蝎 @XIEXIEkawaii ❦  永劫无间 ❦ 无畏契约 ❦ 游戏王 ❦ 打游戏速速dd ❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 84,
+                "username": "XIEXIEkawaii"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "AAA希汐是水系魔法师👀",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795034500881412096/5-HjWywU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 922,
+          "like_count": 5483,
+          "listed_count": 7,
+          "tweet_count": 1459
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-07T10:11:06.000Z",
+        "description": "困，想睡觉",
+        "id": "1622900690829053952",
+        "location": "1.14km",
+        "name": "魔法少女妖兰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812909674376884224/-XHqw9I4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 58,
+          "like_count": 304,
+          "listed_count": 0,
+          "tweet_count": 394
+        },
+        "username": "mfsnmlx",
+        "verified": false
+      }
+    ]
+  }
+}

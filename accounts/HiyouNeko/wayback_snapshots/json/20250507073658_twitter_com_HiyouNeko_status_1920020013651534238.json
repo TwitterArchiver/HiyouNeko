@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1920020013651534238",
+    "created_at": "2025-05-07T07:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T08:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920020013651534238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FTMiaoX/status…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/FTMiaoX/status/1919801962629062841",
+          "start": 107,
+          "url": "https://t.co/uOvkChNKLc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920020013651534238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919801962629062841",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "玩暗区突围玩的\n\n每次听到“一队找掩护，二队包抄”的语音，都在脑补一个画面：\n\n我坐在窗台前玩游戏，\n\n阿贾克斯大喊“一队找掩体，二队包抄”的声音，\n\n然后窗台后面藏了一堆人围观，一个壮汉从后面抱起我就是一顿包抄 https://t.co/uOvkChNKLc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1920020013651534238",
+        "created_at": "2025-05-07T07:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T08:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920020013651534238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FTMiaoX/status…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/FTMiaoX/status/1919801962629062841",
+              "start": 107,
+              "url": "https://t.co/uOvkChNKLc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920020013651534238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919801962629062841",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玩暗区突围玩的\n\n每次听到“一队找掩护，二队包抄”的语音，都在脑补一个画面：\n\n我坐在窗台前玩游戏，\n\n阿贾克斯大喊“一队找掩体，二队包抄”的声音，\n\n然后窗台后面藏了一堆人围观，一个壮汉从后面抱起我就是一顿包抄 https://t.co/uOvkChNKLc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1025546987578556417",
+        "conversation_id": "1919801962629062841",
+        "created_at": "2025-05-06T17:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T18:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919801962629062841"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919801962629062841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 745,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "玩三角洲玩的\n\n每次听到“注意，炮击即将抵达”的语音，都在脑补一个画面：\n\n一个福利姬在做涩涩直播，\n\n背景响起“注意，炮击即将抵达”的声音，\n\n然后画面中出现了一个炮机开始动（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 果然是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登（当心给你下降头） ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 123,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097,
+          "following_count": 971,
+          "like_count": 8918,
+          "listed_count": 6,
+          "media_count": 680,
+          "tweet_count": 2963
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T01:00:30.000Z",
+        "description": "ftx/ftm/ASD/ADHD/S/Dom/我是发条 你的温柔赛博小黑猫/一般路过肥宅/❤️属于我的@BakaHDT/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/主页搜索“授权”可以看到我的一些转载授权/我爱你 希望你幸福快乐 提问https://t.co/a4UYlpzxKj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "BakaHDT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ftmiao",
+                "end": 155,
+                "expanded_url": "https://ngl.link/ftmiao",
+                "start": 132,
+                "url": "https://t.co/a4UYlpzxKj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveFTMiaoTV",
+                "end": 23,
+                "expanded_url": "https://t.me/LoveFTMiaoTV",
+                "start": 0,
+                "url": "https://t.co/OfJi4k397c"
+              }
+            ]
+          }
+        },
+        "id": "1025546987578556417",
+        "location": "关着BakaHDT的笼子旁边",
+        "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+        "pinned_tweet_id": "1754185922885611679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6592,
+          "following_count": 3192,
+          "like_count": 159038,
+          "listed_count": 16,
+          "media_count": 2680,
+          "tweet_count": 26486
+        },
+        "url": "https://t.co/OfJi4k397c",
+        "username": "FTMiaoX",
+        "verified": false
+      }
+    ]
+  }
+}

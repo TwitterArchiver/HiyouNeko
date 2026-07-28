@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1835876894908301412",
+    "created_at": "2024-09-17T10:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T11:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835983079783166273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1605482044099661824",
+          "start": 0,
+          "username": "Huowangstoolkit"
+        },
+        {
+          "end": 30,
+          "id": "1628358190655246338",
+          "start": 17,
+          "username": "SNzhende2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835983079783166273",
+    "in_reply_to_user_id": "1605482044099661824",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835885437283672113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huowangstoolkit @SNzhende2007 后半部分也有点难qwq（没人用）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1835876894908301412",
+        "created_at": "2024-09-17T10:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T11:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835983079783166273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1605482044099661824",
+              "start": 0,
+              "username": "Huowangstoolkit"
+            },
+            {
+              "end": 30,
+              "id": "1628358190655246338",
+              "start": 17,
+              "username": "SNzhende2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835983079783166273",
+        "in_reply_to_user_id": "1605482044099661824",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835885437283672113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huowangstoolkit @SNzhende2007 后半部分也有点难qwq（没人用）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605482044099661824",
+        "conversation_id": "1835876894908301412",
+        "created_at": "2024-09-17T03:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T04:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835885437283672113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1628358190655246338",
+              "start": 0,
+              "username": "SNzhende2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835885437283672113",
+        "in_reply_to_user_id": "1628358190655246338",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835876894908301412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SNzhende2007 前半部分有点难😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派 ❦ 活在幻想中的魔法少女 ❦ 病娇是魔女化后的产物 ❦ 真的很爱喝野格 ❦ 魔女化进度丨▉▉                                    丨20%❦",
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1844,
+          "following_count": 981,
+          "like_count": 5738,
+          "listed_count": 7,
+          "tweet_count": 1575
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-21T08:35:40.000Z",
+        "description": "infp-t/尸体一个/你要来辩论你先得讲道理/回fo不等于支持（）",
+        "id": "1605482044099661824",
+        "name": "乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693316302029430784/TZ5kBxB8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 302,
+          "like_count": 7997,
+          "listed_count": 0,
+          "tweet_count": 1385
+        },
+        "username": "Huowangstoolkit",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T11:37:28.000Z",
+        "description": "",
+        "id": "1628358190655246338",
+        "name": "贞德",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762302331314667520/gTSuaeNo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 187,
+          "like_count": 3177,
+          "listed_count": 0,
+          "tweet_count": 759
+        },
+        "username": "SNzhende2007",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1833774995602039233",
+    "created_at": "2024-09-11T08:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T09:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833791368713720203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1665887411384238080",
+          "start": 0,
+          "username": "qiu31834"
+        },
+        {
+          "end": 24,
+          "id": "1770810702707470336",
+          "start": 10,
+          "username": "aiheng6499464"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833791368713720203",
+    "in_reply_to_user_id": "1665887411384238080",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833774995602039233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiu31834 @aiheng6499464 这种看着像催收的，单纯给你施压"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1833774995602039233",
+        "created_at": "2024-09-11T08:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T09:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833791368713720203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1665887411384238080",
+              "start": 0,
+              "username": "qiu31834"
+            },
+            {
+              "end": 24,
+              "id": "1770810702707470336",
+              "start": 10,
+              "username": "aiheng6499464"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833791368713720203",
+        "in_reply_to_user_id": "1665887411384238080",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833774995602039233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiu31834 @aiheng6499464 这种看着像催收的，单纯给你施压"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833774984671707136",
+            "3_1833774984680165377",
+            "3_1833774985799995392",
+            "3_1833774985305030656"
+          ]
+        },
+        "author_id": "1665887411384238080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1833774995602039233",
+        "created_at": "2024-09-11T07:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T08:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833774995602039233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xrkd04quno",
+              "end": 124,
+              "expanded_url": "https://twitter.com/qiu31834/status/1833774995602039233/photo/1",
+              "media_key": "3_1833774984671707136",
+              "start": 101,
+              "url": "https://t.co/XrKd04QuNo"
+            },
+            {
+              "display_url": "pic.x.com/xrkd04quno",
+              "end": 124,
+              "expanded_url": "https://twitter.com/qiu31834/status/1833774995602039233/photo/1",
+              "media_key": "3_1833774984680165377",
+              "start": 101,
+              "url": "https://t.co/XrKd04QuNo"
+            },
+            {
+              "display_url": "pic.x.com/xrkd04quno",
+              "end": 124,
+              "expanded_url": "https://twitter.com/qiu31834/status/1833774995602039233/photo/1",
+              "media_key": "3_1833774985799995392",
+              "start": 101,
+              "url": "https://t.co/XrKd04QuNo"
+            },
+            {
+              "display_url": "pic.x.com/xrkd04quno",
+              "end": 124,
+              "expanded_url": "https://twitter.com/qiu31834/status/1833774995602039233/photo/1",
+              "media_key": "3_1833774985305030656",
+              "start": 101,
+              "url": "https://t.co/XrKd04QuNo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833774995602039233",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逆天mtf，去年年底没有工作给介绍了工作后干不下去跑路了，之后在网上借钱还不起催债电话一直打我手机号上，后来我进厂了法院给我打电话叫我去当陪审人，我只记得这位脑瘫之前的ID叫小推车江苏徐州的好像不玩推 https://t.co/XrKd04QuNo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格 ❦  永劫无间 ❦ 无畏契约 ❦ 游戏王md ❦ 打游戏速速dd ❦ 半截入土 ❦ 坐标 宁波 ❦ 🚪50 ❦",
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 948,
+          "like_count": 5589,
+          "listed_count": 7,
+          "tweet_count": 1519
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T01:04:56.000Z",
+        "description": "。。。",
+        "id": "1665887411384238080",
+        "name": "。。。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812385989307834368/o2-2D3Co_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 79,
+          "like_count": 39,
+          "listed_count": 0,
+          "tweet_count": 31
+        },
+        "username": "qiu31834",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T13:52:54.000Z",
+        "description": "八年老mtf\n真实的我是个骗子！#双向情感障碍#药娘#易性症联系需门槛费20多了不要请喝杯奶茶不过分吧？多了不要只要20",
+        "id": "1770810702707470336",
+        "location": "江苏省 南京市",
+        "name": "千本樱 萌爱🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771888497986842624/BsxUzGjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 593,
+          "like_count": 754,
+          "listed_count": 0,
+          "tweet_count": 1548
+        },
+        "username": "aiheng6499464",
+        "verified": false
+      }
+    ]
+  }
+}

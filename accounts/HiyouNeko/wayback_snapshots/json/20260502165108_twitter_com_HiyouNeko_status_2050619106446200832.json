@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "2050619106446200832",
+    "created_at": "2026-05-02T16:51:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T17:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050619106446200832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whereisyourc/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/whereisyourc/status/2050603242946547914",
+          "start": 10,
+          "url": "https://t.co/JJI1ruG22u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050619106446200832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050603242946547914",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真是....自由 https://t.co/JJI1ruG22u"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "2050619106446200832",
+        "created_at": "2026-05-02T16:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050619106446200832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whereisyourc/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/whereisyourc/status/2050603242946547914",
+              "start": 10,
+              "url": "https://t.co/JJI1ruG22u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050619106446200832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050603242946547914",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是....自由 https://t.co/JJI1ruG22u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767691817456476160",
+        "conversation_id": "2050603242946547914",
+        "created_at": "2026-05-02T15:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050603242946547914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050603242946547914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4064,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不用买vpn，去台湾旅游不用办签证，去港澳能超过7天，同性可以结婚，时薪高于充电宝，打字不用考虑敏感词，是什么样的的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦精品神藥享受者💊不割手❦永不满足的爱，和以此倍增的恨.❦ bambisleep淪陷中.... ❦可爱小猫 @herself32 ❦關注斑比醬喵w謝謝喵w❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "˚₊‧꒰ა淫亂雌豚☆斑比醬໒꒱‧₊˚",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049934586797498368/LXLTNPuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 1071,
+          "like_count": 9935,
+          "listed_count": 6,
+          "media_count": 840,
+          "tweet_count": 3769
+        },
+        "username": "HiyouNeko",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-12T23:19:18.000Z",
+        "description": "别看了，我的鱿鱼在你之上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/where98094",
+                "end": 23,
+                "expanded_url": "https://ngl.link/where98094",
+                "start": 0,
+                "url": "https://t.co/cogZdpPI9s"
+              }
+            ]
+          }
+        },
+        "id": "1767691817456476160",
+        "location": "匿名箱➡️",
+        "name": "星期七",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008533709834661889/CJy3RQCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1878,
+          "following_count": 484,
+          "like_count": 906,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/cogZdpPI9s",
+        "username": "whereisyourc",
+        "verified": true
+      }
+    ]
+  }
+}

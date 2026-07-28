@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1871159264158662700",
+    "created_at": "2024-12-25T02:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-25T03:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871739072076738642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1384181972407255053",
+          "start": 0,
+          "username": "FolkFortunate"
+        },
+        {
+          "end": 27,
+          "id": "1618909954156679168",
+          "start": 15,
+          "username": "reunfolding"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871739072076738642",
+    "in_reply_to_user_id": "1384181972407255053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871205041152872712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FolkFortunate @reunfolding 入党积极分子和体制内和爱国无关叭都是为了生存罢了你我皆是做题家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1871159264158662700",
+        "created_at": "2024-12-25T02:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T03:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871739072076738642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1384181972407255053",
+              "start": 0,
+              "username": "FolkFortunate"
+            },
+            {
+              "end": 27,
+              "id": "1618909954156679168",
+              "start": 15,
+              "username": "reunfolding"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871739072076738642",
+        "in_reply_to_user_id": "1384181972407255053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871205041152872712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FolkFortunate @reunfolding 入党积极分子和体制内和爱国无关叭都是为了生存罢了你我皆是做题家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1384181972407255053",
+        "conversation_id": "1871159264158662700",
+        "created_at": "2024-12-23T14:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T15:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871205041152872712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1618909954156679168",
+              "start": 0,
+              "username": "reunfolding"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871205041152872712",
+        "in_reply_to_user_id": "1618909954156679168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2604,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871159264158662700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reunfolding 爱国的人蠢但是可能品行好，他们是社会适应性最好最温良的人。不爱国的人也不一定聪明，作为人本身也可能更抽象😃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ HRT22/08/29 ❦ 坐标宁波 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我脑婆/主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 109,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "梦幻楼与不眠希汐#θωθ",
+        "pinned_tweet_id": "1863879352221618461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 980,
+          "like_count": 7584,
+          "listed_count": 6,
+          "media_count": 575,
+          "tweet_count": 2277
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-19T16:28:05.000Z",
+        "description": "不懂柴米油盐\n你推难得一遇的好人 @asahisuki0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "asahisuki0"
+              }
+            ]
+          }
+        },
+        "id": "1384181972407255053",
+        "location": "葛飾区亀有公園前派出所",
+        "name": "🥂坂下丽子🎩",
+        "pinned_tweet_id": "1772198488916316627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869375329527029760/-iRwZO7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 88,
+          "like_count": 3794,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 3642
+        },
+        "username": "FolkFortunate",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T09:53:18.000Z",
+        "description": "以那暴力模拟向正解吊唁/同じ未来に勝ってるだと/那怎么办呢/可记得那年夏天/我们今天弦歌在一堂/我们活着就是对恶意的最大反抗/向着星辰与深渊/诗意栖居于黄昏的景观巨石上/不过粉碎/个人全面发展和他们共同的社会生产能力/新质生产力/当有一天你不再纠结于答案/Meet me at 上海最冷漠的区域/要开始了哟/",
+        "id": "1618909954156679168",
+        "name": "雬定",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849405120439779328/4_g9-NIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3035,
+          "following_count": 931,
+          "like_count": 0,
+          "listed_count": 11,
+          "media_count": 902,
+          "tweet_count": 4827
+        },
+        "username": "reunfolding",
+        "verified": false
+      }
+    ]
+  }
+}

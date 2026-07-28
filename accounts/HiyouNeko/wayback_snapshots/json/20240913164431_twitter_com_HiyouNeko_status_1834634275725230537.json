@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1834116580063793287",
+    "created_at": "2024-09-13T16:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T17:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834634275725230537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1271831155071844352",
+          "start": 0,
+          "username": "kir1same7"
+        },
+        {
+          "end": 21,
+          "id": "1418942200457662477",
+          "start": 11,
+          "username": "Rikka_Ela"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834634275725230537",
+    "in_reply_to_user_id": "1271831155071844352",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834621473891488220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kir1same7 @Rikka_Ela 摸摸头👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1834116580063793287",
+        "created_at": "2024-09-13T16:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T17:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834634275725230537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1271831155071844352",
+              "start": 0,
+              "username": "kir1same7"
+            },
+            {
+              "end": 21,
+              "id": "1418942200457662477",
+              "start": 11,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834634275725230537",
+        "in_reply_to_user_id": "1271831155071844352",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834621473891488220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kir1same7 @Rikka_Ela 摸摸头👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271831155071844352",
+        "conversation_id": "1834116580063793287",
+        "created_at": "2024-09-13T15:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T16:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834621473891488220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            },
+            {
+              "end": 21,
+              "id": "1528928909734973440",
+              "start": 11,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834621473891488220",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834387529057140864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela @HiyouNeko 探头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格 ❦  永劫无间 ❦ 无畏契约 ❦ 游戏王md ❦ 打游戏速速dd ❦ 半截入土 ❦ 坐标 宁波 ❦ 🚪50 ❦",
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 962,
+          "like_count": 5675,
+          "listed_count": 7,
+          "tweet_count": 1545
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T15:46:01.000Z",
+        "description": "不知道这里该写什么的雾雨狐，很高兴和你做朋友！\n🌈|出没在杭州，请随意捕捉。|好女儿\n @xiangwangduolu1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "xiangwangduolu1"
+              }
+            ]
+          }
+        },
+        "id": "1271831155071844352",
+        "location": "雾雨的魔法店",
+        "name": "Kir1same雾雨⭐",
+        "pinned_tweet_id": "1834530331971457275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718435767226417152/_4KNDguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 710,
+          "like_count": 6244,
+          "listed_count": 1,
+          "tweet_count": 1977
+        },
+        "username": "kir1same7",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2374,
+          "following_count": 2900,
+          "like_count": 48254,
+          "listed_count": 6,
+          "tweet_count": 3209
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

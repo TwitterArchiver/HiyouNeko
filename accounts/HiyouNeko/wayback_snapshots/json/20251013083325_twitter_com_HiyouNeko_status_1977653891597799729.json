@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1977580100930724174",
+    "created_at": "2025-10-13T08:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T09:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977653891597799729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1547020655740080128",
+          "start": 0,
+          "username": "H_galgame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977653891597799729",
+    "in_reply_to_user_id": "1547020655740080128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977580100930724174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H_galgame 才10月就零下啦？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_1977580098233745408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3HGnyYawAAsO7K.jpg",
+        "width": 573
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1977580100930724174",
+        "created_at": "2025-10-13T08:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T09:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977653891597799729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1547020655740080128",
+              "start": 0,
+              "username": "H_galgame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977653891597799729",
+        "in_reply_to_user_id": "1547020655740080128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977580100930724174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H_galgame 才10月就零下啦？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977580098233745408"
+          ]
+        },
+        "author_id": "1547020655740080128",
+        "conversation_id": "1977580100930724174",
+        "created_at": "2025-10-13T03:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T04:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977580100930724174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wrm59dHdvW",
+              "end": 29,
+              "expanded_url": "https://x.com/H_galgame/status/1977580100930724174/photo/1",
+              "media_key": "3_1977580098233745408",
+              "start": 6,
+              "url": "https://t.co/Wrm59dHdvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977580100930724174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "窝要洗了， https://t.co/Wrm59dHdvW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片（今日推荐：财宝皇）🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 1006,
+          "like_count": 9267,
+          "listed_count": 7,
+          "media_count": 728,
+          "tweet_count": 3285
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T00:50:57.000Z",
+        "description": "男，怨世的伪善者，健忘的家伙。\n想要朋友？大概是个笨蛋傲娇。\n希望大家都能找到属于自己的真爱呢。\n\n问答箱https://t.co/qFhVEYSxVz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hy3129342449",
+                "end": 76,
+                "expanded_url": "https://ngl.link/hy3129342449",
+                "start": 53,
+                "url": "https://t.co/qFhVEYSxVz"
+              }
+            ]
+          }
+        },
+        "id": "1547020655740080128",
+        "location": "哈尔滨",
+        "name": "輝子",
+        "pinned_tweet_id": "1788435902139945017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977243309082083328/Vbn7lhde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 663,
+          "like_count": 16697,
+          "listed_count": 3,
+          "media_count": 4278,
+          "tweet_count": 8890
+        },
+        "username": "H_galgame",
+        "verified": false
+      }
+    ]
+  }
+}

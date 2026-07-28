@@ -1,0 +1,552 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1865370912129986791",
+    "created_at": "2024-12-07T12:20:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T13:20:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865370912129986791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1767040816986656768",
+          "start": 3,
+          "username": "MeviuslX_Xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865370912129986791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865348795397263506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeviuslX_Xl: 小梅居然万fo了哎～\n好耶！！！\n那么为了感谢大家～小梅决定做一次抽奖呢～\n一等奖：明日方舟xQQ音乐-芯片AR音乐卡套装  价值89元（可折现70） 1人\n二等奖：明日方舟×彩虹六号：围攻-通行认证SP-水晶箭行动 盲盒*1 价值25（可折现…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1865370912129986791",
+        "created_at": "2024-12-07T12:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T13:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865370912129986791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1767040816986656768",
+              "start": 3,
+              "username": "MeviuslX_Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865370912129986791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865348795397263506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MeviuslX_Xl: 小梅居然万fo了哎～\n好耶！！！\n那么为了感谢大家～小梅决定做一次抽奖呢～\n一等奖：明日方舟xQQ音乐-芯片AR音乐卡套装  价值89元（可折现70） 1人\n二等奖：明日方舟×彩虹六号：围攻-通行认证SP-水晶箭行动 盲盒*1 价值25（可折现…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865348579940003840",
+            "3_1865348579940024320",
+            "3_1865348580124536832"
+          ]
+        },
+        "author_id": "1767040816986656768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1865348795397263506",
+        "created_at": "2024-12-07T10:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T11:52:15.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865348590169997399",
+          "1865348795397263506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QmNpeotBmZ",
+              "end": 186,
+              "expanded_url": "https://x.com/MeviuslX_Xl/status/1865348795397263506/photo/1",
+              "media_key": "3_1865348579940003840",
+              "start": 163,
+              "url": "https://t.co/QmNpeotBmZ"
+            },
+            {
+              "display_url": "pic.x.com/QmNpeotBmZ",
+              "end": 186,
+              "expanded_url": "https://x.com/MeviuslX_Xl/status/1865348795397263506/photo/1",
+              "media_key": "3_1865348579940024320",
+              "start": 163,
+              "url": "https://t.co/QmNpeotBmZ"
+            },
+            {
+              "display_url": "pic.x.com/QmNpeotBmZ",
+              "end": 186,
+              "expanded_url": "https://x.com/MeviuslX_Xl/status/1865348795397263506/photo/1",
+              "media_key": "3_1865348580124536832",
+              "start": 163,
+              "url": "https://t.co/QmNpeotBmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865348795397263506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "小梅居然万fo了哎～\n好耶！！！\n那么为了感谢大家～小梅决定做一次抽奖呢～\n一等奖：明日方舟xQQ音乐-芯片AR音乐卡套装  价值89元（可折现70） 1人\n二等奖：明日方舟×彩虹六号：围攻-通行认证SP-水晶箭行动 盲盒*1 价值25（可折现20） 1人\n三等奖：宜家香薰三选一（一套30个）价值19.99（可折现15） 2人\n参与方式：关注小梅并转发、评论这条帖子即可参与成功～\n开奖日期：2024年12月21日\n欢迎大家参与～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1407,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "小梅居然万fo了哎～\n好耶！！！\n那么为了感谢大家～小梅决定做一次抽奖呢～\n一等奖：明日方舟xQQ音乐-芯片AR音乐卡套装  价值89元（可折现70） 1人\n二等奖：明日方舟×彩虹六号：围攻-通行认证SP-水晶箭行动 盲盒*1 价值25（可折现20） 1人\n三等奖：宜家香薰三选一（一套30个）价值19.99（可折现15）… https://t.co/QmNpeotBmZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ HRT22/08/29 ❦ 坐标宁波 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我脑婆/主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 109,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "一只希汐#θωθ",
+        "pinned_tweet_id": "1863879352221618461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 971,
+          "like_count": 7441,
+          "listed_count": 5,
+          "media_count": 556,
+          "tweet_count": 2220
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T04:12:28.000Z",
+        "description": "持证含糖の小魅魔｜HRT2024.04.05｜家长神秘莫测党｜小梅的主人+老公 +小梅的比翼鸟+小梅的唯一+未婚夫@mengx1ntu ｜小梅的妈咪 @miya051223｜姐姐 @xukongbingyuan｜小梅比闺蜜还要好的闺蜜@yanyan2567 @Ming_xm2 @XCCQAQ @LingYi13380",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "mengx1ntu"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "miya051223"
+              },
+              {
+                "end": 105,
+                "start": 90,
+                "username": "xukongbingyuan"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "yanyan2567"
+              },
+              {
+                "end": 138,
+                "start": 129,
+                "username": "Ming_xm2"
+              },
+              {
+                "end": 146,
+                "start": 139,
+                "username": "XCCQAQ"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "LingYi13380"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+oqO369PsMekyY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+oqO369PsMekyYTBl",
+                "start": 0,
+                "url": "https://t.co/5Qs1HXsUW4"
+              }
+            ]
+          }
+        },
+        "id": "1767040816986656768",
+        "location": "往世乐土",
+        "name": "ℳℯ𝓋𝒾𝓊𝓈 🍥",
+        "pinned_tweet_id": "1865348795397263506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861764674938875904/bTEebnml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10014,
+          "following_count": 1080,
+          "like_count": 10725,
+          "listed_count": 19,
+          "media_count": 590,
+          "tweet_count": 4818
+        },
+        "url": "https://t.co/5Qs1HXsUW4",
+        "username": "MeviuslX_Xl",
+        "verified": true
+      }
+    ]
+  }
+}

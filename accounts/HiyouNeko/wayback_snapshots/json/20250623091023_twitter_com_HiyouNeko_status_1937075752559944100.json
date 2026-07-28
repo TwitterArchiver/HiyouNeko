@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1937075752559944100",
+    "created_at": "2025-06-23T09:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T10:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1937075752559944100"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1937075752559944100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "闭关了3天我现在会打鱼丸了\n起手先找0费8/6，2张最好，找不到1张也行，没有就找过牌搜，然后你5，6费连着拍2张5费11/11，7费拍阴阳人加2张0费8/6一般这时候识相点的鱼丸已经投降了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1937075752559944100",
+        "created_at": "2025-06-23T09:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T10:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937075752559944100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937075752559944100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闭关了3天我现在会打鱼丸了\n起手先找0费8/6，2张最好，找不到1张也行，没有就找过牌搜，然后你5，6费连着拍2张5费11/11，7费拍阴阳人加2张0费8/6一般这时候识相点的鱼丸已经投降了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2132,
+          "following_count": 985,
+          "like_count": 9200,
+          "listed_count": 6,
+          "media_count": 714,
+          "tweet_count": 3191
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

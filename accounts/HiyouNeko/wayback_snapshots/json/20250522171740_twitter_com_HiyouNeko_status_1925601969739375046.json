@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1925601969739375046",
+    "created_at": "2025-05-22T17:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T18:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925601969739375046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "绞刑死亡速度比普通上吊窒息快？",
+          "display_url": "grok.com/share/c2hhcmQt…",
+          "end": 49,
+          "expanded_url": "https://grok.com/share/c2hhcmQtMg%3D%3D_2fc10125-a9eb-4a85-92fd-8e0e07e0584b",
+          "start": 26,
+          "status": 200,
+          "title": "绞刑与普通上吊死亡速度比较 | Shared Grok Conversation",
+          "unwound_url": "https://grok.com/share/c2hhcmQtMg%3D%3D_2fc10125-a9eb-4a85-92fd-8e0e07e0584b",
+          "url": "https://t.co/8VIj6pveCW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925601969739375046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人试过短距离坠落嘛....感觉比药物中毒好多了？\nhttps://t.co/8VIj6pveCW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1925601969739375046",
+        "created_at": "2025-05-22T17:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T18:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925601969739375046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "绞刑死亡速度比普通上吊窒息快？",
+              "display_url": "grok.com/share/c2hhcmQt…",
+              "end": 49,
+              "expanded_url": "https://grok.com/share/c2hhcmQtMg%3D%3D_2fc10125-a9eb-4a85-92fd-8e0e07e0584b",
+              "start": 26,
+              "status": 200,
+              "title": "绞刑与普通上吊死亡速度比较 | Shared Grok Conversation",
+              "unwound_url": "https://grok.com/share/c2hhcmQtMg%3D%3D_2fc10125-a9eb-4a85-92fd-8e0e07e0584b",
+              "url": "https://t.co/8VIj6pveCW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925601969739375046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人试过短距离坠落嘛....感觉比药物中毒好多了？\nhttps://t.co/8VIj6pveCW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 果然是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登（当心给你下降头） ❦ 这个世上没有比假花更美的花❦ 一起打暗区你就是我的好脑婆（） ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1922832818012340691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2100,
+          "following_count": 986,
+          "like_count": 9008,
+          "listed_count": 6,
+          "media_count": 684,
+          "tweet_count": 3019
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

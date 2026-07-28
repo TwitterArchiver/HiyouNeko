@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "2037446502407397882",
+    "created_at": "2026-03-27T08:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T09:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037446502407397882"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SilentNagiyou/…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/SilentNagiyou/status/2036204445219037313",
+          "start": 132,
+          "url": "https://t.co/DzUtWcK4G0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037446502407397882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036204445219037313",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "某xyn说我太色了，她要做矜持的女孩子，可我看她一点都不矜持，她还说她没性欲了，看她那闷骚样，完全是口是心非，我就要色了，怎么样，谁说女的就不能色了，就要色就要色，我说我冲不出来了，没jy了，她说她都不碰前面的，女孩子不可以冲，我就要冲，不仅要冲，还要🌿xyn呢 https://t.co/DzUtWcK4G0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "2037446502407397882",
+        "created_at": "2026-03-27T08:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037446502407397882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SilentNagiyou/…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/SilentNagiyou/status/2036204445219037313",
+              "start": 132,
+              "url": "https://t.co/DzUtWcK4G0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037446502407397882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036204445219037313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "某xyn说我太色了，她要做矜持的女孩子，可我看她一点都不矜持，她还说她没性欲了，看她那闷骚样，完全是口是心非，我就要色了，怎么样，谁说女的就不能色了，就要色就要色，我说我冲不出来了，没jy了，她说她都不碰前面的，女孩子不可以冲，我就要冲，不仅要冲，还要🌿xyn呢 https://t.co/DzUtWcK4G0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570069037496819714",
+        "conversation_id": "2036204445219037313",
+        "created_at": "2026-03-23T22:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T23:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036204445219037313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UraOlt/status/…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/UraOlt/status/1697688164679422297",
+              "start": 132,
+              "url": "https://t.co/xLN4ZFMHbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036204445219037313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1697688164679422297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "某xyn说我太色了，她要做矜持的女孩子，可我看她一点都不矜持，她还说她没性欲了，看她那闷骚样，完全是口是心非，我就要色了，怎么样，谁说女的就不能色了，就要色就要色，我说我冲不出来了，没jy了，她说她都不碰前面的，女孩子不可以冲，我就要冲，不仅要冲，还要🌿xyn呢 https://t.co/xLN4ZFMHbs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦od💊不割手❦永不满足的爱，和以此倍增的恨.❦可爱小猫 @herself32 ❦发情期再放送.....❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "˚₊‧꒰ა超绝可爱☆派对姬໒꒱‧₊˚",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037432060563042304/vuTeUo-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 1014,
+          "like_count": 9641,
+          "listed_count": 6,
+          "media_count": 787,
+          "tweet_count": 3582
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T15:17:34.000Z",
+        "description": "当我天天反串以至于你并不确定我是否真情流露丨玩过很多游戏，以及更多的盗版游戏丨3D眩晕、乳房发育不良、口唇单纯性疱疹、幽门螺旋杆菌感染丨精神edging享受者丨反社会反人类丨无定形态丨https://t.co/aI2cuJM2W8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/WeisseGestalt",
+                "end": 115,
+                "expanded_url": "https://t.me/WeisseGestalt",
+                "start": 92,
+                "url": "https://t.co/aI2cuJM2W8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/WeisseGestalt",
+                "end": 23,
+                "expanded_url": "https://t.me/WeisseGestalt",
+                "start": 0,
+                "url": "https://t.co/aI2cuJM2W8"
+              }
+            ]
+          }
+        },
+        "id": "1570069037496819714",
+        "location": "👨‍🏭网评员🧭妖怪之山迷途竹林永远亭",
+        "name": "🍥疏乞巧🍥",
+        "pinned_tweet_id": "1953483222341304775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946284002157211649/z5XSBjQ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 500,
+          "like_count": 48440,
+          "listed_count": 6,
+          "media_count": 397,
+          "tweet_count": 7232
+        },
+        "url": "https://t.co/aI2cuJM2W8",
+        "username": "SilentNagiyou",
+        "verified": false
+      }
+    ]
+  }
+}

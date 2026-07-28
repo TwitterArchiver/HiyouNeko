@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1797118034043445438",
+    "created_at": "2024-06-02T09:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T10:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797192275547815984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1479730386431545346",
+          "start": 0,
+          "username": "QianxueYuKi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797192275547815984",
+    "in_reply_to_user_id": "1479730386431545346",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797151368605749251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QianxueYuKi 戳戳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1797118034043445438",
+        "created_at": "2024-06-02T09:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T10:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797192275547815984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "QianxueYuKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797192275547815984",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797151368605749251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QianxueYuKi 戳戳"
+      },
+      {
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1797118034043445438",
+        "created_at": "2024-06-02T06:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T07:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797151368605749251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797151368605749251",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797118034043445438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 超超我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦-这个老登叫希汐-❦Dom❦RIP1999.05.10～2028.07.09❦降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格❦全世界最闪耀的蝎蝎 @XIEXIEkawaii ❦  永劫无间 ❦ 无畏契约 ❦星际仓鼠 ❦ 打游戏速速dd ❦ QQ2704572317 欢迎来丸 ❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 84,
+                "username": "XIEXIEkawaii"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "AAA希汐是水系魔法师👀",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795034500881412096/5-HjWywU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 926,
+          "like_count": 5403,
+          "listed_count": 8,
+          "tweet_count": 1433
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘/🚪28-58-108/有证含糖家长党/身高177/体重120/80a/身材很好/及腰长发/二次元/美食/可爱的事物/同类互fo",
+        "id": "1479730386431545346",
+        "location": "广州",
+        "name": "千雪🏳️‍⚧️💖🍥",
+        "pinned_tweet_id": "1792539291396325572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720910858912694272/tH0aqbFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 698,
+          "like_count": 7324,
+          "listed_count": 4,
+          "tweet_count": 543
+        },
+        "username": "QianxueYuKi",
+        "verified": false
+      }
+    ]
+  }
+}

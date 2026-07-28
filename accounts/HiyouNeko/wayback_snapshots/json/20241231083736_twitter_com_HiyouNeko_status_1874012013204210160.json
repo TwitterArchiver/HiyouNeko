@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1873647010617995378",
+    "created_at": "2024-12-31T08:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T09:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874012013204210160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1491049985755914248",
+          "start": 0,
+          "username": "musictowatch_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874012013204210160",
+    "in_reply_to_user_id": "1491049985755914248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873647010617995378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@musictowatch_ 我设置的安全词是666一般喊出来就没了兴致非常安全"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1873647010617995378",
+        "created_at": "2024-12-31T08:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T09:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874012013204210160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1491049985755914248",
+              "start": 0,
+              "username": "musictowatch_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874012013204210160",
+        "in_reply_to_user_id": "1491049985755914248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873647010617995378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@musictowatch_ 我设置的安全词是666一般喊出来就没了兴致非常安全"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491049985755914248",
+        "conversation_id": "1873647010617995378",
+        "created_at": "2024-12-30T08:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T09:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873647010617995378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873647010617995378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 69128,
+          "like_count": 565,
+          "quote_count": 4,
+          "reply_count": 25,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "安全词是“我爱你”的话该怎么办啊，喊安全词的时候到底是会遵守规则停下来还是会兴奋到忍不住直接操坏对方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "这个世上没有比假花更美的花 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐#θωθ",
+        "pinned_tweet_id": "1863879352221618461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014,
+          "following_count": 984,
+          "like_count": 7680,
+          "listed_count": 6,
+          "media_count": 582,
+          "tweet_count": 2300
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T14:03:21.000Z",
+        "description": "",
+        "id": "1491049985755914248",
+        "location": "喜欢您来，不喜欢请走开",
+        "name": "vinyls",
+        "pinned_tweet_id": "1872832048584642601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864731834678153217/zCfvo8ZR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14919,
+          "following_count": 39,
+          "like_count": 3046,
+          "listed_count": 56,
+          "media_count": 138,
+          "tweet_count": 793
+        },
+        "username": "musictowatch_",
+        "verified": false
+      }
+    ]
+  }
+}

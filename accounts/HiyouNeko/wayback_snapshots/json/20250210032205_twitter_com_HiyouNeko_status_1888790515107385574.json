@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1888624890867011745",
+    "created_at": "2025-02-10T03:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T04:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888790515107385574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1766025755161772032",
+          "start": 0,
+          "username": "Ignis6465"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888790515107385574",
+    "in_reply_to_user_id": "1766025755161772032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888624890867011745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ignis6465 懂了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1888624890867011745",
+        "created_at": "2025-02-10T03:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T04:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888790515107385574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1766025755161772032",
+              "start": 0,
+              "username": "Ignis6465"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888790515107385574",
+        "in_reply_to_user_id": "1766025755161772032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888624890867011745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ignis6465 懂了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766025755161772032",
+        "conversation_id": "1888624890867011745",
+        "created_at": "2025-02-09T16:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T17:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888624890867011745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888624890867011745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 447,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有一个朋友，他XP是接吻\n他大半夜不睡觉想被比自己矮的人摁在墙上亲，还想一边叫主人一边掐主人脖子看主人高潮发抖\n不是我啊是我朋友我没那么变态的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法师 ❦ 这个世上没有比假花更美的花 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1876180576878899482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877247691027263488/PyTo1_2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2041,
+          "following_count": 960,
+          "like_count": 8142,
+          "listed_count": 6,
+          "media_count": 625,
+          "tweet_count": 2481
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T08:58:57.000Z",
+        "description": "前次元斩大排档/打猎/ygo/防火龙/不鉴证/绝情道/赛博怨灵\n本人所作所为与群体无关，全部出于本人愚昧的意志",
+        "id": "1766025755161772032",
+        "location": "如果你想要，你得自己来拿，但规矩你懂的",
+        "name": "真夜迴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881144126046896128/Lwe_LS4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 1478,
+          "like_count": 18014,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 3663
+        },
+        "username": "Ignis6465",
+        "verified": false
+      }
+    ]
+  }
+}

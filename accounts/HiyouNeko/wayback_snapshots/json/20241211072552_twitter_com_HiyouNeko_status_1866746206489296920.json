@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1866746199136669696"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1866145891813638447",
+    "created_at": "2024-12-11T07:25:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T08:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866746206489296920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479696561302999042",
+          "start": 0,
+          "username": "quitee123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FCtg9jxmzk",
+          "end": 49,
+          "expanded_url": "https://x.com/HiyouNeko/status/1866746206489296920/photo/1",
+          "media_key": "3_1866746199136669696",
+          "start": 26,
+          "url": "https://t.co/FCtg9jxmzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866746206489296920",
+    "in_reply_to_user_id": "1479696561302999042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866145891813638447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quitee123 刷推刷这抖音都直接推我弹窗了 https://t.co/FCtg9jxmzk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1866746199136669696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GegDxxVaEAAFZ9U.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866746199136669696"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1866145891813638447",
+        "created_at": "2024-12-11T07:25:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T08:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866746206489296920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479696561302999042",
+              "start": 0,
+              "username": "quitee123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FCtg9jxmzk",
+              "end": 49,
+              "expanded_url": "https://x.com/HiyouNeko/status/1866746206489296920/photo/1",
+              "media_key": "3_1866746199136669696",
+              "start": 26,
+              "url": "https://t.co/FCtg9jxmzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866746206489296920",
+        "in_reply_to_user_id": "1479696561302999042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866145891813638447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quitee123 刷推刷这抖音都直接推我弹窗了 https://t.co/FCtg9jxmzk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866145880170192896"
+          ]
+        },
+        "author_id": "1479696561302999042",
+        "conversation_id": "1866145891813638447",
+        "created_at": "2024-12-09T15:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T16:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866145891813638447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WAvlyUtisa",
+              "end": 77,
+              "expanded_url": "https://x.com/quitee123/status/1866145891813638447/photo/1",
+              "media_key": "3_1866145880170192896",
+              "start": 54,
+              "url": "https://t.co/WAvlyUtisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866145891813638447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 44128,
+          "like_count": 350,
+          "quote_count": 2,
+          "reply_count": 42,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "真的好离谱，以后XYN高考一定要避雷华科，至少不能选这个同济医学院。\n\n不然哪天变性了全学院都知道了😅😅😅 https://t.co/WAvlyUtisa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ HRT22/08/29 ❦ 坐标宁波 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我脑婆/主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 109,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "梦幻楼与不眠希汐#θωθ",
+        "pinned_tweet_id": "1863879352221618461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 973,
+          "like_count": 7519,
+          "listed_count": 5,
+          "media_count": 565,
+          "tweet_count": 2244
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 持证含糖🏳️‍⚧️/三坑少女/可爱橘喵 经济学 Steam/OW2/板绘/剪辑/航拍/互fo喵 猫猫@qidan5298677840 @Shion_Glad",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "qidan5298677840"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Shion_Glad"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "🐱🍊静静🍊🐱（休学躺平版）",
+        "pinned_tweet_id": "1851427968431861994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862809063421366273/puSw_lRM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3968,
+          "following_count": 1753,
+          "like_count": 19210,
+          "listed_count": 8,
+          "media_count": 460,
+          "tweet_count": 8372
+        },
+        "username": "quitee123",
+        "verified": false
+      }
+    ]
+  }
+}

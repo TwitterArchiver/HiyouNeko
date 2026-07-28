@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1877218209889226824",
+    "created_at": "2025-01-09T06:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T07:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877244571005903025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1150394879605784576",
+          "start": 0,
+          "username": "didadida_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877244571005903025",
+    "in_reply_to_user_id": "1150394879605784576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877218209889226824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didadida_qwq 可如果我没有买单又该如何应对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1877218209889226824",
+        "created_at": "2025-01-09T06:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T07:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877244571005903025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1150394879605784576",
+              "start": 0,
+              "username": "didadida_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877244571005903025",
+        "in_reply_to_user_id": "1150394879605784576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877218209889226824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didadida_qwq 可如果我没有买单又该如何应对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1150394879605784576",
+        "conversation_id": "1877218209889226824",
+        "created_at": "2025-01-09T04:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T05:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877218209889226824"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877218209889226824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么麦当劳取餐不检查顾客的单票？因为他们知道麦门信徒只会想吃自己买的食物，假如我下单的是脆辣鸡腿堡，取餐打开纸袋发现是双层芝士牛堡，我真的会很失落"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 汉尼拔宁波分拔 ❦ 水系魔法师 ❦ 这个世上没有比假花更美的花 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1876180576878899482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2017,
+          "following_count": 993,
+          "like_count": 7841,
+          "listed_count": 6,
+          "media_count": 597,
+          "tweet_count": 2354
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-14T13:21:27.000Z",
+        "description": "🟣🔴⚪⛔🚫♏♂️♀️0️⃣6️⃣🚭🔞🍬🍥废物想当猫",
+        "id": "1150394879605784576",
+        "location": "猫岛色色岛",
+        "name": "滴答滴答滴答滴答滴答滴答",
+        "pinned_tweet_id": "1807108008985702461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1332680669596508163/3TiEavgy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4070,
+          "following_count": 1459,
+          "like_count": 26154,
+          "listed_count": 3,
+          "media_count": 1168,
+          "tweet_count": 13833
+        },
+        "username": "didadida_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

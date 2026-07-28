@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1861972156353319056",
+    "created_at": "2024-11-28T03:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T04:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1861972156353319056"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1861972156353319056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再来一次\n各位真的别冲了   冲太多会有以下六个严重的效果 我就一直引以为戒 没冲一次  \n1:经常神智不清\n 2:记忆力衰退  \n3:记忆力衰退 \n 9:体虚无力   \n1:神智不清 经常那种  \n4:记忆力衰退  \n5: ayhxbdjaiqjsndjsjjw   \n这两个熬夜的后果一定要记住  不要再熬夜了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1861972156353319056",
+        "created_at": "2024-11-28T03:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T04:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861972156353319056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861972156353319056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再来一次\n各位真的别冲了   冲太多会有以下六个严重的效果 我就一直引以为戒 没冲一次  \n1:经常神智不清\n 2:记忆力衰退  \n3:记忆力衰退 \n 9:体虚无力   \n1:神智不清 经常那种  \n4:记忆力衰退  \n5: ayhxbdjaiqjsndjsjjw   \n这两个熬夜的后果一定要记住  不要再熬夜了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我的宝贝脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 88,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "一只希汐#θωθ",
+        "pinned_tweet_id": "1858814345456873777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 915,
+          "like_count": 6826,
+          "listed_count": 5,
+          "media_count": 507,
+          "tweet_count": 1999
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

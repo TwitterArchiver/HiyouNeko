@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1860981980164419884",
+    "created_at": "2024-11-25T09:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T10:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860982752545476690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1546509764536008705",
+          "start": 0,
+          "username": "nuonuoxct0819"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860982752545476690",
+    "in_reply_to_user_id": "1546509764536008705",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860981980164419884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuonuoxct0819 ₍˄·͈༝·͈˄*₎◞ ̑̑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1860981980164419884",
+        "created_at": "2024-11-25T09:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T10:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860982752545476690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1546509764536008705",
+              "start": 0,
+              "username": "nuonuoxct0819"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860982752545476690",
+        "in_reply_to_user_id": "1546509764536008705",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860981980164419884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuonuoxct0819 ₍˄·͈༝·͈˄*₎◞ ̑̑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860981971075436545"
+          ]
+        },
+        "author_id": "1546509764536008705",
+        "conversation_id": "1860981980164419884",
+        "created_at": "2024-11-25T09:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T10:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860981980164419884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rA6CzORAx6",
+              "end": 45,
+              "expanded_url": "https://x.com/nuonuoxct0819/status/1860981980164419884/photo/1",
+              "media_key": "3_1860981971075436545",
+              "start": 22,
+              "url": "https://t.co/rA6CzORAx6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860981980164419884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2024.11.25，今天是最重要的一天～ https://t.co/rA6CzORAx6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师  ❦ 真的真的很爱酥萌老师 ★ 你们补药欺负我的宝贝脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "一只希汐#θωθ",
+        "pinned_tweet_id": "1858814345456873777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1954,
+          "following_count": 908,
+          "like_count": 6744,
+          "listed_count": 5,
+          "tweet_count": 1962
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T15:00:45.000Z",
+        "description": "这里诺诺呐/持证含糖MTF🏳️‍⚧️/HRT 22 08 10/ 常驻成都，目前坐标北京/喜欢的人：@aradishcarrot/心性年龄小/ 半文案推/ 同类关注会回关/ 重度性瘾/酷爱涩涩/ INFP-T/双相/先心病/紫外线过敏/ 过敏ing/湿疹/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "aradishcarrot"
+              }
+            ]
+          }
+        },
+        "id": "1546509764536008705",
+        "location": "破灭的心伤，虚无的自己。伤害过你的人，会回拢自己再去祸害别人",
+        "name": "诺诺想吃糖🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1858530496336282101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668729646769381376/PsEzzc3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 603,
+          "like_count": 8064,
+          "listed_count": 8,
+          "tweet_count": 4161
+        },
+        "username": "nuonuoxct0819",
+        "verified": true
+      }
+    ]
+  }
+}

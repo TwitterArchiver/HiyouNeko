@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1925948364157235540",
+    "created_at": "2025-05-23T19:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T20:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926001707017781710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767040816986656768",
+          "start": 0,
+          "username": "MeviuslX_Xl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926001707017781710",
+    "in_reply_to_user_id": "1767040816986656768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925948364157235540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeviuslX_Xl 祝99"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1925948344326582272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrpX0KdWcAAz61y.jpg",
+        "width": 472
+      },
+      {
+        "height": 768,
+        "media_key": "3_1925948344351768576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrpX0KjWwAAljoW.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925948344402157568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrpX0KvXoAAszmZ.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1925948364157235540",
+        "created_at": "2025-05-23T19:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T20:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926001707017781710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767040816986656768",
+              "start": 0,
+              "username": "MeviuslX_Xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926001707017781710",
+        "in_reply_to_user_id": "1767040816986656768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925948364157235540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeviuslX_Xl 祝99"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925948344326582272",
+            "3_1925948344351768576",
+            "3_1925948344402157568"
+          ]
+        },
+        "author_id": "1767040816986656768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1925948364157235540",
+        "created_at": "2025-05-23T16:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T17:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925948364157235540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dgt27hD6Yn",
+              "end": 124,
+              "expanded_url": "https://x.com/MeviuslX_Xl/status/1925948364157235540/photo/1",
+              "media_key": "3_1925948344326582272",
+              "start": 101,
+              "url": "https://t.co/Dgt27hD6Yn"
+            },
+            {
+              "display_url": "pic.x.com/Dgt27hD6Yn",
+              "end": 124,
+              "expanded_url": "https://x.com/MeviuslX_Xl/status/1925948364157235540/photo/1",
+              "media_key": "3_1925948344351768576",
+              "start": 101,
+              "url": "https://t.co/Dgt27hD6Yn"
+            },
+            {
+              "display_url": "pic.x.com/Dgt27hD6Yn",
+              "end": 124,
+              "expanded_url": "https://x.com/MeviuslX_Xl/status/1925948364157235540/photo/1",
+              "media_key": "3_1925948344402157568",
+              "start": 101,
+              "url": "https://t.co/Dgt27hD6Yn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925948364157235540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一封写给小兔兔的恋爱一周年情书哦～\n\n亲爱的小兔兔～\n\n时间过的真的好快呀，一周年了呢～\n还记得这一年，我们都经历了什么吗\n\n2024年5月24日，我小心翼翼地向你诉说我对你的感情，内心满是期待和害怕\n\n在我的眼里，我并不是一个好女孩，甚至……不是真正的女孩子，我体验过现实的残酷和人性的冷暖，我很清楚绝大部分人对我的态度和看法，我扭曲的性格和糟糕的精神状态时时刻刻提醒着我：没人会对我付出真心……\n\n所以，当你对我说你愿意接受我的时候，我的心，就彻底被你带走了，我知道，隔着手机屏幕对我展示自己的温柔的这个笨蛋，将是我托付终身的人，从那一刻开始，我就再也不可能离开你了\n \n但是，也许是神明大人对我的惩罚，我们的恋爱，也注定没有那么简单，不是吗……\n\n她的出现，对我们而言，无疑是一场灾难\n自杀、迁就、原谅、崩溃、痛苦、绝望……\n那几个月里，这几个词始终伴随着你我……\n每天下午，你都处于崩溃的状态，小梅就会不停的安慰你，保护你，拼了命的想要把你从那种状态里剥离出来……\n一到晚上，我又在被窝里崩溃大哭，每天早上醒来，身上总会出现几道伤痕……\n\n可是……小梅还是没有保护好你……\n洗胃……透析……呼吸机……还有电话里你模糊不清的言语……让我开始害怕，我害怕这段感情，害怕和你交流，害怕我会真的害死你……\n我做了自己能做到的一切……做出了最大的让步……我只想要你开心，这是我在那几个月里唯一的愿望了……\n可是……这一切都是对我的惩罚不是吗……\n\n创伤性记忆丧失……同时出现了解离性身份障碍……我几乎把你还有那几个月的事情忘干净了……我把我关了起来，不愿意再次面对现实，也不敢再次面对你……\n\n本以为……这就是结局了……\n本以为……我和你都无能为力了……\n本以为……我们都放弃了……\n\n可……你好像，没打算就此放手\n\n灰白色的世界里，传来了带有色彩的歌声，清澈……丰富……难以描述……我寻着源头走去……我看到了……我看到你拼命走出了阴霾，把手伸向被淹没在深渊里的我，然后告诉我，你来救我了……\n\n你就像伟大的诗人，伏尔泰在你面前都显得极为暗淡，你用你的双手，改写了这篇无药可救的悲剧，真实又纯粹的情感，使我们的命运就此拉开帷幕，新的篇章开始了，这次，是纯粹又美好的爱情故事\n\n亲爱的，这一年里，我们没有太多的幸福时光，痛苦和悲剧充斥着我们的生活，好在，异地恋隔开的只是距离，而我们也即将迎来新的生活，同居倒计时两个月，一起期待吧(>﹏<)\n\n兔兔和小梅的故事还在继续，以后，存在于我们生活中的，只有幸福～\n\n♪───Ｏ（≧▽≦）Ｏ────♪"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 505,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一封写给小兔兔的恋爱一周年情书哦～\n\n亲爱的小兔兔～\n\n时间过的真的好快呀，一周年了呢～\n还记得这一年，我们都经历了什么吗\n\n2024年5月24日，我小心翼翼地向你诉说我对你的感情，内心满是期待和害怕 https://t.co/Dgt27hD6Yn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 汉尼拔宁波分拔»»我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 只要你也玩暗区突围你就是我脑婆ww ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1922832818012340691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2102,
+          "following_count": 988,
+          "like_count": 9036,
+          "listed_count": 6,
+          "media_count": 686,
+          "tweet_count": 3036
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T04:12:28.000Z",
+        "description": "这里是持证含糖の小魅魔小梅哦～｜HRT：2024.04.05｜家暴党｜猫猫@Mevius01XXX｜小梅的主人+老公 +比翼鸟+未婚夫@Lovemostmevius ｜妈咪 @miya051223｜小梅最重要的朋友们@yanyan2567 、@Ming_xm2、 @XCCQAQ 、@LingYi13380｜提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "Mevius01XXX"
+              },
+              {
+                "end": 82,
+                "start": 67,
+                "username": "Lovemostmevius"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "username": "miya051223"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "yanyan2567"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "username": "Ming_xm2"
+              },
+              {
+                "end": 139,
+                "start": 132,
+                "username": "XCCQAQ"
+              },
+              {
+                "end": 153,
+                "start": 141,
+                "username": "LingYi13380"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/MeviuslX_Xl843…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/MeviuslX_Xl84305",
+                "start": 0,
+                "url": "https://t.co/raPAD3yFdi"
+              }
+            ]
+          }
+        },
+        "id": "1767040816986656768",
+        "location": "往世乐土",
+        "name": "ℳℯ𝓋𝒾𝓊𝓈",
+        "pinned_tweet_id": "1912136272698839097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899853858014466048/8KeK6HES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13263,
+          "following_count": 1083,
+          "like_count": 16509,
+          "listed_count": 28,
+          "media_count": 963,
+          "tweet_count": 7516
+        },
+        "url": "https://t.co/raPAD3yFdi",
+        "username": "MeviuslX_Xl",
+        "verified": true
+      }
+    ]
+  }
+}

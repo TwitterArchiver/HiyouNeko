@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1750052293607669760",
+          "name": "DevPlatform JP"
+        }
+      }
+    ],
+    "conversation_id": "1909544308212195796",
+    "created_at": "2025-04-09T01:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T02:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909779217044447480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1578364241362309120",
+          "start": 0,
+          "username": "wuren_Ltd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909779217044447480",
+    "in_reply_to_user_id": "1578364241362309120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909563965195403765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuren_Ltd X API V2用python，postman都可以，推特官网有开发指南"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1750052293607669760",
+              "name": "DevPlatform JP"
+            }
+          }
+        ],
+        "conversation_id": "1909544308212195796",
+        "created_at": "2025-04-09T01:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T02:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909779217044447480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1578364241362309120",
+              "start": 0,
+              "username": "wuren_Ltd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909779217044447480",
+        "in_reply_to_user_id": "1578364241362309120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909563965195403765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuren_Ltd X API V2用python，postman都可以，推特官网有开发指南"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578364241362309120",
+        "conversation_id": "1909544308212195796",
+        "created_at": "2025-04-08T11:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T12:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909563965195403765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909563965195403765",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909544308212195796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 怎么做到的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是友跨顺难 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 970,
+          "like_count": 8567,
+          "listed_count": 6,
+          "media_count": 649,
+          "tweet_count": 2741
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T12:39:05.000Z",
+        "description": "关于我在想什么 \n满洲人属 \n政治观点大约是坐标系平面卷成圆筒，原点与对点连线上的任意点 \n功德箱开放，快给我钱\n阿米娜唯一指定真身\n招梦2记：collective unconscious搭子 \n吉祥动物：🦉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wurenInc",
+                "end": 23,
+                "expanded_url": "https://t.me/wurenInc",
+                "start": 0,
+                "url": "https://t.co/EmkIiTTxZF"
+              }
+            ]
+          }
+        },
+        "id": "1578364241362309120",
+        "location": "龙转回",
+        "name": "无人",
+        "pinned_tweet_id": "1903319102053331337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906685483960475648/ruSPUz-4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28522,
+          "following_count": 1354,
+          "like_count": 16740,
+          "listed_count": 77,
+          "media_count": 662,
+          "tweet_count": 2777
+        },
+        "url": "https://t.co/EmkIiTTxZF",
+        "username": "wuren_Ltd",
+        "verified": false
+      }
+    ]
+  }
+}

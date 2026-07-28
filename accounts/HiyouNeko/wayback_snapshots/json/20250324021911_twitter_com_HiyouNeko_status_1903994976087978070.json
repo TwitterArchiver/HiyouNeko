@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1903994976087978070",
+    "created_at": "2025-03-24T02:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T03:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903994976087978070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HiyouNeko/stat…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/HiyouNeko/status/1903004819436019809",
+          "start": 64,
+          "url": "https://t.co/fcIRFWnj2C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903994976087978070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903004819436019809",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "破案了.....我是傻逼.....我根本没用self.s_time而是线程启动的时候重新定义了一次start_time.... https://t.co/fcIRFWnj2C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 262,
+        "media_key": "3_1903004814776340484",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmjUy-aaEAQFAPg.jpg",
+        "width": 409
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1903994976087978070",
+        "created_at": "2025-03-24T02:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T03:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903994976087978070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HiyouNeko/stat…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/HiyouNeko/status/1903004819436019809",
+              "start": 64,
+              "url": "https://t.co/fcIRFWnj2C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903994976087978070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903004819436019809",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "破案了.....我是傻逼.....我根本没用self.s_time而是线程启动的时候重新定义了一次start_time.... https://t.co/fcIRFWnj2C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903004814776340484"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1903004819436019809",
+        "created_at": "2025-03-21T08:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T09:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903004819436019809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FKjHV2MHtD",
+              "end": 164,
+              "expanded_url": "https://x.com/HiyouNeko/status/1903004819436019809/photo/1",
+              "media_key": "3_1903004814776340484",
+              "start": 141,
+              "url": "https://t.co/FKjHV2MHtD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903004819436019809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有一个类，实例化时用time.time（）记录当前时间，并赋值给变量self.s_time。\n现在我有一个线程不停地输出它实例化到现在经历的时间time.time（）-swlf.s_time（）\n结果，当线程重启之后time.time（）-swlf.s_time（）的值会回到0 https://t.co/FKjHV2MHtD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是友跨顺难 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2057,
+          "following_count": 984,
+          "like_count": 8391,
+          "listed_count": 6,
+          "media_count": 640,
+          "tweet_count": 2643
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

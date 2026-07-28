@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1931870869879668897",
+    "created_at": "2025-06-09T00:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T01:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931870869879668897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/04177_realname…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/04177_realname/status/1931656740392853630",
+          "start": 11,
+          "url": "https://t.co/aa9yAKIz7J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931870869879668897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931656740392853630",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "春晚小品belike https://t.co/aa9yAKIz7J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_1931656641398947841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs6feyKbwAEUMF4.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1931870869879668897",
+        "created_at": "2025-06-09T00:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T01:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931870869879668897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/04177_realname…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/04177_realname/status/1931656740392853630",
+              "start": 11,
+              "url": "https://t.co/aa9yAKIz7J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931870869879668897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931656740392853630",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "春晚小品belike https://t.co/aa9yAKIz7J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931656641398947841"
+          ]
+        },
+        "author_id": "1680508885394927616",
+        "conversation_id": "1931656740392853630",
+        "created_at": "2025-06-08T10:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T11:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931656740392853630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PNMwC8IjCx",
+              "end": 29,
+              "expanded_url": "https://x.com/04177_realname/status/1931656740392853630/photo/1",
+              "media_key": "3_1931656641398947841",
+              "start": 6,
+              "url": "https://t.co/PNMwC8IjCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931656740392853630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 43524,
+          "like_count": 586,
+          "quote_count": 5,
+          "reply_count": 28,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "过于抽象了 https://t.co/PNMwC8IjCx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2117,
+          "following_count": 995,
+          "like_count": 9140,
+          "listed_count": 6,
+          "media_count": 703,
+          "tweet_count": 3125
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "不要自杀，我可以陪你聊天。",
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10758,
+          "following_count": 6131,
+          "like_count": 62322,
+          "listed_count": 31,
+          "media_count": 2323,
+          "tweet_count": 17606
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

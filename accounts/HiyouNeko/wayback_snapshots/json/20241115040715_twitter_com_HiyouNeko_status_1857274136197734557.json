@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1857274136197734557",
+    "created_at": "2024-11-15T04:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T05:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857274136197734557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/foxshuo/status…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/foxshuo/status/1856689841687429296",
+          "start": 21,
+          "url": "https://t.co/gVefeWl6lB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857274136197734557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856689841687429296",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不愧是采购，相亲都用腾讯会议...... https://t.co/gVefeWl6lB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1857274136197734557",
+        "created_at": "2024-11-15T04:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T05:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857274136197734557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foxshuo/status…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/foxshuo/status/1856689841687429296",
+              "start": 21,
+              "url": "https://t.co/gVefeWl6lB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857274136197734557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856689841687429296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不愧是采购，相亲都用腾讯会议...... https://t.co/gVefeWl6lB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856689832283783168"
+          ]
+        },
+        "author_id": "64662332",
+        "conversation_id": "1856689841687429296",
+        "created_at": "2024-11-13T13:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T14:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856689841687429296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bsqd2QIlAm",
+              "end": 32,
+              "expanded_url": "https://x.com/foxshuo/status/1856689841687429296/photo/1",
+              "media_key": "3_1856689832283783168",
+              "start": 9,
+              "url": "https://t.co/Bsqd2QIlAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856689841687429296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 603,
+          "impression_count": 1679913,
+          "like_count": 2915,
+          "quote_count": 59,
+          "reply_count": 423,
+          "retweet_count": 255
+        },
+        "reply_settings": "everyone",
+        "text": "她看了一眼就走了 https://t.co/Bsqd2QIlAm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "是水系魔法师，非常高冷而且🚪88，你们不许乱碰我的脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "Aria&希汐公主殿下～⛧🏳‍⚧",
+        "pinned_tweet_id": "1851532132579221544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1953,
+          "following_count": 894,
+          "like_count": 6527,
+          "listed_count": 5,
+          "tweet_count": 1879
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-11T08:23:02.000Z",
+        "description": "说什么是你的自由，做什么是我的权利，如果我做的得不到你的赞同，那就对了，否则我将与你一样平淡无奇。",
+        "id": "64662332",
+        "location": "中国",
+        "name": "阑夕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550395556685819910/qnbrCfBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160017,
+          "following_count": 706,
+          "like_count": 13943,
+          "listed_count": 756,
+          "tweet_count": 1481
+        },
+        "username": "foxshuo",
+        "verified": true
+      }
+    ]
+  }
+}

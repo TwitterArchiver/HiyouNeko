@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1896926566283940169",
+    "created_at": "2025-03-05T06:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T07:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897175143337918907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1853293374889136128",
+          "start": 0,
+          "username": "gimanother"
+        },
+        {
+          "end": 21,
+          "id": "1788485889225834496",
+          "start": 12,
+          "username": "CnHpaHky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897175143337918907",
+    "in_reply_to_user_id": "1853293374889136128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896940264230637676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gimanother @CnHpaHky 哇塞，和咱一模一样诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1896926566283940169",
+        "created_at": "2025-03-05T06:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T07:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897175143337918907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1853293374889136128",
+              "start": 0,
+              "username": "gimanother"
+            },
+            {
+              "end": 21,
+              "id": "1788485889225834496",
+              "start": 12,
+              "username": "CnHpaHky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897175143337918907",
+        "in_reply_to_user_id": "1853293374889136128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896940264230637676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gimanother @CnHpaHky 哇塞，和咱一模一样诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853293374889136128",
+        "conversation_id": "1896926566283940169",
+        "created_at": "2025-03-04T15:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T16:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896940264230637676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "CnHpaHky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896940264230637676",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 460,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896926566283940169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CnHpaHky 176/65😭😭😭好肥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是友跨顺难 ❦汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 962,
+          "like_count": 8269,
+          "listed_count": 6,
+          "media_count": 634,
+          "tweet_count": 2554
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-04T04:29:15.000Z",
+        "description": "mtx\n某人的影子\n在没有希望的角落里\n阴暗地注视你们",
+        "id": "1853293374889136128",
+        "name": "卡几莫多 崩溃风险（高）",
+        "pinned_tweet_id": "1853452042981007698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853311066996162560/VyGivQK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 167,
+          "like_count": 9152,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1116
+        },
+        "username": "gimanother",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Bluesky同名，防走丢可提前前往blue sky。俄罗斯是一个大实验室，中国是一个精神病院。Void @Sayols_  @MikuMiku3648",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "Sayols_"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "username": "MikuMiku3648"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "location": "Neverland",
+        "name": "fallen stars",
+        "pinned_tweet_id": "1896975396509507754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895357639879524352/W86f868N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 768,
+          "like_count": 2977,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 2271
+        },
+        "username": "CnHpaHky",
+        "verified": false
+      }
+    ]
+  }
+}

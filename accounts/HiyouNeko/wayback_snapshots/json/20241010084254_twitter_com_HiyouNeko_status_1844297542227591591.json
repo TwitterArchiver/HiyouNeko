@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1844297542227591591",
+    "created_at": "2024-10-10T08:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-10T09:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1844297542227591591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bu_kui24999/st…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/bu_kui24999/status/1844231985360929058",
+          "start": 42,
+          "url": "https://t.co/pGbA3Ljdmc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1844297542227591591",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844231985360929058",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以至于我现在除了找牌友打牌，几乎不看私信，反正也没人会在推上私信我_(:з」∠)_ https://t.co/pGbA3Ljdmc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1844297542227591591",
+        "created_at": "2024-10-10T08:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T09:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1844297542227591591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bu_kui24999/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/bu_kui24999/status/1844231985360929058",
+              "start": 42,
+              "url": "https://t.co/pGbA3Ljdmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844297542227591591",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844231985360929058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以至于我现在除了找牌友打牌，几乎不看私信，反正也没人会在推上私信我_(:з」∠)_ https://t.co/pGbA3Ljdmc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1844230892522524672",
+            "3_1844230892522528768"
+          ]
+        },
+        "author_id": "1793227999946391552",
+        "conversation_id": "1844231985360929058",
+        "created_at": "2024-10-10T04:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T05:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1844231985360929058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t53Ic2hr2F",
+              "end": 139,
+              "expanded_url": "https://x.com/bu_kui24999/status/1844231985360929058/photo/1",
+              "media_key": "3_1844230892522524672",
+              "start": 116,
+              "url": "https://t.co/t53Ic2hr2F"
+            },
+            {
+              "display_url": "pic.x.com/t53Ic2hr2F",
+              "end": 139,
+              "expanded_url": "https://x.com/bu_kui24999/status/1844231985360929058/photo/1",
+              "media_key": "3_1844230892522528768",
+              "start": 116,
+              "url": "https://t.co/t53Ic2hr2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844231985360929058",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被搞得好厌男\n我保守估计私聊我的没有5个正常人\n我是能分辨人的，我不搞那一套，推特纯发癫，颜色私信请别来打扰\n别都是小头控制大头的\n私聊我的希望都是些正常而且有能力值得我学习的人\n我估计私聊我的也不会看到这条推，也不会思考我发的推 https://t.co/t53Ic2hr2F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ -希月涟漪赋予汐- ❦ 降临派 ❦ 活在幻想中的魔法少女 ❦ 病娇是魔女化后的产物 ❦ 游戏王植物人 ❦ 真的很爱喝野格 ❦ 你们补药欺负我的宝贝脑婆 @show5560 ❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1864,
+          "following_count": 1012,
+          "like_count": 5990,
+          "listed_count": 7,
+          "tweet_count": 1686
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T10:30:58.000Z",
+        "description": "我是梨然凛或者叫我秋秋也可以！\n05年的小可爱，168/60(该减肥了！！)正在试图学少女音萌死大家（偷懒中）\n(话唠爆炸)！喜欢交朋友！！\n能在公交上稳住不摔倒是不是很酷！꒰ᐢ⸝⸝⸝⸝ᐢ꒱\n一个人要有趣，而不是外表→猜猜我是谁呢？\n喜欢交朋友(我是憨憨的小社牛)\n（纯发癫，不回颜色私信）",
+        "id": "1793227999946391552",
+        "location": "重庆主城区",
+        "name": "梨~然凛！！川渝暴龙！！",
+        "pinned_tweet_id": "1840677531177136166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799494786958733312/sGcunfGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 40,
+          "like_count": 95,
+          "listed_count": 2,
+          "tweet_count": 794
+        },
+        "username": "bu_kui24999",
+        "verified": false
+      }
+    ]
+  }
+}

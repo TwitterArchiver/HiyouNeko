@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1909140894202347946",
+    "created_at": "2025-04-07T07:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T08:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909140894202347946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aichankawaii77…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/aichankawaii77/status/1908823850537963924",
+          "start": 6,
+          "url": "https://t.co/pxCD0Q7OPP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909140894202347946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908823850537963924",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蹲一个后续 https://t.co/pxCD0Q7OPP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1909140894202347946",
+        "created_at": "2025-04-07T07:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T08:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909140894202347946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aichankawaii77…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/aichankawaii77/status/1908823850537963924",
+              "start": 6,
+              "url": "https://t.co/pxCD0Q7OPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909140894202347946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908823850537963924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蹲一个后续 https://t.co/pxCD0Q7OPP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715793403307610112",
+        "conversation_id": "1908734266491756766",
+        "created_at": "2025-04-06T10:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T11:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908823850537963924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797727504540807168",
+              "start": 0,
+              "username": "od_angelkaii_od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908823850537963924",
+        "in_reply_to_user_id": "1797727504540807168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 471,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908734266491756766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@od_angelkaii_od 谁来组个自杀wiki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是友跨顺难 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 966,
+          "like_count": 8530,
+          "listed_count": 6,
+          "media_count": 646,
+          "tweet_count": 2720
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-21T18:13:31.000Z",
+        "description": "我是芙芙呀 || OD(戒了 应该吧)/自残/地雷女/台湾/精神不稳定/抑郁症/焦虑症/双向情感障碍/ed/药物重度依赖 || 需要我陪你的话请私信！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/muttfufu",
+                "end": 23,
+                "expanded_url": "https://t.me/muttfufu",
+                "start": 0,
+                "url": "https://t.co/ewdBMJWLC1"
+              }
+            ]
+          }
+        },
+        "id": "1715793403307610112",
+        "name": "✞ₓ 芙芙‧₊˚。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896877918724538368/irXIi4Oq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 108,
+          "like_count": 837,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 70
+        },
+        "url": "https://t.co/ewdBMJWLC1",
+        "username": "aichankawaii77",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "2036237688928608771",
+    "created_at": "2026-03-24T00:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T01:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036237688928608771"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036237688928608771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "『剧烈变形Vol.2』\n23.28，3g骆驼蓬子浓缩约100ml：脑袋麻麻的，有点像多巴胺过载的感觉\n00.04，15.3g树皮浓缩约750ml，第一次喝了一半约375ml：没有嘴唇发麻的感觉，似乎没起效，剂量不够或者新的煮法不对，肠胃不适感逐渐增强，直到00.40左右共呕吐3次，期间伴有轻度内幻，音乐鉴赏力增强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "2036237688928608771",
+        "created_at": "2026-03-24T00:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T01:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036237688928608771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036237688928608771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "『剧烈变形Vol.2』\n23.28，3g骆驼蓬子浓缩约100ml：脑袋麻麻的，有点像多巴胺过载的感觉\n00.04，15.3g树皮浓缩约750ml，第一次喝了一半约375ml：没有嘴唇发麻的感觉，似乎没起效，剂量不够或者新的煮法不对，肠胃不适感逐渐增强，直到00.40左右共呕吐3次，期间伴有轻度内幻，音乐鉴赏力增强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦od💊不割手❦永不满足的爱，和以此倍增的恨.❦可爱小猫 @herself32 ❦发情期再放送.....❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "🎈˚₊‧꒰ა超绝可爱☆派对姬໒꒱‧₊˚🎈",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036223950007705606/48JBwYi8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 1004,
+          "like_count": 9571,
+          "listed_count": 6,
+          "media_count": 774,
+          "tweet_count": 3546
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932361361419640832"
+      ],
+      "media_source_tweet_id": [
+        "1932361375055282516"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "conversation_id": "1932362419277578411",
+    "created_at": "2025-06-10T09:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T10:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932362419277578411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1025546987578556417",
+          "start": 3,
+          "username": "FTMiaoX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7wrSFwiD3C",
+          "end": 39,
+          "expanded_url": "https://x.com/FTMiaoX/status/1932361375055282516/photo/1",
+          "media_key": "3_1932361361419640832",
+          "start": 16,
+          "url": "https://t.co/7wrSFwiD3C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932362419277578411",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932361375055282516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FTMiaoX: 包欠 https://t.co/7wrSFwiD3C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 427,
+        "media_key": "3_1932361361419640832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtEga40boAAtaeW.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932361361419640832"
+          ],
+          "media_source_tweet_id": [
+            "1932361375055282516"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "conversation_id": "1932362419277578411",
+        "created_at": "2025-06-10T09:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T10:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932362419277578411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1025546987578556417",
+              "start": 3,
+              "username": "FTMiaoX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7wrSFwiD3C",
+              "end": 39,
+              "expanded_url": "https://x.com/FTMiaoX/status/1932361375055282516/photo/1",
+              "media_key": "3_1932361361419640832",
+              "start": 16,
+              "url": "https://t.co/7wrSFwiD3C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932362419277578411",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932361375055282516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FTMiaoX: 包欠 https://t.co/7wrSFwiD3C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932361361419640832"
+          ]
+        },
+        "author_id": "1025546987578556417",
+        "conversation_id": "1932361375055282516",
+        "created_at": "2025-06-10T08:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T09:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932361375055282516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7wrSFwiD3C",
+              "end": 26,
+              "expanded_url": "https://x.com/FTMiaoX/status/1932361375055282516/photo/1",
+              "media_key": "3_1932361361419640832",
+              "start": 3,
+              "url": "https://t.co/7wrSFwiD3C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932361375055282516",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "包欠 https://t.co/7wrSFwiD3C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 995,
+          "like_count": 9149,
+          "listed_count": 6,
+          "media_count": 703,
+          "tweet_count": 3129
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-04T01:00:30.000Z",
+        "description": "ENBY/Demimasc/Ludogender/ta/他/ASD/ADHD/S/Dom/我是发条/人类友好/❤️属于我的@BakaHDT/发点自己喜欢的有趣东西/点alt看出处(有水印的不标 有些图我也不知道)/转载授权在主页搜索“授权”/我爱你 希望你幸福快乐 https://t.co/a4UYlpzxKj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "BakaHDT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ftmiao",
+                "end": 156,
+                "expanded_url": "https://ngl.link/ftmiao",
+                "start": 133,
+                "url": "https://t.co/a4UYlpzxKj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LoveFTMiaoTV",
+                "end": 23,
+                "expanded_url": "https://t.me/LoveFTMiaoTV",
+                "start": 0,
+                "url": "https://t.co/OfJi4k397c"
+              }
+            ]
+          }
+        },
+        "id": "1025546987578556417",
+        "location": "关着BakaHDT的笼子旁边",
+        "name": "🏳️‍🌈发条喵🏳️‍⚧️",
+        "pinned_tweet_id": "1754185922885611679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881339664034091009/UbLEaqas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7053,
+          "following_count": 3257,
+          "like_count": 163010,
+          "listed_count": 21,
+          "media_count": 2906,
+          "tweet_count": 27019
+        },
+        "url": "https://t.co/OfJi4k397c",
+        "username": "FTMiaoX",
+        "verified": false
+      }
+    ]
+  }
+}

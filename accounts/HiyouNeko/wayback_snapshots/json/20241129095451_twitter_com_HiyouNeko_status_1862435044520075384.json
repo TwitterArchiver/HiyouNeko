@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1862087035387039813",
+    "created_at": "2024-11-29T09:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T10:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862435044520075384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1844186721694646274",
+          "start": 0,
+          "username": "KomariChika0721"
+        },
+        {
+          "end": 32,
+          "id": "1008968317724385281",
+          "start": 17,
+          "username": "Arthur29425408"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862435044520075384",
+    "in_reply_to_user_id": "1844186721694646274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862385890565529692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KomariChika0721 @Arthur29425408 不扫陌生二维码是网上冲浪必备防守动作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1862087035387039813",
+        "created_at": "2024-11-29T09:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T10:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862435044520075384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1844186721694646274",
+              "start": 0,
+              "username": "KomariChika0721"
+            },
+            {
+              "end": 32,
+              "id": "1008968317724385281",
+              "start": 17,
+              "username": "Arthur29425408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862435044520075384",
+        "in_reply_to_user_id": "1844186721694646274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862385890565529692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KomariChika0721 @Arthur29425408 不扫陌生二维码是网上冲浪必备防守动作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844186721694646274",
+        "conversation_id": "1862087035387039813",
+        "created_at": "2024-11-29T06:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T07:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862385890565529692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1008968317724385281",
+              "start": 0,
+              "username": "Arthur29425408"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862385890565529692",
+        "in_reply_to_user_id": "1008968317724385281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862385331255091586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arthur29425408 扫一下二维码其实是肯德基，不过我没想到没什么人扫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我的小孩脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 88,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "一只希汐#θωθ",
+        "pinned_tweet_id": "1858814345456873777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1967,
+          "following_count": 921,
+          "like_count": 6903,
+          "listed_count": 5,
+          "media_count": 512,
+          "tweet_count": 2034
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T01:22:46.000Z",
+        "description": "主推小鞠，发梗图请不要对号入座，真假自辩，侵删\n点点关注喵，谢谢喵₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1844186721694646274",
+        "location": "日本",
+        "name": "小鞠 知花 点点关注喵₍˄·͈༝·͈˄*₎◞ ̑̑爱你哟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861808644557520898/YFS8yQd4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 62,
+          "like_count": 737,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 130
+        },
+        "username": "KomariChika0721",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-19T07:02:47.000Z",
+        "description": "我梦想中的那个温柔甜美的处女老婆是不是根本就不存在啊，呜呜",
+        "id": "1008968317724385281",
+        "location": "Shanghai",
+        "name": "Arthur",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1010872596944973825/5OhDBKMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 60,
+          "like_count": 507,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 516
+        },
+        "username": "Arthur29425408",
+        "verified": false
+      }
+    ]
+  }
+}

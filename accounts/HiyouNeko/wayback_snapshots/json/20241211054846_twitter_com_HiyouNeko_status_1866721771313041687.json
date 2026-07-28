@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1866721771313041687",
+    "created_at": "2024-12-11T05:48:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T06:48:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866721771313041687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "785515898735955968",
+          "start": 3,
+          "username": "akdduke"
+        },
+        {
+          "end": 21,
+          "id": "1433678976564662273",
+          "start": 13,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866721771313041687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866366989893345303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akdduke: @hsn8086 要用布林法 反向形容\n\n侍者恭敬的掀開金屬菜罩\n油耗跟鐵板香味撲鼻而來\n\n一份切齊的鮪魚罐頭煎蛋餅擺放在精緻的白瓷盤上，印度銅製水杯內的鮮奶茶冰涼透徹。\n\n「這就是…平民連鎖店煎蛋餅？」\n\n「是的，老爺，貧民們早上都吃這種廉價美味的食…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1866721771313041687",
+        "created_at": "2024-12-11T05:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T06:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866721771313041687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "785515898735955968",
+              "start": 3,
+              "username": "akdduke"
+            },
+            {
+              "end": 21,
+              "id": "1433678976564662273",
+              "start": 13,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866721771313041687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866366989893345303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akdduke: @hsn8086 要用布林法 反向形容\n\n侍者恭敬的掀開金屬菜罩\n油耗跟鐵板香味撲鼻而來\n\n一份切齊的鮪魚罐頭煎蛋餅擺放在精緻的白瓷盤上，印度銅製水杯內的鮮奶茶冰涼透徹。\n\n「這就是…平民連鎖店煎蛋餅？」\n\n「是的，老爺，貧民們早上都吃這種廉價美味的食…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "785515898735955968",
+        "conversation_id": "1866320515683758134",
+        "created_at": "2024-12-10T06:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T07:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866366989893345303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866366989893345303",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7248,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866320515683758134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 要用布林法 反向形容\n\n侍者恭敬的掀開金屬菜罩\n油耗跟鐵板香味撲鼻而來\n\n一份切齊的鮪魚罐頭煎蛋餅擺放在精緻的白瓷盤上，印度銅製水杯內的鮮奶茶冰涼透徹。\n\n「這就是…平民連鎖店煎蛋餅？」\n\n「是的，老爺，貧民們早上都吃這種廉價美味的食物，提供他們中午前的體力。」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ HRT22/08/29 ❦ 坐标宁波 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我脑婆/主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 109,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "梦幻楼与不眠希汐#θωθ",
+        "pinned_tweet_id": "1863879352221618461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 973,
+          "like_count": 7511,
+          "listed_count": 5,
+          "media_count": 563,
+          "tweet_count": 2242
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-10T16:22:39.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nukeduke.deviantart.com",
+                "end": 23,
+                "expanded_url": "http://nukeduke.deviantart.com/",
+                "start": 0,
+                "url": "https://t.co/xsXgeA3Ksh"
+              }
+            ]
+          }
+        },
+        "id": "785515898735955968",
+        "name": "異物質",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1269281232044429312/u9EG6cij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 228,
+          "like_count": 930,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1060
+        },
+        "url": "https://t.co/xsXgeA3Ksh",
+        "username": "akdduke",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1864222430354657288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21360,
+          "following_count": 897,
+          "like_count": 36201,
+          "listed_count": 58,
+          "media_count": 3795,
+          "tweet_count": 8318
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

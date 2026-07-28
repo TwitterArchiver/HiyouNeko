@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928879850875662342",
+        "3_1928880199447490561",
+        "3_1928880199472656387"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1928880214311850251",
+    "created_at": "2025-05-31T18:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T19:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928880214311850251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KWHqnRdnh9",
+          "end": 36,
+          "expanded_url": "https://x.com/HiyouNeko/status/1928880214311850251/photo/1",
+          "media_key": "3_1928879850875662342",
+          "start": 13,
+          "url": "https://t.co/KWHqnRdnh9"
+        },
+        {
+          "display_url": "pic.x.com/KWHqnRdnh9",
+          "end": 36,
+          "expanded_url": "https://x.com/HiyouNeko/status/1928880214311850251/photo/1",
+          "media_key": "3_1928880199447490561",
+          "start": 13,
+          "url": "https://t.co/KWHqnRdnh9"
+        },
+        {
+          "display_url": "pic.x.com/KWHqnRdnh9",
+          "end": 36,
+          "expanded_url": "https://x.com/HiyouNeko/status/1928880214311850251/photo/1",
+          "media_key": "3_1928880199472656387",
+          "start": 13,
+          "url": "https://t.co/KWHqnRdnh9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928880214311850251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "端午节大家准备好艾草了吗 https://t.co/KWHqnRdnh9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1928879850875662342",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsTCATXaMAYl4X-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1928880199447490561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsTCUl5aMAELAMA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1928880199472656387",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsTCUl_aMAMG56Y.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928879850875662342",
+            "3_1928880199447490561",
+            "3_1928880199472656387"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1928880214311850251",
+        "created_at": "2025-05-31T18:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T19:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928880214311850251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KWHqnRdnh9",
+              "end": 36,
+              "expanded_url": "https://x.com/HiyouNeko/status/1928880214311850251/photo/1",
+              "media_key": "3_1928879850875662342",
+              "start": 13,
+              "url": "https://t.co/KWHqnRdnh9"
+            },
+            {
+              "display_url": "pic.x.com/KWHqnRdnh9",
+              "end": 36,
+              "expanded_url": "https://x.com/HiyouNeko/status/1928880214311850251/photo/1",
+              "media_key": "3_1928880199447490561",
+              "start": 13,
+              "url": "https://t.co/KWHqnRdnh9"
+            },
+            {
+              "display_url": "pic.x.com/KWHqnRdnh9",
+              "end": 36,
+              "expanded_url": "https://x.com/HiyouNeko/status/1928880214311850251/photo/1",
+              "media_key": "3_1928880199472656387",
+              "start": 13,
+              "url": "https://t.co/KWHqnRdnh9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928880214311850251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "端午节大家准备好艾草了吗 https://t.co/KWHqnRdnh9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 991,
+          "like_count": 9092,
+          "listed_count": 6,
+          "media_count": 695,
+          "tweet_count": 3077
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

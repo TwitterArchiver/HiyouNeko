@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1992931119461990706",
+    "created_at": "2025-11-25T08:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T09:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993240708891984042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1661391616870084610",
+          "start": 0,
+          "username": "0v0_Nutcracker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993240708891984042",
+    "in_reply_to_user_id": "1661391616870084610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992931119461990706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0v0_Nutcracker 羡慕手冲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1274,
+        "media_key": "3_1992931039745126401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hQOL3bsAEHrXz.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1992931119461990706",
+        "created_at": "2025-11-25T08:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T09:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993240708891984042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1661391616870084610",
+              "start": 0,
+              "username": "0v0_Nutcracker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993240708891984042",
+        "in_reply_to_user_id": "1661391616870084610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992931119461990706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0v0_Nutcracker 羡慕手冲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992931039745126401"
+          ]
+        },
+        "author_id": "1661391616870084610",
+        "conversation_id": "1992931119461990706",
+        "created_at": "2025-11-24T12:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T13:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992931119461990706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I9gimMmbn7",
+              "end": 28,
+              "expanded_url": "https://x.com/0v0_Nutcracker/status/1992931119461990706/photo/1",
+              "media_key": "3_1992931039745126401",
+              "start": 5,
+              "url": "https://t.co/I9gimMmbn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992931119461990706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 240778,
+          "like_count": 583,
+          "quote_count": 1,
+          "reply_count": 69,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "手冲图片 https://t.co/I9gimMmbn7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "阳痿丨风湿丨前列腺炎丨腰间盘突出。逐渐沦为三坏xyn。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片（今日推荐：爆弹鱼）🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 1034,
+          "like_count": 9478,
+          "listed_count": 7,
+          "media_count": 749,
+          "tweet_count": 3411
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T15:20:22.000Z",
+        "description": "intj｜bi 0.5｜热情比格｜挚爱骨科｜究极杂食写手\n谢谢你来看我，希望你今天过得快乐\n（在下精神脆弱非常玻璃心不喜欢我请直接拉黑一别两宽此生不见别骂我我会很难过QAQ｜🈲不约炮别烦我｜闭关学习中……）",
+        "id": "1661391616870084610",
+        "name": "胡桃夹子",
+        "pinned_tweet_id": "1972704894525251845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991199152542478338/kV3it-9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 205,
+          "like_count": 6719,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 871
+        },
+        "username": "0v0_Nutcracker",
+        "verified": false
+      }
+    ]
+  }
+}

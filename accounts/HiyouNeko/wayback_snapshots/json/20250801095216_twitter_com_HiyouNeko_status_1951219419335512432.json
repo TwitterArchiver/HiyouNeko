@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1951188643969663255",
+    "created_at": "2025-08-01T09:52:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T10:52:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951219419335512432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699298317392580608",
+          "start": 0,
+          "username": "bakajinping"
+        },
+        {
+          "end": 25,
+          "id": "1766025755161772032",
+          "start": 13,
+          "username": "Kiara939217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951219419335512432",
+    "in_reply_to_user_id": "1699298317392580608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951196147672027254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bakajinping @Kiara939217 收（xiao）藏（hui）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1951196147672027254].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1951196147672027254",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1951196147672027254"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1951188643969663255",
+        "created_at": "2025-08-01T09:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T10:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951219419335512432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699298317392580608",
+              "start": 0,
+              "username": "bakajinping"
+            },
+            {
+              "end": 25,
+              "id": "1766025755161772032",
+              "start": 13,
+              "username": "Kiara939217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951219419335512432",
+        "in_reply_to_user_id": "1699298317392580608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951196147672027254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bakajinping @Kiara939217 收（xiao）藏（hui）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 982,
+          "like_count": 9208,
+          "listed_count": 6,
+          "media_count": 717,
+          "tweet_count": 3217
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T05:48:27.000Z",
+        "description": "",
+        "id": "1699298317392580608",
+        "name": "🗷",
+        "pinned_tweet_id": "1937506752670699577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937503274220867584/iJJOXKbg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 683,
+          "like_count": 66450,
+          "listed_count": 4,
+          "media_count": 3818,
+          "tweet_count": 22349
+        },
+        "username": "bakajinping",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T08:58:57.000Z",
+        "description": "前次元斩大排档/打猎/ygo/kisskill/不鉴证/绝情道\n找不到之前的头像了但我是顺男不含糖不翻车理想外观是基努里维斯\n可以牺牲，但不能被牺牲\n被绑架你就眨眨眼",
+        "id": "1766025755161772032",
+        "location": "如果你想要，你得自己来拿，但规矩你懂的",
+        "name": "真夜迴-超级电弧形态",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920505185467551744/5GlV5gFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 1472,
+          "like_count": 18683,
+          "listed_count": 0,
+          "media_count": 497,
+          "tweet_count": 4310
+        },
+        "username": "Kiara939217",
+        "verified": false
+      }
+    ]
+  }
+}

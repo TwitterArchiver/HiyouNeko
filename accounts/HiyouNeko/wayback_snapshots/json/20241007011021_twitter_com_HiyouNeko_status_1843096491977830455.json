@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1843096490040041472"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1843096491977830455",
+    "created_at": "2024-10-07T01:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T02:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1843096491977830455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "1528928909734973440",
+          "start": 11,
+          "username": "HiyouNeko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4BmDh8wOYg",
+          "end": 72,
+          "expanded_url": "https://x.com/HiyouNeko/status/1843096491977830455/photo/1",
+          "media_key": "3_1843096490040041472",
+          "start": 49,
+          "url": "https://t.co/4BmDh8wOYg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843096491977830455",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "讣告：\n       @HiyouNeko 与昨日20时18分，被 猪 杀死，一位魔法使就此陨落 https://t.co/4BmDh8wOYg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 96,
+        "media_key": "3_1843096490040041472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZP-fhebIAAHaBp.png",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843096490040041472"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1843096491977830455",
+        "created_at": "2024-10-07T01:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T02:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843096491977830455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1528928909734973440",
+              "start": 11,
+              "username": "HiyouNeko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4BmDh8wOYg",
+              "end": 72,
+              "expanded_url": "https://x.com/HiyouNeko/status/1843096491977830455/photo/1",
+              "media_key": "3_1843096490040041472",
+              "start": 49,
+              "url": "https://t.co/4BmDh8wOYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843096491977830455",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n       @HiyouNeko 与昨日20时18分，被 猪 杀死，一位魔法使就此陨落 https://t.co/4BmDh8wOYg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派 ❦ 活在幻想中的魔法少女，病娇是魔女化后的产物 ❦ 正在尝试成为游戏王植物人 ❦ 你们补药欺负她 @show5560 ❦ 全世界最好的门槛哥 @moskalin1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "show5560"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "moskalin1"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 1008,
+          "like_count": 5913,
+          "listed_count": 7,
+          "tweet_count": 1656
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

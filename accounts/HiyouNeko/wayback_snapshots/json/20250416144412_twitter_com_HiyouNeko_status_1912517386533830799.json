@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1912430822285799566",
+    "created_at": "2025-04-16T14:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T15:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912517386533830799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1354545024046821376",
+          "start": 0,
+          "username": "KURANAGA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912517386533830799",
+    "in_reply_to_user_id": "1354545024046821376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912491703245934797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KURANAGA0 顺女朋友停了第一个不开心，尤其处在更年期的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1912430822285799566",
+        "created_at": "2025-04-16T14:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T15:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912517386533830799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1354545024046821376",
+              "start": 0,
+              "username": "KURANAGA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912517386533830799",
+        "in_reply_to_user_id": "1354545024046821376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912491703245934797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KURANAGA0 顺女朋友停了第一个不开心，尤其处在更年期的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1354545024046821376",
+        "conversation_id": "1912430822285799566",
+        "created_at": "2025-04-16T13:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T14:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912491703245934797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912491703245934797",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912430822285799566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 人妖药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 985,
+          "like_count": 8676,
+          "listed_count": 6,
+          "media_count": 655,
+          "tweet_count": 2810
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T21:41:25.000Z",
+        "description": "- 生命永存 - 🚪52 我没有逼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lianlianzinya",
+                "end": 23,
+                "expanded_url": "http://t.me/lianlianzinya",
+                "start": 0,
+                "url": "https://t.co/IHZrnYTTII"
+              }
+            ]
+          }
+        },
+        "id": "1354545024046821376",
+        "location": "致以辉煌的人们",
+        "name": "甜甜怜怜子🍥",
+        "pinned_tweet_id": "1909279378497835414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906386649245962240/c71LsckR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 755,
+          "like_count": 7075,
+          "listed_count": 3,
+          "media_count": 948,
+          "tweet_count": 7161
+        },
+        "url": "https://t.co/IHZrnYTTII",
+        "username": "KURANAGA0",
+        "verified": false
+      }
+    ]
+  }
+}

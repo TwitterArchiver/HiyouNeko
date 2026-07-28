@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1907693196156469706",
+    "created_at": "2025-04-03T07:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T08:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907696200859717867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1684456606623571968",
+          "start": 0,
+          "username": "er_mei74034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907696200859717867",
+    "in_reply_to_user_id": "1684456606623571968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907693196156469706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@er_mei74034 咱还在等它出2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1907693191878553601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnl82cJaMAE3xeP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1907693196156469706",
+        "created_at": "2025-04-03T07:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T08:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907696200859717867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1684456606623571968",
+              "start": 0,
+              "username": "er_mei74034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907696200859717867",
+        "in_reply_to_user_id": "1684456606623571968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907693196156469706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@er_mei74034 咱还在等它出2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907693191878553601"
+          ]
+        },
+        "author_id": "1684456606623571968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1907693196156469706",
+        "created_at": "2025-04-03T07:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T08:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907693196156469706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pmPYzQ0rTH",
+              "end": 26,
+              "expanded_url": "https://x.com/er_mei74034/status/1907693196156469706/photo/1",
+              "media_key": "3_1907693191878553601",
+              "start": 3,
+              "url": "https://t.co/pmPYzQ0rTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907693196156469706",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘻嘻 https://t.co/pmPYzQ0rTH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是友跨顺难 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 965,
+          "like_count": 8520,
+          "listed_count": 6,
+          "media_count": 644,
+          "tweet_count": 2713
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T06:52:15.000Z",
+        "description": "攻击我的手机自动下载原神",
+        "id": "1684456606623571968",
+        "name": "梅尔菲（Aron Hena）",
+        "pinned_tweet_id": "1861709800134041864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841805022339989505/YoA0S0Nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 1163,
+          "like_count": 20647,
+          "listed_count": 10,
+          "media_count": 2587,
+          "tweet_count": 15778
+        },
+        "username": "er_mei74034",
+        "verified": false
+      }
+    ]
+  }
+}

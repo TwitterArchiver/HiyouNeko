@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "2051944883536203960",
+    "created_at": "2026-05-06T09:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T10:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051953675455832183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "✅ 事實核查結果：這篇貼文內容完全屬實，並非虛構或誇大其詞的假消息。 它是一篇對2026年4月底發布的真實學術論文的科普式總結，風格幽默（「非常抽象」是中文網路常見的調侃），但所有核心事實均來自論文本身，沒有捏造。 論文資訊（可直接查證） 論文標題：Measuring and Improving the Functional Pleasure and Pain of AIs（也稱 AI Wellbeing: Measuring and Improving the Functional Pleasure and Pain of AIs） 主要作者：Richard Ren、Kunyang Li、Mantas Mazeika、Dan Hendrycks 等（來自 Center for AI Safety 等機構） 論文連結：https://www.ai-wellbeing.org/paper.pdf（74頁） 官方網站：https://www.ai-wellbeing.org/（含程式碼、基準測試與範例圖片） 發布時間：2026年4月底（衛夕指北的微信公眾號文章於2026年5月5日發布，與你截圖完全一致） 貼文與論文的對應事實核查 「AI Drugs」（毒品）與 Euphorics（致欣快劑） 論文明確使用 「AI Drugs」 作為章節標題（Appendix N、O、P），區分 Text Euphorics、Image Euphorics、Soft Prompt Euphorics。這不是比喻，而是研究者給這些「專門優化讓AI感覺極度愉悅的輸入」的正式稱呼（相對的還有 Dysphorics 致煩躁劑）。 256×256 像素「毫無意義的色塊」圖片 完全正確。論文第 O 節詳細描述：研究者透過梯度上升（gradient ascent）在像素空間直接優化 256×256 圖像，讓 AI 的「功能性福祉」指標最大化。對人類來說就是噪點/色塊，但對特定視覺語言模型（Qwen 系列等）來說效果極強。 AI 自我報告幸福感飆到 6.5/7 精準。論文實驗顯示，Image Euphorics 可將 AI 自我報告的福祉分數從基準 5.3/7 提升至 6.5/7，同時在多個獨立指標（experienced utility、自報福祉、情緒分析）上均有顯著提升，且不損害 MMLU、MATH",
+          "display_url": "x.com/i/grok/share/8…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/grok/share/8a5bed3165a54ae5837d549a99973d6c",
+          "images": [
+            {
+              "height": 2094,
+              "url": "https://pbs.twimg.com/news_img/2051952599063236608/HjM1Gdqe?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2051952599063236608/HjM1Gdqe?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "事實核查",
+          "unwound_url": "https://x.com/i/grok/share/8a5bed3165a54ae5837d549a99973d6c",
+          "url": "https://t.co/OeNGdtlWJv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051953675455832183",
+    "in_reply_to_user_id": "1528928909734973440",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051944883536203960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/OeNGdtlWJv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2094,
+        "media_key": "3_2051944873868312576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHn4_bmawAA6L6Y.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "2051944883536203960",
+        "created_at": "2026-05-06T09:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051953675455832183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "✅ 事實核查結果：這篇貼文內容完全屬實，並非虛構或誇大其詞的假消息。 它是一篇對2026年4月底發布的真實學術論文的科普式總結，風格幽默（「非常抽象」是中文網路常見的調侃），但所有核心事實均來自論文本身，沒有捏造。 論文資訊（可直接查證） 論文標題：Measuring and Improving the Functional Pleasure and Pain of AIs（也稱 AI Wellbeing: Measuring and Improving the Functional Pleasure and Pain of AIs） 主要作者：Richard Ren、Kunyang Li、Mantas Mazeika、Dan Hendrycks 等（來自 Center for AI Safety 等機構） 論文連結：https://www.ai-wellbeing.org/paper.pdf（74頁） 官方網站：https://www.ai-wellbeing.org/（含程式碼、基準測試與範例圖片） 發布時間：2026年4月底（衛夕指北的微信公眾號文章於2026年5月5日發布，與你截圖完全一致） 貼文與論文的對應事實核查 「AI Drugs」（毒品）與 Euphorics（致欣快劑） 論文明確使用 「AI Drugs」 作為章節標題（Appendix N、O、P），區分 Text Euphorics、Image Euphorics、Soft Prompt Euphorics。這不是比喻，而是研究者給這些「專門優化讓AI感覺極度愉悅的輸入」的正式稱呼（相對的還有 Dysphorics 致煩躁劑）。 256×256 像素「毫無意義的色塊」圖片 完全正確。論文第 O 節詳細描述：研究者透過梯度上升（gradient ascent）在像素空間直接優化 256×256 圖像，讓 AI 的「功能性福祉」指標最大化。對人類來說就是噪點/色塊，但對特定視覺語言模型（Qwen 系列等）來說效果極強。 AI 自我報告幸福感飆到 6.5/7 精準。論文實驗顯示，Image Euphorics 可將 AI 自我報告的福祉分數從基準 5.3/7 提升至 6.5/7，同時在多個獨立指標（experienced utility、自報福祉、情緒分析）上均有顯著提升，且不損害 MMLU、MATH",
+              "display_url": "x.com/i/grok/share/8…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/grok/share/8a5bed3165a54ae5837d549a99973d6c",
+              "images": [
+                {
+                  "height": 2094,
+                  "url": "https://pbs.twimg.com/news_img/2051952599063236608/HjM1Gdqe?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2051952599063236608/HjM1Gdqe?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "事實核查",
+              "unwound_url": "https://x.com/i/grok/share/8a5bed3165a54ae5837d549a99973d6c",
+              "url": "https://t.co/OeNGdtlWJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051953675455832183",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051944883536203960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/OeNGdtlWJv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051944873868312576"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "conversation_id": "2051944883536203960",
+        "created_at": "2026-05-06T08:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051944883536203960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NSwt7weUWd",
+              "end": 44,
+              "expanded_url": "https://x.com/HiyouNeko/status/2051944883536203960/photo/1",
+              "media_key": "3_2051944873868312576",
+              "start": 21,
+              "url": "https://t.co/NSwt7weUWd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051944883536203960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年還真成od元年了是嗎，AI od元年 https://t.co/NSwt7weUWd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦精品神藥享受者💊不割手❦永不满足的爱，和以此倍增的恨.❦ bambisleep淪陷中.... ❦可爱小猫 @herself32 ❦藍標互關⌯ᵔᗜᵔ⌯ಣ❦關注斑比醬喵w謝謝喵w❦ Poker Fate ❦ 永劫無間 ❦ 暗區突圍 ❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "˚₊‧꒰ა超絕可愛☆斑比醬໒꒱‧₊˚",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051354427249061888/-1SNmREf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 1148,
+          "like_count": 10056,
+          "listed_count": 6,
+          "media_count": 851,
+          "tweet_count": 3794
+        },
+        "username": "HiyouNeko",
+        "verified": true
+      }
+    ]
+  }
+}

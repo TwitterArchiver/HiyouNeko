@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1970787469873631698",
+    "created_at": "2025-09-24T09:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T10:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970787469873631698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1504429360987930624",
+          "start": 3,
+          "username": "bmiaomiaoss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970787469873631698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968680678699991108",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bmiaomiaoss: 其实这种最好品了，在一个稀松平常的午后，没有任何征兆任何预谋的，相爱的一方死掉了，就是死掉了，甚至来不及道别，剩下的一方甚至找不到恨的源头，只能恨天地不公，让相爱的人阴阳两隔，这种平淡且荒诞的发展，让人每每想起来心口就泛起密密麻麻的刺痛 htt…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1970787469873631698].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1970787469873631698",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1970787469873631698"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1850,
+        "media_key": "3_1968680676062109696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1IopPTboAAeNsi.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1968680670835998720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Ioo71bgAAvNLj.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968680676062109696",
+            "3_1968680670835998720"
+          ]
+        },
+        "author_id": "1504429360987930624",
+        "conversation_id": "1968680678699991108",
+        "created_at": "2025-09-18T14:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T15:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968680678699991108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3D5qnkB4qN",
+              "end": 142,
+              "expanded_url": "https://x.com/bmiaomiaoss/status/1968680678699991108/photo/1",
+              "media_key": "3_1968680676062109696",
+              "start": 119,
+              "url": "https://t.co/3D5qnkB4qN"
+            },
+            {
+              "display_url": "pic.x.com/3D5qnkB4qN",
+              "end": 142,
+              "expanded_url": "https://x.com/bmiaomiaoss/status/1968680678699991108/photo/1",
+              "media_key": "3_1968680670835998720",
+              "start": 119,
+              "url": "https://t.co/3D5qnkB4qN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968680678699991108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实这种最好品了，在一个稀松平常的午后，没有任何征兆任何预谋的，相爱的一方死掉了，就是死掉了，甚至来不及道别，剩下的一方甚至找不到恨的源头，只能恨天地不公，让相爱的人阴阳两隔，这种平淡且荒诞的发展，让人每每想起来心口就泛起密密麻麻的刺痛 https://t.co/3D5qnkB4qN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 981,
+          "like_count": 9193,
+          "listed_count": 7,
+          "media_count": 722,
+          "tweet_count": 3243
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T12:08:14.000Z",
+        "description": "时隔x年回归，信我是秦始皇v我50 封你做大将军",
+        "id": "1504429360987930624",
+        "location": "Macau",
+        "name": "落落五号机",
+        "pinned_tweet_id": "1968680678699991108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504429826241101824/02-Cvrui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 170,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "username": "bmiaomiaoss",
+        "verified": false
+      }
+    ]
+  }
+}

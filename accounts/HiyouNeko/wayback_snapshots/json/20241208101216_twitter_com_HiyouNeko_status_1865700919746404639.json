@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1865700919746404639",
+    "created_at": "2024-12-08T10:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T11:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865700919746404639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1587653801305153538",
+          "start": 3,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865700919746404639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865665706429219149",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaoHuiHuiH: 说一个可能比较地狱的事情（\n\n最近这段时间要紫砂，最后紫砂未遂的。\n尤其是正在实施自杀后，被报警干预的。\n\n可能因为极为糟糕的后续干预，反而活得比之前更痛苦（）\n\n包括但不限于，炸柜（甚至直接是警察告知的炸柜），父母责骂、父母的不理解，全方位监…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1865700919746404639",
+        "created_at": "2024-12-08T10:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T11:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865700919746404639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1587653801305153538",
+              "start": 3,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865700919746404639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865665706429219149",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiaoHuiHuiH: 说一个可能比较地狱的事情（\n\n最近这段时间要紫砂，最后紫砂未遂的。\n尤其是正在实施自杀后，被报警干预的。\n\n可能因为极为糟糕的后续干预，反而活得比之前更痛苦（）\n\n包括但不限于，炸柜（甚至直接是警察告知的炸柜），父母责骂、父母的不理解，全方位监…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587653801305153538",
+        "conversation_id": "1865665706429219149",
+        "created_at": "2024-12-08T07:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T08:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865665706429219149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1865665706429219149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "说一个可能比较地狱的事情（\n\n最近这段时间要紫砂，最后紫砂未遂的。\n尤其是正在实施自杀后，被报警干预的。\n\n可能因为极为糟糕的后续干预，反而活得比之前更痛苦（）\n\n包括但不限于，炸柜（甚至直接是警察告知的炸柜），父母责骂、父母的不理解，全方位监控，限制自由等。\n更别提当事人心理上“解脱未遂”带来的心理冲击了。\n\n所以除了紧急状况下的紧急危机干预之外，后续的心理援助也是十分需要重视的一件事。\n\n我的这个观点可能会有点偏激，但我认为：\n如果没法做到“活着”，而单纯的只是“不死”。\n那真的可能比“死去”还残忍。🥺"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 578,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "说一个可能比较地狱的事情（\n\n最近这段时间要紫砂，最后紫砂未遂的。\n尤其是正在实施自杀后，被报警干预的。\n\n可能因为极为糟糕的后续干预，反而活得比之前更痛苦（）\n\n包括但不限于，炸柜（甚至直接是警察告知的炸柜），父母责骂、父母的不理解，全方位监控，限制自由等。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ HRT22/08/29 ❦ 坐标宁波 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我脑婆/主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 109,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "梦幻楼与不眠希汐#θωθ",
+        "pinned_tweet_id": "1863879352221618461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 971,
+          "like_count": 7451,
+          "listed_count": 5,
+          "media_count": 559,
+          "tweet_count": 2229
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西都在咱主页的“亮点“里哦😈\n/日常抽象涩涩推🫣/\nENFP(INFP)/偏女性非二元跨mtx(f)🏳️‍⚧️/hrt 2023.12.7🍥/泛性恋/🏳️‍🌈🩷💜/20岁/可1可0可S可M🥵/单身没人要😭/加拿大留学🇨🇦/\n\n⚠️魔怔疯批/时而温柔/时常发癫/淫趴头子/滥交药攻/嗑药地雷💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🏳️‍⚧️喵喵艺术家~",
+        "pinned_tweet_id": "1822113111270457511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805817537021853699/IF42qnFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8928,
+          "following_count": 954,
+          "like_count": 71614,
+          "listed_count": 16,
+          "media_count": 2764,
+          "tweet_count": 40004
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

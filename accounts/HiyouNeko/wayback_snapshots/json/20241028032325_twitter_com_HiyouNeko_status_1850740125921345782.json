@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1850734661745647646",
+    "created_at": "2024-10-28T03:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-28T04:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850740125921345782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1601377268575633408",
+          "start": 0,
+          "username": "Sabrina05078452"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850740125921345782",
+    "in_reply_to_user_id": "1601377268575633408",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850736553058091232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sabrina05078452 还不够还不够w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1850734661745647646",
+        "created_at": "2024-10-28T03:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T04:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850740125921345782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1601377268575633408",
+              "start": 0,
+              "username": "Sabrina05078452"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850740125921345782",
+        "in_reply_to_user_id": "1601377268575633408",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850736553058091232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabrina05078452 还不够还不够w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601377268575633408",
+        "conversation_id": "1850734661745647646",
+        "created_at": "2024-10-28T03:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T04:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850736553058091232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850736553058091232",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850734661745647646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 推友都变这么抽象吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "是水系魔法师，非常高冷而且🚪88，你们不许乱碰我的脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "希汐公主殿下～⛧🏳‍⚧",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 891,
+          "like_count": 6286,
+          "listed_count": 5,
+          "tweet_count": 1813
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T00:44:51.000Z",
+        "description": "设定是来自遥远星系的外星人（绅士，腼腆，尊重，理解）。175cm。友跨顺男。肤色古铜色。性取向正常。INFP-A。喜欢中医。游戏原神。战地系列。APEX低手。希望认识更多朋友。互fo。欢迎大家找我玩。",
+        "id": "1601377268575633408",
+        "location": "1",
+        "name": "小盖",
+        "pinned_tweet_id": "1788524418295099558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850202024195031040/KsLuG1m3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 1407,
+          "like_count": 1775,
+          "listed_count": 0,
+          "tweet_count": 448
+        },
+        "username": "Sabrina05078452",
+        "verified": false
+      }
+    ]
+  }
+}

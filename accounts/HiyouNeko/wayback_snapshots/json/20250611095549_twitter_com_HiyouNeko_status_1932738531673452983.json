@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932737664136196097"
+      ],
+      "media_source_tweet_id": [
+        "1932737668552753308"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1932738531673452983",
+    "created_at": "2025-06-11T09:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T10:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932738531673452983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1818920358403256320",
+          "start": 3,
+          "username": "xuanyu20240316"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VbikcSMKB0",
+          "end": 63,
+          "expanded_url": "https://x.com/xuanyu20240316/status/1932737668552753308/photo/1",
+          "media_key": "3_1932737664136196097",
+          "start": 40,
+          "url": "https://t.co/VbikcSMKB0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932738531673452983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932737668552753308",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuanyu20240316: 当再度翻开当年所学，却发现自己从未做到 https://t.co/VbikcSMKB0"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "——旧版《道德与法治》七年级下册第15页",
+        "height": 1536,
+        "media_key": "3_1932737664136196097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtJ2qlrbMAEcQLP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932737664136196097"
+          ],
+          "media_source_tweet_id": [
+            "1932737668552753308"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1932738531673452983",
+        "created_at": "2025-06-11T09:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T10:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932738531673452983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1818920358403256320",
+              "start": 3,
+              "username": "xuanyu20240316"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VbikcSMKB0",
+              "end": 63,
+              "expanded_url": "https://x.com/xuanyu20240316/status/1932737668552753308/photo/1",
+              "media_key": "3_1932737664136196097",
+              "start": 40,
+              "url": "https://t.co/VbikcSMKB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932738531673452983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932737668552753308",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuanyu20240316: 当再度翻开当年所学，却发现自己从未做到 https://t.co/VbikcSMKB0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932737664136196097"
+          ]
+        },
+        "author_id": "1818920358403256320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1932737668552753308",
+        "created_at": "2025-06-11T09:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T10:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932737668552753308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VbikcSMKB0",
+              "end": 43,
+              "expanded_url": "https://x.com/xuanyu20240316/status/1932737668552753308/photo/1",
+              "media_key": "3_1932737664136196097",
+              "start": 20,
+              "url": "https://t.co/VbikcSMKB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932737668552753308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "当再度翻开当年所学，却发现自己从未做到 https://t.co/VbikcSMKB0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121,
+          "following_count": 997,
+          "like_count": 9159,
+          "listed_count": 6,
+          "media_count": 703,
+          "tweet_count": 3136
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T08:03:18.000Z",
+        "description": "mtf/无证含糖/仍然深柜中/HRT2024.3.16/生日2010.4.14/infp/CChOer（连省一线都过不了的废物）/朝7.5晚10一周6天的初三牲/彩笔音游人（为什么你们都这么厉害呜呜呜）/精神状态随机",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xuanyu20240316",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xuanyu20240316",
+                "start": 0,
+                "url": "https://t.co/CpO3M0EScL"
+              }
+            ]
+          }
+        },
+        "id": "1818920358403256320",
+        "location": "Chongqing ",
+        "name": "萱雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1906717866109419928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885250161720647680/qEzol3xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 2357,
+          "like_count": 13174,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 704
+        },
+        "url": "https://t.co/CpO3M0EScL",
+        "username": "xuanyu20240316",
+        "verified": false
+      }
+    ]
+  }
+}

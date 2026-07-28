@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1967890924866089059",
+    "created_at": "2025-09-16T09:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T10:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967890924866089059"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1967890924866089059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "简介：张三的身体里住着2个人，一个天使一个是恶魔，到底哪个才是真正的她？\n我以为是多重人格都市生活，结果是连体婴儿，开幕3秒钟一个人两个头瞪大了眼睛盯着你.....骇死我哩...骇死我哩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1967890924866089059",
+        "created_at": "2025-09-16T09:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T10:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967890924866089059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967890924866089059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "简介：张三的身体里住着2个人，一个天使一个是恶魔，到底哪个才是真正的她？\n我以为是多重人格都市生活，结果是连体婴儿，开幕3秒钟一个人两个头瞪大了眼睛盯着你.....骇死我哩...骇死我哩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 978,
+          "like_count": 9167,
+          "listed_count": 7,
+          "media_count": 718,
+          "tweet_count": 3232
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

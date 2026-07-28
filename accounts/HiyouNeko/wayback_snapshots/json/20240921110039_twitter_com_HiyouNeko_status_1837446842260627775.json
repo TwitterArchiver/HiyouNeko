@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1837429513594327440",
+    "created_at": "2024-09-21T11:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T12:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837446842260627775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1389579464770670593",
+          "start": 0,
+          "username": "lbc93041736"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837446842260627775",
+    "in_reply_to_user_id": "1389579464770670593",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837439956089721275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbc93041736 ₍˄·͈༝·͈˄*₎◞ ̑̑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1837429513594327440",
+        "created_at": "2024-09-21T11:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T12:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837446842260627775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1389579464770670593",
+              "start": 0,
+              "username": "lbc93041736"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837446842260627775",
+        "in_reply_to_user_id": "1389579464770670593",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837439956089721275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbc93041736 ₍˄·͈༝·͈˄*₎◞ ̑̑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389579464770670593",
+        "conversation_id": "1837429513594327440",
+        "created_at": "2024-09-21T10:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T11:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837439956089721275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837439956089721275",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837429513594327440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko （流口水）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派 ❦ 活在幻想中的魔法少女 ❦ 病娇是魔女化后的产物 ❦ 真的很爱喝野格 ❦ 魔女化进度丨▉▉▉▉▉▉                    丨60%❦",
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 986,
+          "like_count": 5779,
+          "listed_count": 7,
+          "tweet_count": 1598
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-04T13:55:47.000Z",
+        "description": "就当我是个哈士奇，不犯二不拆家老家不是西伯利亚会芜芜的叫，是 @Lythrum19960613 的眷族，喜欢看点好康的，毕竟是个狗所以有时候不干人事，会叼走东西。喜欢刀。见到什么都先尝尝。因为成精了所以可以吃巧克力等普通狗狗吃不了的食物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "Lythrum19960613"
+              }
+            ]
+          }
+        },
+        "id": "1389579464770670593",
+        "location": "重云斋",
+        "name": "husky-",
+        "pinned_tweet_id": "1628408078956916736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628007699161165824/G0TNwp4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 210,
+          "like_count": 62407,
+          "listed_count": 5,
+          "tweet_count": 25445
+        },
+        "username": "lbc93041736",
+        "verified": false
+      }
+    ]
+  }
+}

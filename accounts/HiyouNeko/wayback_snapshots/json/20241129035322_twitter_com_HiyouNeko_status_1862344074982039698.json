@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862174364801581056"
+      ],
+      "media_source_tweet_id": [
+        "1862340205757280342"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1862344074982039698",
+    "created_at": "2024-11-29T03:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T04:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862344074982039698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1243945571796295681",
+          "start": 3,
+          "username": "yqua_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PfNDot7Dnl",
+          "end": 34,
+          "expanded_url": "https://x.com/yqua_/status/1862340205757280342/photo/1",
+          "media_key": "3_1862174364801581056",
+          "start": 11,
+          "url": "https://t.co/PfNDot7Dnl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862344074982039698",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862340205757280342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yqua_: https://t.co/PfNDot7Dnl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_1862174364801581056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdfFt_PWQAAFwhS.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862174364801581056"
+          ],
+          "media_source_tweet_id": [
+            "1862340205757280342"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1862344074982039698",
+        "created_at": "2024-11-29T03:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T04:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862344074982039698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1243945571796295681",
+              "start": 3,
+              "username": "yqua_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PfNDot7Dnl",
+              "end": 34,
+              "expanded_url": "https://x.com/yqua_/status/1862340205757280342/photo/1",
+              "media_key": "3_1862174364801581056",
+              "start": 11,
+              "url": "https://t.co/PfNDot7Dnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862344074982039698",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862340205757280342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yqua_: https://t.co/PfNDot7Dnl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862174364801581056"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1862340205757280342",
+        "created_at": "2024-11-29T03:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T04:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862340205757280342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PfNDot7Dnl",
+              "end": 23,
+              "expanded_url": "https://x.com/yqua_/status/1862340205757280342/photo/1",
+              "media_key": "3_1862174364801581056",
+              "start": 0,
+              "url": "https://t.co/PfNDot7Dnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862340205757280342",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PfNDot7Dnl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我的小孩脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 88,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "一只希汐#θωθ",
+        "pinned_tweet_id": "1858814345456873777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1970,
+          "following_count": 919,
+          "like_count": 6871,
+          "listed_count": 5,
+          "media_count": 511,
+          "tweet_count": 2021
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "铨｜断糖MtX🏳️‍⚧️🍥｜嘛时候是津门第一啊｜Language：🇬🇧🇺🇸/CN/🇮🇩/🇯🇵｜Life：@4cyun｜日本語/Game：@ryq59",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 52,
+                "username": "4cyun"
+              },
+              {
+                "end": 74,
+                "start": 68,
+                "username": "ryq59"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.759.dk",
+                "end": 23,
+                "expanded_url": "http://link.759.dk",
+                "start": 0,
+                "url": "https://t.co/e7DkaTgiTR"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "陈塘庄",
+        "name": "𝓠𝓾𝓪𝓷. ᡣ𐭩",
+        "pinned_tweet_id": "1841714384613052671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13611,
+          "following_count": 4186,
+          "like_count": 159747,
+          "listed_count": 57,
+          "media_count": 3708,
+          "tweet_count": 18555
+        },
+        "url": "https://t.co/e7DkaTgiTR",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

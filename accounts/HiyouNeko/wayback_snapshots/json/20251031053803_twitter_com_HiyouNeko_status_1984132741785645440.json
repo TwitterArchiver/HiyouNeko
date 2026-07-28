@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1984107821068382387",
+    "created_at": "2025-10-31T05:38:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T06:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984132741785645440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1838030304227028992",
+          "start": 0,
+          "username": "1967SavingUs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984132741785645440",
+    "in_reply_to_user_id": "1838030304227028992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984107821068382387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1967SavingUs 有同感，尤其是对面每回的时候一摸就特别难过，又不敢继续发别的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1984107819013173249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4j3jJRa8AEv03p.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1984107821068382387",
+        "created_at": "2025-10-31T05:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T06:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984132741785645440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1838030304227028992",
+              "start": 0,
+              "username": "1967SavingUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984132741785645440",
+        "in_reply_to_user_id": "1838030304227028992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984107821068382387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1967SavingUs 有同感，尤其是对面每回的时候一摸就特别难过，又不敢继续发别的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984107819013173249"
+          ]
+        },
+        "author_id": "1838030304227028992",
+        "conversation_id": "1984107821068382387",
+        "created_at": "2025-10-31T03:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T04:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984107821068382387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Frvsk4PwdP",
+              "end": 51,
+              "expanded_url": "https://x.com/1967SavingUs/status/1984107821068382387/photo/1",
+              "media_key": "3_1984107819013173249",
+              "start": 28,
+              "url": "https://t.co/Frvsk4PwdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984107821068382387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有特别要好的朋友，和每个人聊天我都觉得是在打扰对方。 https://t.co/Frvsk4PwdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片（今日推荐：侮蔑疾驰龙）🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 1026,
+          "like_count": 9375,
+          "listed_count": 7,
+          "media_count": 742,
+          "tweet_count": 3340
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-23T01:39:26.000Z",
+        "description": "我是玉，很高兴认识你哦。",
+        "id": "1838030304227028992",
+        "location": "玉的小屋",
+        "name": "澄玉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928553363572142082/AMIjNu3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 314,
+          "like_count": 1198,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 1009
+        },
+        "username": "1967SavingUs",
+        "verified": false
+      }
+    ]
+  }
+}

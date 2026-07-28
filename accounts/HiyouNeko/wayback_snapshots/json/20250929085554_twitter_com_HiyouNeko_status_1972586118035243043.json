@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1972237622157410620",
+    "created_at": "2025-09-29T08:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T09:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972586118035243043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1512976991976402949",
+          "start": 0,
+          "username": "bghtnya"
+        },
+        {
+          "end": 22,
+          "id": "1603904249649188864",
+          "start": 9,
+          "username": "maomaoServer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972586118035243043",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972237622157410620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bghtnya @maomaoServer 我超🧊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972237619338854400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G17LqllawAAvZia.jpg",
+        "width": 962
+      },
+      {
+        "height": 1164,
+        "media_key": "3_1972237619192053760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G17LqlCawAA2es_.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1972237622157410620",
+        "created_at": "2025-09-29T08:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T09:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972586118035243043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 22,
+              "id": "1603904249649188864",
+              "start": 9,
+              "username": "maomaoServer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972586118035243043",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972237622157410620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @maomaoServer 我超🧊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972237619338854400",
+            "3_1972237619192053760"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1972237622157410620",
+        "created_at": "2025-09-28T09:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T10:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972237622157410620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1603904249649188864",
+              "start": 7,
+              "username": "maomaoServer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/prPFg5k23s",
+              "end": 44,
+              "expanded_url": "https://x.com/bghtnya/status/1972237622157410620/photo/1",
+              "media_key": "3_1972237619338854400",
+              "start": 21,
+              "url": "https://t.co/prPFg5k23s"
+            },
+            {
+              "display_url": "pic.x.com/prPFg5k23s",
+              "end": 44,
+              "expanded_url": "https://x.com/bghtnya/status/1972237622157410620/photo/1",
+              "media_key": "3_1972237619192053760",
+              "start": 21,
+              "url": "https://t.co/prPFg5k23s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972237622157410620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 89126,
+          "like_count": 160,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哪位推友（）\n@maomaoServer https://t.co/prPFg5k23s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 982,
+          "like_count": 9216,
+          "listed_count": 7,
+          "media_count": 725,
+          "tweet_count": 3252
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 大一 / 📍 坐标北京 / 🍰07.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/y39tjWHwQW"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1788738868990341318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960374773026066432/pORt7EmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7605,
+          "following_count": 2082,
+          "like_count": 161066,
+          "listed_count": 19,
+          "media_count": 3186,
+          "tweet_count": 40589
+        },
+        "url": "https://t.co/y39tjWHwQW",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T00:06:06.000Z",
+        "description": "喵喵~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cnmsb.xin",
+                "end": 23,
+                "expanded_url": "https://cnmsb.xin",
+                "start": 0,
+                "url": "https://t.co/4NyBNrsWmA"
+              }
+            ]
+          }
+        },
+        "id": "1603904249649188864",
+        "location": "/data/local/tmp",
+        "name": "你是要气死小奶猫吗？",
+        "pinned_tweet_id": "1957147231989248327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969495127338205187/WgOPDQ-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 52,
+          "like_count": 720,
+          "listed_count": 4,
+          "media_count": 379,
+          "tweet_count": 1567
+        },
+        "url": "https://t.co/4NyBNrsWmA",
+        "username": "maomaoServer",
+        "verified": false
+      }
+    ]
+  }
+}

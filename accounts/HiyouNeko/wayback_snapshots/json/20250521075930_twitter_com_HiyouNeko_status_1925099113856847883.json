@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925097788259594240",
+        "3_1925097788679061505",
+        "3_1925097788993634307",
+        "3_1925097789236903936"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1925099113856847883",
+    "created_at": "2025-05-21T07:59:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T08:59:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925099113856847883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JEjMA3R4Px",
+          "end": 23,
+          "expanded_url": "https://x.com/HiyouNeko/status/1925099113856847883/photo/1",
+          "media_key": "3_1925097788259594240",
+          "start": 0,
+          "url": "https://t.co/JEjMA3R4Px"
+        },
+        {
+          "display_url": "pic.x.com/JEjMA3R4Px",
+          "end": 23,
+          "expanded_url": "https://x.com/HiyouNeko/status/1925099113856847883/photo/1",
+          "media_key": "3_1925097788679061505",
+          "start": 0,
+          "url": "https://t.co/JEjMA3R4Px"
+        },
+        {
+          "display_url": "pic.x.com/JEjMA3R4Px",
+          "end": 23,
+          "expanded_url": "https://x.com/HiyouNeko/status/1925099113856847883/photo/1",
+          "media_key": "3_1925097788993634307",
+          "start": 0,
+          "url": "https://t.co/JEjMA3R4Px"
+        },
+        {
+          "display_url": "pic.x.com/JEjMA3R4Px",
+          "end": 23,
+          "expanded_url": "https://x.com/HiyouNeko/status/1925099113856847883/photo/1",
+          "media_key": "3_1925097789236903936",
+          "start": 0,
+          "url": "https://t.co/JEjMA3R4Px"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925099113856847883",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/JEjMA3R4Px"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925097788259594240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrdSPSMacAAOq6h.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925097788679061505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrdSPTwbAAED9v5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925097788993634307",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrdSPU7bAAMqvJX.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925097789236903936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrdSPV1bAAAn9Nd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925097788259594240",
+            "3_1925097788679061505",
+            "3_1925097788993634307",
+            "3_1925097789236903936"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1925099113856847883",
+        "created_at": "2025-05-21T07:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T08:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925099113856847883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JEjMA3R4Px",
+              "end": 23,
+              "expanded_url": "https://x.com/HiyouNeko/status/1925099113856847883/photo/1",
+              "media_key": "3_1925097788259594240",
+              "start": 0,
+              "url": "https://t.co/JEjMA3R4Px"
+            },
+            {
+              "display_url": "pic.x.com/JEjMA3R4Px",
+              "end": 23,
+              "expanded_url": "https://x.com/HiyouNeko/status/1925099113856847883/photo/1",
+              "media_key": "3_1925097788679061505",
+              "start": 0,
+              "url": "https://t.co/JEjMA3R4Px"
+            },
+            {
+              "display_url": "pic.x.com/JEjMA3R4Px",
+              "end": 23,
+              "expanded_url": "https://x.com/HiyouNeko/status/1925099113856847883/photo/1",
+              "media_key": "3_1925097788993634307",
+              "start": 0,
+              "url": "https://t.co/JEjMA3R4Px"
+            },
+            {
+              "display_url": "pic.x.com/JEjMA3R4Px",
+              "end": 23,
+              "expanded_url": "https://x.com/HiyouNeko/status/1925099113856847883/photo/1",
+              "media_key": "3_1925097789236903936",
+              "start": 0,
+              "url": "https://t.co/JEjMA3R4Px"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925099113856847883",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JEjMA3R4Px"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 果然是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登（当心给你下降头） ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 123,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1922832818012340691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 985,
+          "like_count": 8989,
+          "listed_count": 6,
+          "media_count": 683,
+          "tweet_count": 3004
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

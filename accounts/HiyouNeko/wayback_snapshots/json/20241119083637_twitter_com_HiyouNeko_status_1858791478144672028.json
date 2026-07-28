@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1858791478144672028",
+    "created_at": "2024-11-19T08:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T09:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1858791478144672028"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xijiu_/status/…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/xijiu_/status/1858732664637059294",
+          "start": 15,
+          "url": "https://t.co/FiBRsSwiPW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858791478144672028",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858732664637059294",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "₍˄·͈༝·͈˄*₎◞ ̑̑ https://t.co/FiBRsSwiPW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1858791478144672028",
+        "created_at": "2024-11-19T08:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T09:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858791478144672028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xijiu_/status/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/xijiu_/status/1858732664637059294",
+              "start": 15,
+              "url": "https://t.co/FiBRsSwiPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858791478144672028",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858732664637059294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "₍˄·͈༝·͈˄*₎◞ ̑̑ https://t.co/FiBRsSwiPW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560129932524544000",
+        "conversation_id": "1858732664637059294",
+        "created_at": "2024-11-19T04:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T05:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858732664637059294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xue_zhi2008/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/xue_zhi2008/status/1858718866442252342",
+              "start": 31,
+              "url": "https://t.co/O7OAVqfylj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858732664637059294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858718866442252342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只要我发现我这辈子都不一定能术\n就完全不要焦虑什么时候术了😇 https://t.co/O7OAVqfylj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "★ 99Mtf一只🍥 ☆ 笨蛋一个 △ 是神奇水系魔法师 △  ♡ 想要被独爱.偏爱 ♡ 真的真的很爱暮暮 ★ 你们补药欺负我的宝贝脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 69,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "★ 希汐 ☆",
+        "pinned_tweet_id": "1851532132579221544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 896,
+          "like_count": 6564,
+          "listed_count": 5,
+          "tweet_count": 1902
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "⚧一只在校的高三笨猫|a transgirl| I am who I am,would never be defined🍥|姐姐@han_zi53015|女高杀手，全球可飞，保证把委托人杀死",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "han_zi53015"
+              }
+            ]
+          }
+        },
+        "id": "1560129932524544000",
+        "location": "中国 山东省",
+        "name": "希玖.🍥",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2724,
+          "following_count": 782,
+          "like_count": 94004,
+          "listed_count": 1,
+          "tweet_count": 5207
+        },
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

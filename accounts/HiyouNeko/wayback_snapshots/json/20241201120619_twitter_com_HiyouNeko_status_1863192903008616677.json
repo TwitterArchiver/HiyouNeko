@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1862797057788100981",
+    "created_at": "2024-12-01T12:06:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T13:06:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863192903008616677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479730386431545346",
+          "start": 0,
+          "username": "YuKi52037"
+        },
+        {
+          "end": 26,
+          "id": "1439979723174514688",
+          "start": 11,
+          "username": "PARADOXbot8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863192903008616677",
+    "in_reply_to_user_id": "1479730386431545346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863191794269450738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuKi52037 @PARADOXbot8964 你怎么也开始hi了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1862797057788100981",
+        "created_at": "2024-12-01T12:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T13:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863192903008616677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi52037"
+            },
+            {
+              "end": 26,
+              "id": "1439979723174514688",
+              "start": 11,
+              "username": "PARADOXbot8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863192903008616677",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863191794269450738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi52037 @PARADOXbot8964 你怎么也开始hi了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1862797057788100981",
+        "created_at": "2024-12-01T12:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T13:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863191794269450738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1439979723174514688",
+              "start": 0,
+              "username": "PARADOXbot8964"
+            },
+            {
+              "end": 26,
+              "id": "1528928909734973440",
+              "start": 16,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863191794269450738",
+        "in_reply_to_user_id": "1439979723174514688",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863143206516306426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PARADOXbot8964 @HiyouNeko hi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ HRT22/08/29 ❦ 坐标宁波 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我的小孩且宝贝脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "一只希汐#θωθ",
+        "pinned_tweet_id": "1863191732785152301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 947,
+          "like_count": 7139,
+          "listed_count": 5,
+          "media_count": 532,
+          "tweet_count": 2110
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "药娘/🚪28-58-108/及腰长发/二次元/美食/可爱的事物/同类互fo",
+        "id": "1479730386431545346",
+        "location": "北京",
+        "name": "千雪🏳️‍⚧️🍥（中奖请私信！）",
+        "pinned_tweet_id": "1858301603138453818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862608725178982400/LVpjMxmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8688,
+          "following_count": 972,
+          "like_count": 13844,
+          "listed_count": 14,
+          "media_count": 148,
+          "tweet_count": 1179
+        },
+        "username": "YuKi52037",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T15:48:30.000Z",
+        "description": "𒀭𒎌\nASD+ADHD\n男\n对象是可爱的群魅魔时不时在线发情\n大口吃肉大力草 @CatBOT8964 的烧杯",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "CatBOT8964"
+              }
+            ]
+          }
+        },
+        "id": "1439979723174514688",
+        "location": "至高天慈父花园，在捅悖论公司的屁股",
+        "name": "悖论仓鼠球",
+        "pinned_tweet_id": "1810515247943610588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863186702736486400/iifWegLP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2045,
+          "following_count": 1772,
+          "like_count": 146636,
+          "listed_count": 9,
+          "media_count": 1555,
+          "tweet_count": 42797
+        },
+        "username": "PARADOXbot8964",
+        "verified": false
+      }
+    ]
+  }
+}

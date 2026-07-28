@@ -1,0 +1,188 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1796367339157598612",
+    "created_at": "2024-05-31T02:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T03:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796367339157598612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1587653801305153538",
+          "start": 3,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796367339157598612",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796359327521095760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaoHuiHuiH: 我怕不是真病了。\n\n得了一种名为“空心”的病。\n\n我不是真的缺少爱。\n\n而是完全不知道如何接受爱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1796367339157598612",
+        "created_at": "2024-05-31T02:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T03:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796367339157598612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1587653801305153538",
+              "start": 3,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796367339157598612",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796359327521095760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiaoHuiHuiH: 我怕不是真病了。\n\n得了一种名为“空心”的病。\n\n我不是真的缺少爱。\n\n而是完全不知道如何接受爱。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1587653801305153538",
+        "conversation_id": "1796359327521095760",
+        "created_at": "2024-05-31T01:53:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T02:53:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796359327521095760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796359327521095760",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我怕不是真病了。\n\n得了一种名为“空心”的病。\n\n我不是真的缺少爱。\n\n而是完全不知道如何接受爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦-这个老登叫希汐-❦Dom❦RIP1999.05.10～2028.07.09❦降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格❦全世界最闪耀的蝎蝎 @XIEXIEkawaii ❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 84,
+                "username": "XIEXIEkawaii"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "AAA希汐是水系魔法师👀",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795034500881412096/5-HjWywU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1808,
+          "following_count": 925,
+          "like_count": 5365,
+          "listed_count": 8,
+          "tweet_count": 1422
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "萌新求fo/日常推+涩涩推🫣/\nENFP(INFP)/跨性别女性mtf(mtx)🏳️‍⚧️/hrt 2023.12.7🍥/泛性恋/🏳️‍🌈🩷💜/20岁/0.5/啥都爱玩🥵/开放式关系🥰/\n多伦多上学🇨🇦/约克大学/江苏无锡/\n⚠️魔怔疯批/时而温柔/时常发癫/淫趴头子/滥交药攻/嗑药地雷💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7ZvDZ"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🏳️‍⚧️喵喵艺术家~",
+        "pinned_tweet_id": "1793338001109799321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723562496567500800/j4yhpYRj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4873,
+          "following_count": 692,
+          "like_count": 46611,
+          "listed_count": 12,
+          "tweet_count": 25371
+        },
+        "url": "https://t.co/LQg5S7ZvDZ",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

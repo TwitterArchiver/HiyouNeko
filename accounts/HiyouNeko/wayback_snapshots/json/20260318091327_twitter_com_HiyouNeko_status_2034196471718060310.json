@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "2034196471718060310",
+    "created_at": "2026-03-18T09:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T10:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034196471718060310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/hsn8086/status/2034096990599204949",
+          "start": 11,
+          "url": "https://t.co/nfRnAXLT2u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034196471718060310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034096990599204949",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这倒是提醒我了（雾） https://t.co/nfRnAXLT2u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2034096982307049474",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDqQbaUbEAIYJHy.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "2034196471718060310",
+        "created_at": "2026-03-18T09:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034196471718060310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/hsn8086/status/2034096990599204949",
+              "start": 11,
+              "url": "https://t.co/nfRnAXLT2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034196471718060310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034096990599204949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这倒是提醒我了（雾） https://t.co/nfRnAXLT2u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034096982307049474"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034096990599204949",
+        "created_at": "2026-03-18T02:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T03:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034096990599204949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pEqMjsPLBD",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2034096990599204949/photo/1",
+              "media_key": "3_2034096982307049474",
+              "start": 0,
+              "url": "https://t.co/pEqMjsPLBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034096990599204949",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 33784,
+          "like_count": 587,
+          "quote_count": 13,
+          "reply_count": 80,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pEqMjsPLBD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦od💊不割手❦永不满足的爱，和以此倍增的恨.❦可爱小猫 @herself32 ❦发情期进行中....❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "🎈来自LEVEL FUN的♀=)🎈",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031925900741386240/oJvtfkQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 1029,
+          "like_count": 9539,
+          "listed_count": 6,
+          "media_count": 768,
+          "tweet_count": 3518
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118293,
+          "following_count": 1037,
+          "like_count": 51620,
+          "listed_count": 274,
+          "media_count": 19909,
+          "tweet_count": 29995
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

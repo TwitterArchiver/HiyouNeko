@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1861681145920008258",
+    "created_at": "2024-11-27T16:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T17:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861815446430982318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1793227999946391552",
+          "start": 0,
+          "username": "bu_kui24999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861815446430982318",
+    "in_reply_to_user_id": "1793227999946391552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861812742757425647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bu_kui24999 老板好眼力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1861681145920008258",
+        "created_at": "2024-11-27T16:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T17:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861815446430982318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1793227999946391552",
+              "start": 0,
+              "username": "bu_kui24999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861815446430982318",
+        "in_reply_to_user_id": "1793227999946391552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861812742757425647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bu_kui24999 老板好眼力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793227999946391552",
+        "conversation_id": "1861681145920008258",
+        "created_at": "2024-11-27T16:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T17:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861812742757425647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861812742757425647",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861681145920008258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 俺丢，细看都看了一会儿才看出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我的宝贝脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 88,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "一只希汐#θωθ",
+        "pinned_tweet_id": "1858814345456873777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 915,
+          "like_count": 6806,
+          "listed_count": 5,
+          "tweet_count": 1993
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T10:30:58.000Z",
+        "description": "我是梨然凛或者叫我秋秋也可以！\n05年的小可爱，168/60(该减肥了！！)正在试图学少女音萌死大家（偷懒中）\n(话唠爆炸)！喜欢交朋友！！\n能在公交上稳住不摔倒是不是很酷！꒰ᐢ⸝⸝⸝⸝ᐢ꒱\n一个人要有趣，而不是外表→猜猜我是谁呢？\n喜欢交朋友(我是憨憨的小社牛)\n（纯发癫，不回颜色私信）",
+        "id": "1793227999946391552",
+        "location": "重庆主城区",
+        "name": "梨~然凛！！川渝暴龙！！",
+        "pinned_tweet_id": "1860245306136494254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799494786958733312/sGcunfGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 40,
+          "like_count": 120,
+          "listed_count": 2,
+          "tweet_count": 980
+        },
+        "username": "bu_kui24999",
+        "verified": false
+      }
+    ]
+  }
+}

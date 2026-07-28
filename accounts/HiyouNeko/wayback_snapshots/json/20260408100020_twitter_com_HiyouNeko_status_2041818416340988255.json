@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "2041818416340988255",
+    "created_at": "2026-04-08T10:00:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T11:00:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041818416340988255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SonogamiRinneT…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/SonogamiRinneTS/status/2041747744336003155",
+          "start": 11,
+          "url": "https://t.co/OPzPg2MAwA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041818416340988255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041747744336003155",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我今天不可爱了qwq https://t.co/OPzPg2MAwA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041747732197732353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFW-vqqa8AEqPDL.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "2041818416340988255",
+        "created_at": "2026-04-08T10:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T11:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041818416340988255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SonogamiRinneT…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/SonogamiRinneTS/status/2041747744336003155",
+              "start": 11,
+              "url": "https://t.co/OPzPg2MAwA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041818416340988255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041747744336003155",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我今天不可爱了qwq https://t.co/OPzPg2MAwA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041747732197732353"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041747744336003155",
+        "created_at": "2026-04-08T05:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041747744336003155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fPRfIEyCTP",
+              "end": 34,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2041747744336003155/photo/1",
+              "media_key": "3_2041747732197732353",
+              "start": 11,
+              "url": "https://t.co/fPRfIEyCTP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041747744336003155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3962,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "可爱吧群没了。。。😭 https://t.co/fPRfIEyCTP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦od💊不割手❦永不满足的爱，和以此倍增的恨.❦可爱小猫 @herself32 ❦警告🚫郁期勿扰.....❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "˚₊‧꒰ა剧烈变形☆派对姬໒꒱‧₊˚",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039989141258285056/QqoUIn1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 1039,
+          "like_count": 9711,
+          "listed_count": 6,
+          "media_count": 810,
+          "tweet_count": 3645
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4072,
+          "following_count": 3110,
+          "like_count": 1201,
+          "listed_count": 13,
+          "media_count": 222,
+          "tweet_count": 1502
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

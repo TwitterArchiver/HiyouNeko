@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1910507555618746861",
+    "created_at": "2025-04-11T01:37:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T02:37:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1910507555618746861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 88,
+          "id": "1465701247021838341",
+          "start": 79,
+          "username": "show5560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910507555618746861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "10年前，我还在上高中的时候，偶然间路过一家幼儿园，看见一个小孩的妈妈在接小孩，我看那小孩长得眉清目秀倍感喜欢，我说：她日后就是我的老婆。于是就有了酥萌老师 @show5560"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1910507555618746861",
+        "created_at": "2025-04-11T01:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T02:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910507555618746861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 88,
+              "id": "1465701247021838341",
+              "start": 79,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910507555618746861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "10年前，我还在上高中的时候，偶然间路过一家幼儿园，看见一个小孩的妈妈在接小孩，我看那小孩长得眉清目秀倍感喜欢，我说：她日后就是我的老婆。于是就有了酥萌老师 @show5560"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是友跨顺难 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2078,
+          "following_count": 977,
+          "like_count": 8594,
+          "listed_count": 6,
+          "media_count": 650,
+          "tweet_count": 2758
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟ 想成为一个大魔法师✟ 已经无糖哩  ♡ 真的真的很喜欢很爱咱家的宇宙超级豪华至尊无敌第一的希汐公主殿下@HiyouNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "の酥萌✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894950543187202048/0IulgQiL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1639,
+          "following_count": 1164,
+          "like_count": 23617,
+          "listed_count": 4,
+          "media_count": 905,
+          "tweet_count": 5571
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

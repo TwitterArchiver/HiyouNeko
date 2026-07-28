@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1981546435121467666",
+    "created_at": "2025-10-24T02:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T03:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981546511587824080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1465701247021838341",
+          "start": 0,
+          "username": "show5560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981546511587824080",
+    "in_reply_to_user_id": "1528928909734973440",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981546435121467666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@show5560"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1802,
+        "media_key": "3_1981546422206877696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3_d-OmWUAA0-4G.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1981546435121467666",
+        "created_at": "2025-10-24T02:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T03:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981546511587824080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981546511587824080",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981546435121467666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981546422206877696"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "conversation_id": "1981546435121467666",
+        "created_at": "2025-10-24T02:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T03:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981546435121467666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/75qCzx70B8",
+              "end": 28,
+              "expanded_url": "https://x.com/HiyouNeko/status/1981546435121467666/photo/1",
+              "media_key": "3_1981546422206877696",
+              "start": 5,
+              "url": "https://t.co/75qCzx70B8"
+            },
+            {
+              "display_url": "x.com/qqqqqf5/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/qqqqqf5/status/1981498713882448042",
+              "start": 29,
+              "url": "https://t.co/BJjgd3en3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981546435121467666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981498713882448042",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今晚谁约 https://t.co/75qCzx70B8 https://t.co/BJjgd3en3R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片（今日推荐：疾驰龙）🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2107,
+          "following_count": 1015,
+          "like_count": 9352,
+          "listed_count": 7,
+          "media_count": 737,
+          "tweet_count": 3324
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "★喜欢酷酷的衣服✟男娘~想成为一个大魔法师---不想上班.......  ♡ 真的很喜欢希汐老师@HiyouNeko\n争取27年初给希汐老师做手术（点头）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "HiyouNeko"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "name": "减肥中の酥萌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913943946583248896/QbFVMbwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 1145,
+          "like_count": 22987,
+          "listed_count": 4,
+          "media_count": 956,
+          "tweet_count": 5686
+        },
+        "username": "show5560",
+        "verified": false
+      }
+    ]
+  }
+}

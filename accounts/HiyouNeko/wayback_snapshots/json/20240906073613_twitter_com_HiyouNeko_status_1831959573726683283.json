@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1831952069701533907",
+    "created_at": "2024-09-06T07:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T08:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831959573726683283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699298317392580608",
+          "start": 0,
+          "username": "bakajinping"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831959573726683283",
+    "in_reply_to_user_id": "1699298317392580608",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831958127635526028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bakajinping 我无法想象自己打赢尤贝尔的样子"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1831958127635526028].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1831958127635526028",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1831958127635526028"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1831952069701533907",
+        "created_at": "2024-09-06T07:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T08:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831959573726683283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699298317392580608",
+              "start": 0,
+              "username": "bakajinping"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831959573726683283",
+        "in_reply_to_user_id": "1699298317392580608",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831958127635526028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bakajinping 我无法想象自己打赢尤贝尔的样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格 ❦  永劫无间 ❦ 无畏契约 ❦ 游戏王md ❦ 打游戏速速dd ❦ 半截入土 ❦ 坐标 宁波 ❦ 🚪50 ❦",
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "希汐是水系魔法师🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795034500881412096/5-HjWywU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 942,
+          "like_count": 5539,
+          "listed_count": 7,
+          "tweet_count": 1497
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T05:48:27.000Z",
+        "description": "",
+        "id": "1699298317392580608",
+        "name": "baka🫙",
+        "pinned_tweet_id": "1830632973890437200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827978004758167552/ANzHy34-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 634,
+          "like_count": 50592,
+          "listed_count": 3,
+          "tweet_count": 15449
+        },
+        "username": "bakajinping",
+        "verified": false
+      }
+    ]
+  }
+}

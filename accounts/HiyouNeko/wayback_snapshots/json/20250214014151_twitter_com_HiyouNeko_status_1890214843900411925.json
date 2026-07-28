@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1889862202007724255",
+    "created_at": "2025-02-14T01:41:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T02:41:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890214843900411925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1381697837625438210",
+          "start": 0,
+          "username": "Minkakakaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890214843900411925",
+    "in_reply_to_user_id": "1381697837625438210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890001145013391470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minkakakaaa 好耶～贴贴～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1889862202007724255",
+        "created_at": "2025-02-14T01:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T02:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890214843900411925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1381697837625438210",
+              "start": 0,
+              "username": "Minkakakaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890214843900411925",
+        "in_reply_to_user_id": "1381697837625438210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890001145013391470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minkakakaaa 好耶～贴贴～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1381697837625438210",
+        "conversation_id": "1889862202007724255",
+        "created_at": "2025-02-13T11:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T12:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890001145013391470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890001145013391470",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889862202007724255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 坏耶，踹踹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法师 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1876180576878899482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877247691027263488/PyTo1_2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 961,
+          "like_count": 8168,
+          "listed_count": 6,
+          "media_count": 627,
+          "tweet_count": 2499
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-12T19:57:04.000Z",
+        "description": "大家都喜欢有礼貌的猫猫，所以我也只回有礼貌的私信捏，其他的我会选择性失明●─● //喜欢被捆绑的流浪小猫，寻找铲屎官中，投喂淀粉肠也会蹭蹭人类//无证含糖猫猫~目前坐标西安，98年不知性别老阿姨一只~喜欢和小可爱贴贴~\n如果有一天我变了，请你不要难过，记得曾经的我来过\n这里放一个最大最好的猫妹嘻嘻@duoduoqing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 149,
+                "username": "duoduoqing"
+              }
+            ]
+          }
+        },
+        "id": "1381697837625438210",
+        "location": "小花花的花芯💕里",
+        "name": "minkaa(寻找对象版",
+        "pinned_tweet_id": "1689294430455402497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582566328254181376/EXsOP2IG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6180,
+          "following_count": 823,
+          "like_count": 3815,
+          "listed_count": 13,
+          "media_count": 712,
+          "tweet_count": 3723
+        },
+        "username": "Minkakakaaa",
+        "verified": false
+      }
+    ]
+  }
+}

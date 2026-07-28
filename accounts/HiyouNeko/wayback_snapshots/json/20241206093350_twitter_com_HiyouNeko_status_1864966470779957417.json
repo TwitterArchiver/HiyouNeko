@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1864964731271827596",
+    "created_at": "2024-12-06T09:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T10:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864966470779957417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1759729546520309760",
+          "start": 0,
+          "username": "shasha666183267"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864966470779957417",
+    "in_reply_to_user_id": "1759729546520309760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864964731271827596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shasha666183267 我这边是聊不起来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1864964731271827596",
+        "created_at": "2024-12-06T09:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T10:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864966470779957417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1759729546520309760",
+              "start": 0,
+              "username": "shasha666183267"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864966470779957417",
+        "in_reply_to_user_id": "1759729546520309760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864964731271827596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shasha666183267 我这边是聊不起来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759729546520309760",
+        "conversation_id": "1864964731271827596",
+        "created_at": "2024-12-06T09:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T10:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864964731271827596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864964731271827596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知为何，其他人也会有吗？看到过去一些认识但是现在不联系的人，会尽可能避免交集，不想聊天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ HRT22/08/29 ❦ 坐标宁波 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我脑婆/主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 109,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "一只希汐#θωθ",
+        "pinned_tweet_id": "1863879352221618461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 970,
+          "like_count": 7395,
+          "listed_count": 5,
+          "media_count": 552,
+          "tweet_count": 2202
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T00:00:05.000Z",
+        "description": "06年mtf，无证含糖ing，55kg160cm苦修中，hrt2023.4.18，现居吉林长春，已炸柜，家长分庭抗礼党，祈祷自己有天变成修女直播，目前热衷打CS2，喜欢听音乐，培养老番素养中，欢迎同类互fo",
+        "id": "1759729546520309760",
+        "name": "🍥坐忘道柠檬鲨🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857729583266586624/QGtM5beH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 462,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 740
+        },
+        "username": "shasha666183267",
+        "verified": false
+      }
+    ]
+  }
+}

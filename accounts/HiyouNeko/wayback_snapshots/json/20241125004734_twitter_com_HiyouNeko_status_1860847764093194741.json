@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1860621919923646880",
+    "created_at": "2024-11-25T00:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T01:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860847764093194741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1435172366330388481",
+          "start": 0,
+          "username": "OTUTOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860847764093194741",
+    "in_reply_to_user_id": "1435172366330388481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860697703912792374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OTUTOX 这不是我的pdd，众所周知希汐不用pdd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1860621919923646880",
+        "created_at": "2024-11-25T00:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T01:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860847764093194741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1435172366330388481",
+              "start": 0,
+              "username": "OTUTOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860847764093194741",
+        "in_reply_to_user_id": "1435172366330388481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860697703912792374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OTUTOX 这不是我的pdd，众所周知希汐不用pdd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1435172366330388481",
+        "conversation_id": "1860621919923646880",
+        "created_at": "2024-11-24T14:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T15:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860697703912792374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860697703912792374",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860621919923646880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 几日不见就。。。😕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "★ 99Mtf一只🍥 ☆ 笨蛋一个 △ 是神奇的水系魔法师 △ 🚪66 QQ纯绿聊天不线下（除非你打❦舞萌❦） ♡ 真的真的很爱酥萌老师 ★ 你们补药欺负我的宝贝脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 84,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "一只希汐#θωθ",
+        "pinned_tweet_id": "1858814345456873777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 906,
+          "like_count": 6716,
+          "listed_count": 5,
+          "tweet_count": 1954
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-07T09:25:37.000Z",
+        "description": "冒个泡，嘻嘻嘻。\n\n😞可能永远也等不到我的爱人了。\n希望有人能帮我照顾好猫猫，就是阿比小猫啦。\n爱你😘",
+        "id": "1435172366330388481",
+        "location": "IP属地：死心塌地",
+        "name": "夏日#恰噗恰噗😗😗😗",
+        "pinned_tweet_id": "1688045502888329216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712233486504108032/IekOAAFm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 500,
+          "like_count": 11600,
+          "listed_count": 1,
+          "tweet_count": 1300
+        },
+        "username": "OTUTOX",
+        "verified": false
+      }
+    ]
+  }
+}

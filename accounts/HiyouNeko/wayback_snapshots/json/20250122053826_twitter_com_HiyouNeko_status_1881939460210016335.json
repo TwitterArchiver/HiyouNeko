@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1881939460210016335",
+    "created_at": "2025-01-22T05:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T06:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1881939460210016335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_FiniteWorld/s…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/_FiniteWorld/status/1881594512839217533",
+          "start": 78,
+          "url": "https://t.co/Ta08ysKwj7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881939460210016335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881594512839217533",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃舍曲林🦌，就像在和神碑打牌，原本3分钟就能解决的战斗，被舍曲林硬控到不得不打长盘，原本想着大不了5速投降又不甘于那时有时无的获胜的希望，与姗姗来迟的神抽 https://t.co/Ta08ysKwj7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1881939460210016335",
+        "created_at": "2025-01-22T05:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T06:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881939460210016335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_FiniteWorld/s…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/_FiniteWorld/status/1881594512839217533",
+              "start": 78,
+              "url": "https://t.co/Ta08ysKwj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881939460210016335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881594512839217533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃舍曲林🦌，就像在和神碑打牌，原本3分钟就能解决的战斗，被舍曲林硬控到不得不打长盘，原本想着大不了5速投降又不甘于那时有时无的获胜的希望，与姗姗来迟的神抽 https://t.co/Ta08ysKwj7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842895382839537664",
+        "conversation_id": "1881594512839217533",
+        "created_at": "2025-01-21T06:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T07:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881594512839217533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881594512839217533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2755,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被舍曲林制裁了 现在🦌不出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法师 ❦ 这个世上没有比假花更美的花 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1876180576878899482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877247691027263488/PyTo1_2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2043,
+          "following_count": 965,
+          "like_count": 8174,
+          "listed_count": 6,
+          "media_count": 623,
+          "tweet_count": 2467
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-06T11:51:19.000Z",
+        "description": "为生而战 | 比彩梦还饿 | @_Tojita_Sekai 的猫猫\nMinecraft | 崩坏：星穹铁道 | Arcaea\nVue | React | Ktor | Fabric | Bukkit\n键政/色情/含血内容容忍度不高",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "_Tojita_Sekai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "finiteworld.moe",
+                "end": 23,
+                "expanded_url": "http://finiteworld.moe",
+                "start": 0,
+                "url": "https://t.co/zlgMX0zv9M"
+              }
+            ]
+          }
+        },
+        "id": "1842895382839537664",
+        "location": "匹诺康尼",
+        "name": "Finite World",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845397247950979072/E2dL3s1c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 386,
+          "like_count": 1897,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 1085
+        },
+        "url": "https://t.co/zlgMX0zv9M",
+        "username": "_FiniteWorld",
+        "verified": false
+      }
+    ]
+  }
+}

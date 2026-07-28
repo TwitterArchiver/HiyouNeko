@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1925491772974657536"
+      ],
+      "media_source_tweet_id": [
+        "1925491845133471834"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1925818748532891776",
+    "created_at": "2025-05-23T07:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T08:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925818748532891776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "20700332",
+          "start": 3,
+          "username": "pingzhang632"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fpvcCM6ot6",
+          "end": 83,
+          "expanded_url": "https://x.com/ImtiazMadmood/status/1925491845133471834/video/1",
+          "media_key": "13_1925491772974657536",
+          "start": 60,
+          "url": "https://t.co/fpvcCM6ot6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925818748532891776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 364
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925502119722799306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pingzhang632: 爆笑！这位主播打扮成穆斯林的样子，然后在各种公共场合扔包，试探周围人的反应。😂😂😂 https://t.co/fpvcCM6ot6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 74154,
+        "height": 900,
+        "media_key": "13_1925491772974657536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1925491772974657536/img/4uh5CEkkmDtxuFrg.jpg",
+        "public_metrics": {
+          "view_count": 306480
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925491772974657536/vid/avc1/320x400/sz4aO9m19YIaufFU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925491772974657536/vid/avc1/480x600/1b9rOnC8kCX0GS-Y.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925491772974657536/vid/avc1/720x900/CLXTAos8vMn0iD3i.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1925491772974657536/pl/s8LLkmS1TVCwqRYL.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1925491772974657536"
+          ],
+          "media_source_tweet_id": [
+            "1925491845133471834"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1925818748532891776",
+        "created_at": "2025-05-23T07:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T08:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925818748532891776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "20700332",
+              "start": 3,
+              "username": "pingzhang632"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fpvcCM6ot6",
+              "end": 83,
+              "expanded_url": "https://x.com/ImtiazMadmood/status/1925491845133471834/video/1",
+              "media_key": "13_1925491772974657536",
+              "start": 60,
+              "url": "https://t.co/fpvcCM6ot6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925818748532891776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 364
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925502119722799306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pingzhang632: 爆笑！这位主播打扮成穆斯林的样子，然后在各种公共场合扔包，试探周围人的反应。😂😂😂 https://t.co/fpvcCM6ot6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1925491772974657536"
+          ],
+          "media_source_tweet_id": [
+            "1925491845133471834"
+          ]
+        },
+        "author_id": "20700332",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1925502119722799306",
+        "created_at": "2025-05-22T10:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T11:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925502119722799306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fpvcCM6ot6",
+              "end": 65,
+              "expanded_url": "https://x.com/ImtiazMadmood/status/1925491845133471834/video/1",
+              "media_key": "13_1925491772974657536",
+              "start": 42,
+              "url": "https://t.co/fpvcCM6ot6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925502119722799306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 467,
+          "impression_count": 472949,
+          "like_count": 1932,
+          "quote_count": 48,
+          "reply_count": 156,
+          "retweet_count": 364
+        },
+        "reply_settings": "everyone",
+        "text": "爆笑！这位主播打扮成穆斯林的样子，然后在各种公共场合扔包，试探周围人的反应。😂😂😂 https://t.co/fpvcCM6ot6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 果然是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登（当心给你下降头） ❦ 这个世上没有比假花更美的花❦ 一起打暗区你就是我的好脑婆（） ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1922832818012340691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 987,
+          "like_count": 9021,
+          "listed_count": 6,
+          "media_count": 685,
+          "tweet_count": 3029
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-12T18:24:25.000Z",
+        "description": "以色列生活，犹太思维，犹太经典，中东历史、政治，等等。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhangping.wordpress.com",
+                "end": 23,
+                "expanded_url": "https://zhangping.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/y1ZCfyVEue"
+              }
+            ]
+          }
+        },
+        "id": "20700332",
+        "location": "Tel Aviv",
+        "name": "张平",
+        "pinned_tweet_id": "1915711164194984114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/938859173797908480/rYEzmQ_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101737,
+          "following_count": 528,
+          "like_count": 2259,
+          "listed_count": 399,
+          "media_count": 801,
+          "tweet_count": 10267
+        },
+        "url": "https://t.co/y1ZCfyVEue",
+        "username": "pingzhang632",
+        "verified": true
+      }
+    ]
+  }
+}

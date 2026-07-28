@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050339577437798400",
+        "3_2050339585943883776",
+        "3_2050339594210836480",
+        "3_2050339602494529536"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "conversation_id": "2050339609855565849",
+    "created_at": "2026-05-01T22:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T23:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050339609855565849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Erqe4R54MH",
+          "end": 125,
+          "expanded_url": "https://x.com/HiyouNeko/status/2050339609855565849/photo/1",
+          "media_key": "3_2050339577437798400",
+          "start": 102,
+          "url": "https://t.co/Erqe4R54MH"
+        },
+        {
+          "display_url": "pic.x.com/Erqe4R54MH",
+          "end": 125,
+          "expanded_url": "https://x.com/HiyouNeko/status/2050339609855565849/photo/1",
+          "media_key": "3_2050339585943883776",
+          "start": 102,
+          "url": "https://t.co/Erqe4R54MH"
+        },
+        {
+          "display_url": "pic.x.com/Erqe4R54MH",
+          "end": 125,
+          "expanded_url": "https://x.com/HiyouNeko/status/2050339609855565849/photo/1",
+          "media_key": "3_2050339594210836480",
+          "start": 102,
+          "url": "https://t.co/Erqe4R54MH"
+        },
+        {
+          "display_url": "pic.x.com/Erqe4R54MH",
+          "end": 125,
+          "expanded_url": "https://x.com/HiyouNeko/status/2050339609855565849/photo/1",
+          "media_key": "3_2050339602494529536",
+          "start": 102,
+          "url": "https://t.co/Erqe4R54MH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050339609855565849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "在幼儿园里做校医兼职管理仓库\n周二的时候行政班子叮嘱我周三有活动某老师要借志愿者衣服和横幅出去\n周三的活动结束了到了周五衣服也没有归还我就找老师询问含含糊糊的也不归还，就把衣服扔在幼儿园大厅口也不说话。\n到了周一还放在那里不想收回去可以直说，我可以自己收回去而不是一而再而三说了之后还丢在那边。\n还不允许别人在背后吐槽问我不会在她面前说？我说了她就还回来吗？不还还要这么理直气壮的。\n因为她结婚又要带小孩我就要忍让她\n那请问谁的工作不忙不心烦呢？\n我作为劳务派遣搞不好结婚就被辞退了还有心情共情有编制能休满产假再休婚假的老师？\n婚也不是替我结孩子也不是给我生的没必要道德绑架我"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在幼儿园里做校医兼职管理仓库\n周二的时候行政班子叮嘱我周三有活动某老师要借志愿者衣服和横幅出去\n周三的活动结束了到了周五衣服也没有归还我就找老师询问含含糊糊的也不归还，就把衣服扔在幼儿园大厅口也不说话。 https://t.co/Erqe4R54MH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2240,
+        "media_key": "3_2050339577437798400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHRE-4YawAA6Hxa.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2236,
+        "media_key": "3_2050339585943883776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHRE_YEbUAAFeLm.jpg",
+        "width": 1279
+      },
+      {
+        "height": 2236,
+        "media_key": "3_2050339594210836480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHRE_23bAAAM_yb.jpg",
+        "width": 1279
+      },
+      {
+        "height": 2034,
+        "media_key": "3_2050339602494529536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHRFAVuaIAAgWCK.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050339577437798400",
+            "3_2050339585943883776",
+            "3_2050339594210836480",
+            "3_2050339602494529536"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "conversation_id": "2050339609855565849",
+        "created_at": "2026-05-01T22:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T23:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050339609855565849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Erqe4R54MH",
+              "end": 125,
+              "expanded_url": "https://x.com/HiyouNeko/status/2050339609855565849/photo/1",
+              "media_key": "3_2050339577437798400",
+              "start": 102,
+              "url": "https://t.co/Erqe4R54MH"
+            },
+            {
+              "display_url": "pic.x.com/Erqe4R54MH",
+              "end": 125,
+              "expanded_url": "https://x.com/HiyouNeko/status/2050339609855565849/photo/1",
+              "media_key": "3_2050339585943883776",
+              "start": 102,
+              "url": "https://t.co/Erqe4R54MH"
+            },
+            {
+              "display_url": "pic.x.com/Erqe4R54MH",
+              "end": 125,
+              "expanded_url": "https://x.com/HiyouNeko/status/2050339609855565849/photo/1",
+              "media_key": "3_2050339594210836480",
+              "start": 102,
+              "url": "https://t.co/Erqe4R54MH"
+            },
+            {
+              "display_url": "pic.x.com/Erqe4R54MH",
+              "end": 125,
+              "expanded_url": "https://x.com/HiyouNeko/status/2050339609855565849/photo/1",
+              "media_key": "3_2050339602494529536",
+              "start": 102,
+              "url": "https://t.co/Erqe4R54MH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050339609855565849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在幼儿园里做校医兼职管理仓库\n周二的时候行政班子叮嘱我周三有活动某老师要借志愿者衣服和横幅出去\n周三的活动结束了到了周五衣服也没有归还我就找老师询问含含糊糊的也不归还，就把衣服扔在幼儿园大厅口也不说话。\n到了周一还放在那里不想收回去可以直说，我可以自己收回去而不是一而再而三说了之后还丢在那边。\n还不允许别人在背后吐槽问我不会在她面前说？我说了她就还回来吗？不还还要这么理直气壮的。\n因为她结婚又要带小孩我就要忍让她\n那请问谁的工作不忙不心烦呢？\n我作为劳务派遣搞不好结婚就被辞退了还有心情共情有编制能休满产假再休婚假的老师？\n婚也不是替我结孩子也不是给我生的没必要道德绑架我"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在幼儿园里做校医兼职管理仓库\n周二的时候行政班子叮嘱我周三有活动某老师要借志愿者衣服和横幅出去\n周三的活动结束了到了周五衣服也没有归还我就找老师询问含含糊糊的也不归还，就把衣服扔在幼儿园大厅口也不说话。 https://t.co/Erqe4R54MH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦精品神藥享受者💊不割手❦永不满足的爱，和以此倍增的恨.❦ bambisleep淪陷中.... ❦可爱小猫 @herself32 ❦警告🚫郁期勿扰.....❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "˚₊‧꒰ა淫亂雌豚☆斑比醬໒꒱‧₊˚",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049934586797498368/LXLTNPuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 1069,
+          "like_count": 9907,
+          "listed_count": 6,
+          "media_count": 836,
+          "tweet_count": 3760
+        },
+        "username": "HiyouNeko",
+        "verified": true
+      }
+    ]
+  }
+}

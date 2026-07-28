@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927882561092734977"
+      ],
+      "media_source_tweet_id": [
+        "1927882565840687605"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1928372384152576206",
+    "created_at": "2025-05-30T08:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T09:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928372384152576206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "44186175",
+          "start": 3,
+          "username": "xiaojingcanxue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/usnZ5rrAWa",
+          "end": 59,
+          "expanded_url": "https://x.com/xiaojingcanxue/status/1927882565840687605/photo/1",
+          "media_key": "3_1927882561092734977",
+          "start": 36,
+          "url": "https://t.co/usnZ5rrAWa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928372384152576206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927882565840687605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaojingcanxue: 梗图：00后真的在整顿职场吗？ https://t.co/usnZ5rrAWa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 713,
+        "media_key": "3_1927882561092734977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsE2-ZaaUAEB6PP.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927882561092734977"
+          ],
+          "media_source_tweet_id": [
+            "1927882565840687605"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1928372384152576206",
+        "created_at": "2025-05-30T08:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T09:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928372384152576206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "44186175",
+              "start": 3,
+              "username": "xiaojingcanxue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/usnZ5rrAWa",
+              "end": 59,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1927882565840687605/photo/1",
+              "media_key": "3_1927882561092734977",
+              "start": 36,
+              "url": "https://t.co/usnZ5rrAWa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928372384152576206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927882565840687605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaojingcanxue: 梗图：00后真的在整顿职场吗？ https://t.co/usnZ5rrAWa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927882561092734977"
+          ]
+        },
+        "author_id": "44186175",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1927882565840687605",
+        "created_at": "2025-05-29T00:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T01:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927882565840687605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/usnZ5rrAWa",
+              "end": 39,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/1927882565840687605/photo/1",
+              "media_key": "3_1927882561092734977",
+              "start": 16,
+              "url": "https://t.co/usnZ5rrAWa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927882565840687605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 128324,
+          "like_count": 1029,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "梗图：00后真的在整顿职场吗？ https://t.co/usnZ5rrAWa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 汉尼拔宁波分拔»»我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 只要你也玩暗区突围你就是我脑婆ww ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1922832818012340691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2110,
+          "following_count": 991,
+          "like_count": 9086,
+          "listed_count": 6,
+          "media_count": 692,
+          "tweet_count": 3068
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中国新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233079,
+          "following_count": 1838,
+          "like_count": 188,
+          "listed_count": 1220,
+          "media_count": 26388,
+          "tweet_count": 33593
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

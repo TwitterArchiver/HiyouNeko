@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1879788823376486433",
+    "created_at": "2025-01-16T07:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T08:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1879788823376486433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HiyouNeko/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/HiyouNeko/status/1879788275331928213",
+          "start": 20,
+          "url": "https://t.co/V2xjthLyOo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879788823376486433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879788275331928213",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要去街上捕捉xyn绑回家加工成🍥吃掉 https://t.co/V2xjthLyOo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1879788823376486433",
+        "created_at": "2025-01-16T07:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T08:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879788823376486433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HiyouNeko/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/HiyouNeko/status/1879788275331928213",
+              "start": 20,
+              "url": "https://t.co/V2xjthLyOo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879788823376486433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879788275331928213",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要去街上捕捉xyn绑回家加工成🍥吃掉 https://t.co/V2xjthLyOo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1879788275331928213",
+        "created_at": "2025-01-16T07:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T08:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879788275331928213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879788275331928213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "破产了之后更难受的是药库里的糖🍥也见底了....."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法师 ❦ 这个世上没有比假花更美的花 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1876180576878899482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877247691027263488/PyTo1_2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 1010,
+          "like_count": 8093,
+          "listed_count": 6,
+          "media_count": 617,
+          "tweet_count": 2433
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

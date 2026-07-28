@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1890332628441612492",
+    "created_at": "2025-02-14T09:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T10:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890338124603252767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1511436799000088577",
+          "start": 0,
+          "username": "GriseoQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890338124603252767",
+    "in_reply_to_user_id": "1511436799000088577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890332628441612492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GriseoQAQ 指不消毒直接进针？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1890332628441612492].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1890332628441612492",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1890332628441612492"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1890332628441612492",
+        "created_at": "2025-02-14T09:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T10:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890338124603252767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1511436799000088577",
+              "start": 0,
+              "username": "GriseoQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890338124603252767",
+        "in_reply_to_user_id": "1511436799000088577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890332628441612492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GriseoQAQ 指不消毒直接进针？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法师 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1876180576878899482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877247691027263488/PyTo1_2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 961,
+          "like_count": 8182,
+          "listed_count": 6,
+          "media_count": 628,
+          "tweet_count": 2510
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T20:13:22.000Z",
+        "description": "呜呜喵呜，无论何时何地～♪ 格蕾修都会回应你的期待♪坐标广西…无证含糖，在上高中/mtf/x?/喜欢的人@reallyshow_imp 永远喜欢宝宝诶嘿嘿ww♡/半家长党？/想和乐晴组乐队..../被主人五块二包养了😭😭@mtfGuiMeng问答小房间w https://t.co/p3oMKFZK81",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "reallyshow_imp"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "mtfGuiMeng"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/griseo5201314",
+                "end": 151,
+                "expanded_url": "https://ngl.link/griseo5201314",
+                "start": 128,
+                "url": "https://t.co/p3oMKFZK81"
+              }
+            ]
+          }
+        },
+        "id": "1511436799000088577",
+        "location": "格蕾修的小画室",
+        "name": "格蕾格蕾修？🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1829966665318351298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887535218443038723/yXa8Hc0Q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 372,
+          "like_count": 2797,
+          "listed_count": 1,
+          "media_count": 372,
+          "tweet_count": 1824
+        },
+        "username": "GriseoQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

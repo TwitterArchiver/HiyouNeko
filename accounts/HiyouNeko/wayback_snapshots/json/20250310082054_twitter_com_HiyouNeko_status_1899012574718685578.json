@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1898686495319556513",
+    "created_at": "2025-03-10T08:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T09:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899012574718685578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1762120281626415104",
+          "start": 0,
+          "username": "X_jvzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899012574718685578",
+    "in_reply_to_user_id": "1762120281626415104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898686495319556513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X_jvzhi 只有1个2个朋友见面还不方便"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1898686495319556513",
+        "created_at": "2025-03-10T08:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T09:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899012574718685578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1762120281626415104",
+              "start": 0,
+              "username": "X_jvzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899012574718685578",
+        "in_reply_to_user_id": "1762120281626415104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898686495319556513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X_jvzhi 只有1个2个朋友见面还不方便"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762120281626415104",
+        "conversation_id": "1898686495319556513",
+        "created_at": "2025-03-09T10:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T11:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898686495319556513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898686495319556513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们都好厉害欸，会写代码、有许多知识、有好多朋友……_(:з」∠)_"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是友跨顺难 ❦汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 965,
+          "like_count": 8296,
+          "listed_count": 6,
+          "media_count": 635,
+          "tweet_count": 2567
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T14:19:56.000Z",
+        "description": "好耶～放飞自我啦～                                                                  👇这是赞赏码（小声）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/X_jvzhi/status…",
+                "end": 23,
+                "expanded_url": "https://x.com/X_jvzhi/status/1890065972251512970?t=N3_qrUwfgd6J7V_jONEpYQ&s=19",
+                "start": 0,
+                "url": "https://t.co/FQJcpBQKS4"
+              }
+            ]
+          }
+        },
+        "id": "1762120281626415104",
+        "name": "橘枳",
+        "pinned_tweet_id": "1886692793537433697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890064208911581184/pgvPpGCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 113,
+          "like_count": 23874,
+          "listed_count": 5,
+          "media_count": 185,
+          "tweet_count": 8458
+        },
+        "url": "https://t.co/FQJcpBQKS4",
+        "username": "X_jvzhi",
+        "verified": false
+      }
+    ]
+  }
+}

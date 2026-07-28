@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "2037060386625851457",
+    "created_at": "2026-03-26T06:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T07:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037060386625851457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/45_206MHz/stat…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/45_206MHz/status/2036756639907483927",
+          "start": 59,
+          "url": "https://t.co/gi9tWDzxbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037060386625851457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036756639907483927",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在很讨厌把东西拿出来做这样的比喻做成毒鸡汤，纯纯偷换概念，钱和抑郁情绪就不是一码事，喝碗破鸡汤什么问题都解决不了。 https://t.co/gi9tWDzxbb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1368,
+        "media_key": "3_2036756635130232832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQDXlLbgAAzjY9.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "2037060386625851457",
+        "created_at": "2026-03-26T06:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T07:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037060386625851457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/45_206MHz/stat…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/45_206MHz/status/2036756639907483927",
+              "start": 59,
+              "url": "https://t.co/gi9tWDzxbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037060386625851457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036756639907483927",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在很讨厌把东西拿出来做这样的比喻做成毒鸡汤，纯纯偷换概念，钱和抑郁情绪就不是一码事，喝碗破鸡汤什么问题都解决不了。 https://t.co/gi9tWDzxbb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036756635130232832"
+          ]
+        },
+        "author_id": "1751497892001685504",
+        "conversation_id": "2036756639907483927",
+        "created_at": "2026-03-25T10:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036756639907483927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8MaxRyXV6e",
+              "end": 23,
+              "expanded_url": "https://x.com/45_206MHz/status/2036756639907483927/photo/1",
+              "media_key": "3_2036756635130232832",
+              "start": 0,
+              "url": "https://t.co/8MaxRyXV6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036756639907483927",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 92868,
+          "like_count": 2038,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8MaxRyXV6e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦od💊不割手❦永不满足的爱，和以此倍增的恨.❦可爱小猫 @herself32 ❦发情期再放送.....❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "˚₊‧꒰ა超绝可爱☆派对姬໒꒱‧₊˚",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036223950007705606/48JBwYi8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 1009,
+          "like_count": 9606,
+          "listed_count": 6,
+          "media_count": 784,
+          "tweet_count": 3568
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun | 叫我 45 就好啦 | AMAB | gender apathetic | 舞萌痴 | MBTI: ISTP | 里推: @45_206io | 可爱の笨蛋妹妹: @MomoseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "45_206io"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "username": "MomoseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "Maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "1955945247575507298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009572352519213057/8DgrF8uc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 461,
+          "like_count": 30768,
+          "listed_count": 0,
+          "media_count": 505,
+          "tweet_count": 3278
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

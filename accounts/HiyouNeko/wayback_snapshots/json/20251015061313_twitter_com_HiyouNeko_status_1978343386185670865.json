@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1978343386185670865",
+    "created_at": "2025-10-15T06:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T07:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978343386185670865"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DDzhanshou5150…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/DDzhanshou5150/status/1978127480402669629",
+          "start": 5,
+          "url": "https://t.co/uqO05h1nDl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978343386185670865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978127480402669629",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哑癫软废 https://t.co/uqO05h1nDl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 926,
+        "media_key": "3_1978127248419954688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3O4QHqXoAA3Ab1.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1978343386185670865",
+        "created_at": "2025-10-15T06:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T07:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978343386185670865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DDzhanshou5150…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/DDzhanshou5150/status/1978127480402669629",
+              "start": 5,
+              "url": "https://t.co/uqO05h1nDl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978343386185670865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978127480402669629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哑癫软废 https://t.co/uqO05h1nDl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978127248419954688"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1978127480402669629",
+        "created_at": "2025-10-14T15:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T16:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978127480402669629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VzFmfEXA8L",
+              "end": 28,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1978127480402669629/photo/1",
+              "media_key": "3_1978127248419954688",
+              "start": 5,
+              "url": "https://t.co/VzFmfEXA8L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978127480402669629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 112936,
+          "like_count": 762,
+          "quote_count": 36,
+          "reply_count": 63,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "哑癫硬废 https://t.co/VzFmfEXA8L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片（今日推荐：猪大排）🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 1008,
+          "like_count": 9294,
+          "listed_count": 7,
+          "media_count": 733,
+          "tweet_count": 3300
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7608,
+          "following_count": 7040,
+          "like_count": 25156,
+          "listed_count": 15,
+          "media_count": 5514,
+          "tweet_count": 37000
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

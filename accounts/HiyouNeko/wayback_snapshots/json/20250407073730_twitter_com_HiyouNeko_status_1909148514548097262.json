@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1909148514548097262",
+    "created_at": "2025-04-07T07:37:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T08:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909148514548097262"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/bghtnya/status/1908808760501449101",
+          "start": 5,
+          "url": "https://t.co/aslmgKwvle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909148514548097262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908808760501449101",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "开火箭的 https://t.co/aslmgKwvle"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1138,
+        "media_key": "3_1908808756978434048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn1zc3_awAAVynb.jpg",
+        "width": 649
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1909148514548097262",
+        "created_at": "2025-04-07T07:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T08:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909148514548097262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/bghtnya/status/1908808760501449101",
+              "start": 5,
+              "url": "https://t.co/aslmgKwvle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909148514548097262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908808760501449101",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开火箭的 https://t.co/aslmgKwvle"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908808756978434048"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "1908808760501449101",
+        "created_at": "2025-04-06T09:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T10:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908808760501449101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ta3xQOHj5Z",
+              "end": 23,
+              "expanded_url": "https://x.com/bghtnya/status/1908808760501449101/photo/1",
+              "media_key": "3_1908808756978434048",
+              "start": 0,
+              "url": "https://t.co/Ta3xQOHj5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908808760501449101",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 25978,
+          "like_count": 415,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Ta3xQOHj5Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是友跨顺难 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079,
+          "following_count": 967,
+          "like_count": 8537,
+          "listed_count": 6,
+          "media_count": 646,
+          "tweet_count": 2725
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖 07高三物化历 / 🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 📍坐标上海  /  🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/333984695",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/333984695",
+                "start": 0,
+                "url": "https://t.co/sBE8XZ6ZAu"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1880700194419028324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899479281622790144/INrCl2id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5845,
+          "following_count": 1861,
+          "like_count": 127784,
+          "listed_count": 14,
+          "media_count": 2320,
+          "tweet_count": 32439
+        },
+        "url": "https://t.co/sBE8XZ6ZAu",
+        "username": "bghtnya",
+        "verified": false
+      }
+    ]
+  }
+}

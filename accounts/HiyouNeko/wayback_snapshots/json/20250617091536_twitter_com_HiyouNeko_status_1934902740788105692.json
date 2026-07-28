@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1934581736253603840"
+      ],
+      "media_source_tweet_id": [
+        "1934581756939878470"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1934902740788105692",
+    "created_at": "2025-06-17T09:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T10:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934902740788105692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1299312684991569920",
+          "start": 3,
+          "username": "DanJack67524194"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4qNjgkZBbS",
+          "end": 56,
+          "expanded_url": "https://x.com/DanJack67524194/status/1934581756939878470/video/1",
+          "media_key": "7_1934581736253603840",
+          "start": 33,
+          "url": "https://t.co/4qNjgkZBbS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934902740788105692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934581756939878470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DanJack67524194: 擊 墜 神 明 之 日 https://t.co/4qNjgkZBbS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15301,
+        "height": 1280,
+        "media_key": "7_1934581736253603840",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1934581736253603840/pu/img/Cb66wVRhDOipAORK.jpg",
+        "public_metrics": {
+          "view_count": 205065
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1934581736253603840/pu/vid/avc1/320x568/FpkhcyFhAQiVurj3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1934581736253603840/pu/vid/avc1/480x852/CI3-j255R0sLAnVb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1934581736253603840/pu/vid/avc1/720x1280/GVQdBs1bylwYe3En.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1934581736253603840/pu/pl/bBG4ht30MuHujih6.m3u8?tag=12&v=746"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1934581736253603840"
+          ],
+          "media_source_tweet_id": [
+            "1934581756939878470"
+          ]
+        },
+        "author_id": "1528928909734973440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1934902740788105692",
+        "created_at": "2025-06-17T09:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T10:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934902740788105692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1299312684991569920",
+              "start": 3,
+              "username": "DanJack67524194"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4qNjgkZBbS",
+              "end": 56,
+              "expanded_url": "https://x.com/DanJack67524194/status/1934581756939878470/video/1",
+              "media_key": "7_1934581736253603840",
+              "start": 33,
+              "url": "https://t.co/4qNjgkZBbS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934902740788105692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934581756939878470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DanJack67524194: 擊 墜 神 明 之 日 https://t.co/4qNjgkZBbS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1934581736253603840"
+          ]
+        },
+        "author_id": "1299312684991569920",
+        "conversation_id": "1934581756939878470",
+        "created_at": "2025-06-16T12:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T13:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934581756939878470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4qNjgkZBbS",
+              "end": 35,
+              "expanded_url": "https://x.com/DanJack67524194/status/1934581756939878470/video/1",
+              "media_key": "7_1934581736253603840",
+              "start": 12,
+              "url": "https://t.co/4qNjgkZBbS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934581756939878470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 215,
+          "impression_count": 389461,
+          "like_count": 1250,
+          "quote_count": 7,
+          "reply_count": 16,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "擊 墜 神 明 之 日 https://t.co/4qNjgkZBbS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2123,
+          "following_count": 983,
+          "like_count": 9195,
+          "listed_count": 6,
+          "media_count": 708,
+          "tweet_count": 3172
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-28T11:48:01.000Z",
+        "description": "（大部分梗圖皆為轉載）（現在也有自己翻譯的梗圖*如有翻譯圖，皆有翻譯浮水印*）\n棉花糖：https://t.co/Kc3Sive5zs\n\nig（梗圖帳）：https://t.co/4O83ZaXG7x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/v1uq470chztz12…",
+                "end": 67,
+                "expanded_url": "https://marshmallow-qa.com/v1uq470chztz122?t=yjLkkv&u",
+                "start": 44,
+                "url": "https://t.co/Kc3Sive5zs"
+              },
+              {
+                "display_url": "instagram.com/fox_sun_moon?i…",
+                "end": 100,
+                "expanded_url": "https://www.instagram.com/fox_sun_moon?igsh=ZXh3MXpyb",
+                "start": 77,
+                "url": "https://t.co/4O83ZaXG7x"
+              }
+            ]
+          }
+        },
+        "id": "1299312684991569920",
+        "location": "羅馬帝國—君士坦丁堡",
+        "name": "狐曌🦊北科大登陸作戰——展開！！",
+        "pinned_tweet_id": "1769544675147522087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923538905741111296/OuHg0oGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6507,
+          "following_count": 1731,
+          "like_count": 29498,
+          "listed_count": 19,
+          "media_count": 6764,
+          "tweet_count": 30283
+        },
+        "username": "DanJack67524194",
+        "verified": false
+      }
+    ]
+  }
+}

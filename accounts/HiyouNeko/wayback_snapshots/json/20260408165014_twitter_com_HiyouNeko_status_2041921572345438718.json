@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "2041921572345438718",
+    "created_at": "2026-04-08T16:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T17:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041921572345438718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thisis_an_appl…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/thisis_an_apple/status/2041788349783142707",
+          "start": 9,
+          "url": "https://t.co/ylGgBlsfrS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041921572345438718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041788349783142707",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "难道她真的是天才 https://t.co/ylGgBlsfrS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "2041921572345438718",
+        "created_at": "2026-04-08T16:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041921572345438718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thisis_an_appl…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/thisis_an_apple/status/2041788349783142707",
+              "start": 9,
+              "url": "https://t.co/ylGgBlsfrS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041921572345438718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041788349783142707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难道她真的是天才 https://t.co/ylGgBlsfrS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243558241377718274",
+        "conversation_id": "2041682441341899204",
+        "created_at": "2026-04-08T08:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041788349783142707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041788349783142707",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7211,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041682441341899204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 我决定以后开一个戒同所，先和父母收钱，然后在里面和同性恋收钱，给钱就让他们自己相处，变成相亲所。不给钱就打，但我不自己打，我买“打人权”给那些想要打人发泄情绪，或者不忍心看他们被打而替他们付钱的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦od💊不割手❦永不满足的爱，和以此倍增的恨.❦可爱小猫 @herself32 ❦警告🚫郁期勿扰.....❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "˚₊‧꒰ა剧烈变形☆派对姬໒꒱‧₊˚",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039989141258285056/QqoUIn1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 1040,
+          "like_count": 9714,
+          "listed_count": 6,
+          "media_count": 811,
+          "tweet_count": 3648
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T15:19:43.000Z",
+        "description": "MtF，HRT 2024/09/25。\n我已经不知道要做什么了。\n脾气很好，请不要惹我生气或者和我辩论，我会哭。 要互粉可以私信。",
+        "id": "1243558241377718274",
+        "name": "风油精灵🏳️‍⚧️",
+        "pinned_tweet_id": "2003413981206344169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011439245832212480/TCSPknLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 44,
+          "like_count": 67,
+          "listed_count": 5,
+          "media_count": 530,
+          "tweet_count": 11665
+        },
+        "username": "thisis_an_apple",
+        "verified": false
+      }
+    ]
+  }
+}

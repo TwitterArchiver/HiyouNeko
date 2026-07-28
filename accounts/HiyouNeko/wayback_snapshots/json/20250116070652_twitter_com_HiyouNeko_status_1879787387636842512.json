@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1879414376001921431",
+    "created_at": "2025-01-16T07:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T08:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879787387636842512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1565683596140064769",
+          "start": 0,
+          "username": "RexPanotria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879787387636842512",
+    "in_reply_to_user_id": "1565683596140064769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879709910541471893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RexPanotria 还真是，交通方便哪儿都能去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1879414376001921431",
+        "created_at": "2025-01-16T07:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T08:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879787387636842512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565683596140064769",
+              "start": 0,
+              "username": "RexPanotria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879787387636842512",
+        "in_reply_to_user_id": "1565683596140064769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879709910541471893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RexPanotria 还真是，交通方便哪儿都能去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565683596140064769",
+        "conversation_id": "1879414376001921431",
+        "created_at": "2025-01-16T01:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T02:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879709910541471893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879709910541471893",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879414376001921431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 对着地铁图填志愿都比这强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 汉尼拔宁波分拔 ❦ 水系魔法师 ❦ 这个世上没有比假花更美的花 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1876180576878899482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877247691027263488/PyTo1_2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 1010,
+          "like_count": 8092,
+          "listed_count": 6,
+          "media_count": 617,
+          "tweet_count": 2431
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T12:51:05.000Z",
+        "description": "🦊/音游/轨道交通/欧美音乐，原雷雷请谨慎关注",
+        "id": "1565683596140064769",
+        "location": "Void Domain",
+        "name": "Rex Panotria",
+        "pinned_tweet_id": "1732712413986980295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792084766143156224/wq_umKLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 375,
+          "like_count": 1508,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 451
+        },
+        "username": "RexPanotria",
+        "verified": false
+      }
+    ]
+  }
+}

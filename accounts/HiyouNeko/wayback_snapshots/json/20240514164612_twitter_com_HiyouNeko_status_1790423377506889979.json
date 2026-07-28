@@ -1,0 +1,124 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1790423328496427009"
+      ]
+    },
+    "author_id": "1528928909734973440",
+    "conversation_id": "1790423377506889979",
+    "created_at": "2024-05-14T16:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T17:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1790423377506889979"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/l2dTTcAcXS",
+          "end": 48,
+          "expanded_url": "https://twitter.com/HiyouNeko/status/1790423377506889979/video/1",
+          "media_key": "7_1790423328496427009",
+          "start": 25,
+          "url": "https://t.co/l2dTTcAcXS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790423377506889979",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "先打个暴力标签\n然后剪完刘海感觉自己更美了🤪🤪🤪 https://t.co/l2dTTcAcXS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1790423377506889979].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1790423377506889979",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1790423377506889979"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19400,
+        "height": 576,
+        "media_key": "7_1790423328496427009",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1790423328496427009/pu/img/OEiC7ZHq3XGKWJi6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1790423328496427009/pu/vid/avc1/600x270/PyySHLJTePCCnOep.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1790423328496427009/pu/vid/avc1/800x360/mdr99ueodKAGhBcY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1790423328496427009/pu/vid/avc1/1280x576/_8ytWqST5tM0n2hI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1790423328496427009/pu/pl/CkyUm4yJ4bNGsN3u.m3u8?tag=12&container=cmaf"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦-希月涟漪赋予汐-❦Dom❦mtf🏳‍⚧❦降临派❦病娇❦麻木❦偶尔是发癫，抽象是常态❦活在幻想中的魔法少女❦i am a teapot❦每天都被爱心填满大脑❦真的很爱喝野格和咩宝宝@littlelambqwq❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 91,
+                "username": "littlelambqwq"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "AAA希汐是水系魔法师👀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786272582314106880/x7-Zl02l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 877,
+          "like_count": 4735,
+          "listed_count": 9,
+          "tweet_count": 1299
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

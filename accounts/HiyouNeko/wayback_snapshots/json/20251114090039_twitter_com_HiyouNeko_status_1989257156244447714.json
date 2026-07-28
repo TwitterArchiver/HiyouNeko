@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1988850041331589492",
+    "created_at": "2025-11-14T09:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T10:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989257156244447714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1560671619218960384",
+          "start": 0,
+          "username": "silsrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989257156244447714",
+    "in_reply_to_user_id": "1560671619218960384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988850041331589492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silsrc 点名xyn是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1988850041331589492",
+        "created_at": "2025-11-14T09:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T10:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989257156244447714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560671619218960384",
+              "start": 0,
+              "username": "silsrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989257156244447714",
+        "in_reply_to_user_id": "1560671619218960384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988850041331589492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silsrc 点名xyn是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560671619218960384",
+        "conversation_id": "1988850041331589492",
+        "created_at": "2025-11-13T06:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T07:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988850041331589492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988850041331589492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 101723,
+          "like_count": 388,
+          "quote_count": 15,
+          "reply_count": 181,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "到底如何才能找到一个又打游戏又看番还能一起写代码的女朋友（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "阳痿丨风湿丨前列腺炎丨腰间盘突出。逐渐沦为三坏xyn。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片（今日推荐：爆弹鱼）🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 1033,
+          "like_count": 9442,
+          "listed_count": 7,
+          "media_count": 746,
+          "tweet_count": 3380
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-19T16:55:06.000Z",
+        "description": "开源爱好，万能工程师（存疑），现代魔法老中登，Linux Kernel Developer，假装是计算机科学家，黑深残。",
+        "id": "1560671619218960384",
+        "location": "Beijing",
+        "name": "scr.c",
+        "pinned_tweet_id": "1619387209844682753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728125838284189698/IGci3p0y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8474,
+          "following_count": 504,
+          "like_count": 24816,
+          "listed_count": 42,
+          "media_count": 215,
+          "tweet_count": 3348
+        },
+        "username": "silsrc",
+        "verified": false
+      }
+    ]
+  }
+}

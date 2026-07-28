@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1879414376001921431",
+    "created_at": "2025-01-16T06:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T07:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879780690377777180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1756311038675345409",
+          "start": 0,
+          "username": "s0ng1ei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879780690377777180",
+    "in_reply_to_user_id": "1756311038675345409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879778508098142395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s0ng1ei 爽打乌蒙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1879414376001921431",
+        "created_at": "2025-01-16T06:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T07:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879780690377777180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1756311038675345409",
+              "start": 0,
+              "username": "s0ng1ei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879780690377777180",
+        "in_reply_to_user_id": "1756311038675345409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879778508098142395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s0ng1ei 爽打乌蒙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756311038675345409",
+        "conversation_id": "1879414376001921431",
+        "created_at": "2025-01-16T06:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T07:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879778508098142395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879778508098142395",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879414376001921431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko 我就这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 汉尼拔宁波分拔 ❦ 水系魔法师 ❦ 这个世上没有比假花更美的花 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1876180576878899482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877247691027263488/PyTo1_2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2033,
+          "following_count": 1009,
+          "like_count": 8086,
+          "listed_count": 6,
+          "media_count": 617,
+          "tweet_count": 2429
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T13:35:58.000Z",
+        "description": "我没意见",
+        "id": "1756311038675345409",
+        "name": "送泪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862927074224115712/Y-9CafDF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 57,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 89
+        },
+        "username": "s0ng1ei",
+        "verified": false
+      }
+    ]
+  }
+}

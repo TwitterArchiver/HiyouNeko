@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1936254140138885368",
+    "created_at": "2025-06-21T02:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T03:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936254140138885368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "websim.com/@springnewt381…",
+          "end": 35,
+          "expanded_url": "https://websim.com/@springnewt3818555/smash-or-pass-ai",
+          "start": 12,
+          "status": 200,
+          "title": "上还是不上-AI评分系统",
+          "unwound_url": "https://websim.com/@springnewt3818555/smash-or-pass-ai",
+          "url": "https://t.co/LfBV14l85A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936254140138885368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这玩意怎么今天404了 https://t.co/LfBV14l85A"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1936254140138885368",
+        "created_at": "2025-06-21T02:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T03:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936254140138885368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "websim.com/@springnewt381…",
+              "end": 35,
+              "expanded_url": "https://websim.com/@springnewt3818555/smash-or-pass-ai",
+              "start": 12,
+              "status": 200,
+              "title": "上还是不上-AI评分系统",
+              "unwound_url": "https://websim.com/@springnewt3818555/smash-or-pass-ai",
+              "url": "https://t.co/LfBV14l85A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936254140138885368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这玩意怎么今天404了 https://t.co/LfBV14l85A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "2022年8月29日，被派对姬转换，因未知原因雌化进程缓慢。真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "玉米楼无绳蹦极点",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1928386724960596097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 985,
+          "like_count": 9211,
+          "listed_count": 6,
+          "media_count": 714,
+          "tweet_count": 3189
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

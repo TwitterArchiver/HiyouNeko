@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1833773172115873981",
+    "created_at": "2024-09-11T09:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T10:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833796790128357695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1313383273079345152",
+          "start": 0,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833796790128357695",
+    "in_reply_to_user_id": "1313383273079345152",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833773172115873981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValeriaEulabeia 奇怪的判定机制"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1833773172115873981",
+        "created_at": "2024-09-11T09:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T10:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833796790128357695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1313383273079345152",
+              "start": 0,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833796790128357695",
+        "in_reply_to_user_id": "1313383273079345152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833773172115873981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValeriaEulabeia 奇怪的判定机制"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833773169297203200"
+          ]
+        },
+        "author_id": "1313383273079345152",
+        "conversation_id": "1833773172115873981",
+        "created_at": "2024-09-11T07:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T08:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833773172115873981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2wnltz0v46",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ValeriaEulabeia/status/1833773172115873981/photo/1",
+              "media_key": "3_1833773169297203200",
+              "start": 8,
+              "url": "https://t.co/2WNLTz0V46"
+            },
+            {
+              "display_url": "x.com/sally773147861…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/sally7731478613/status/1833754739894288629",
+              "start": 32,
+              "url": "https://t.co/exmJb2e7BM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833773172115873981",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 319,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833754739894288629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我连内都没露😅 https://t.co/2WNLTz0V46 https://t.co/exmJb2e7BM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格 ❦  永劫无间 ❦ 无畏契约 ❦ 游戏王md ❦ 打游戏速速dd ❦ 半截入土 ❦ 坐标 宁波 ❦ 🚪50 ❦",
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 948,
+          "like_count": 5591,
+          "listed_count": 7,
+          "tweet_count": 1521
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Unluckily...got a boy's body at birth. MtF🏳️‍⚧️ | HRT🍥 started at: 2021.12.6 |  International Communication Study |  Borderline Personality Disorder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "feijiyun38.xyz/auth/register?…",
+                "end": 23,
+                "expanded_url": "https://feijiyun38.xyz/auth/register?code=ECn1",
+                "start": 0,
+                "url": "https://t.co/JRYrTUtOwa"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "1828842256457200123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746515536283140096/-tyRLvuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5754,
+          "following_count": 0,
+          "like_count": 36,
+          "listed_count": 13,
+          "tweet_count": 15236
+        },
+        "url": "https://t.co/JRYrTUtOwa",
+        "username": "ValeriaEulabeia",
+        "verified": false
+      }
+    ]
+  }
+}

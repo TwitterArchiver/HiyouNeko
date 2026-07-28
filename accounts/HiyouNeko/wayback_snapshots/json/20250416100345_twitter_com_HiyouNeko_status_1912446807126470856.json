@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1912446807126470856",
+    "created_at": "2025-04-16T10:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T11:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912446807126470856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HzShibari86/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/HzShibari86/status/1912352189445472682",
+          "start": 8,
+          "url": "https://t.co/aQwAeHRoKI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912446807126470856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912352189445472682",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "铁臂，碎石给闪 https://t.co/aQwAeHRoKI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1912446807126470856",
+        "created_at": "2025-04-16T10:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T11:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912446807126470856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HzShibari86/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/HzShibari86/status/1912352189445472682",
+              "start": 8,
+              "url": "https://t.co/aQwAeHRoKI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912446807126470856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912352189445472682",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "铁臂，碎石给闪 https://t.co/aQwAeHRoKI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769742689514455040",
+        "conversation_id": "1912352189445472682",
+        "created_at": "2025-04-16T03:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T04:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912352189445472682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/teachaerli/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/teachaerli/status/1912324027965927618",
+              "start": 8,
+              "url": "https://t.co/OSWziEKdSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912352189445472682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 332,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912324027965927618",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这空，我不会填 https://t.co/OSWziEKdSq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登 ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2080,
+          "following_count": 984,
+          "like_count": 8672,
+          "listed_count": 6,
+          "media_count": 655,
+          "tweet_count": 2807
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T15:08:37.000Z",
+        "description": "这里是燃～\n是一只爱哭爱闹爱说爱笑的家养刺猬～\n疯疯癫癫的馋嘴吃货～脆皮绳架子~\n主人: @TarsMark2\n老婆: @Bismark_fmpire \n宠物: @Vincy1230 \n绳缚号: @HzShibari\n不存在的小号: @HzShibari404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "TarsMark2"
+              },
+              {
+                "end": 75,
+                "start": 60,
+                "username": "Bismark_fmpire"
+              },
+              {
+                "end": 91,
+                "start": 81,
+                "username": "Vincy1230"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "HzShibari"
+              },
+              {
+                "end": 130,
+                "start": 117,
+                "username": "HzShibari404"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hzshibari86",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hzshibari86",
+                "start": 0,
+                "url": "https://t.co/td3HIYM3kY"
+              }
+            ]
+          }
+        },
+        "id": "1769742689514455040",
+        "location": "沃陆之邦",
+        "name": "燃",
+        "pinned_tweet_id": "1909926830431420448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906881687742758912/CUCwn8jx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 319,
+          "like_count": 8684,
+          "listed_count": 2,
+          "media_count": 941,
+          "tweet_count": 3533
+        },
+        "url": "https://t.co/td3HIYM3kY",
+        "username": "HzShibari86",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1863007616664051851",
+    "created_at": "2024-12-01T01:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T02:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863037680503967937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863037680503967937",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863007616664051851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ “县长上任，得巧立名目，拉拢豪绅，缴税捐款。他们交了，才能让百姓跟着交钱。得钱之后，豪绅的钱，如数奉还，百姓的钱，三七分成。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1863007616664051851",
+        "created_at": "2024-12-01T01:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T02:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863037680503967937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863037680503967937",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863007616664051851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ “县长上任，得巧立名目，拉拢豪绅，缴税捐款。他们交了，才能让百姓跟着交钱。得钱之后，豪绅的钱，如数奉还，百姓的钱，三七分成。”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863007613933277184"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "1863007616664051851",
+        "created_at": "2024-11-30T23:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T00:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863007616664051851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zekBuNsLno",
+              "end": 26,
+              "expanded_url": "https://x.com/huahuojiang_/status/1863007616664051851/photo/1",
+              "media_key": "3_1863007613933277184",
+              "start": 3,
+              "url": "https://t.co/zekBuNsLno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863007616664051851",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 470,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "wc https://t.co/zekBuNsLno"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ HRT22/08/29 ❦ 坐标宁波 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我的小孩且宝贝脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "一只希汐#θωθ",
+        "pinned_tweet_id": "1858814345456873777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1972,
+          "following_count": 932,
+          "like_count": 7029,
+          "listed_count": 5,
+          "media_count": 528,
+          "tweet_count": 2084
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@Marionette_Sa｜换一个提问箱：https://t.co/LtoB1mloS1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "Marionette_Sa"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang/",
+                "end": 58,
+                "expanded_url": "https://ngl.link/huahuojiang/",
+                "start": 35,
+                "url": "https://t.co/LtoB1mloS1"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "1861755790669005311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770720359312240640/qCqdMpdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3569,
+          "following_count": 3003,
+          "like_count": 47893,
+          "listed_count": 8,
+          "media_count": 1835,
+          "tweet_count": 34251
+        },
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

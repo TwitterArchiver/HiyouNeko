@@ -1,0 +1,216 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1795068005430288828",
+    "created_at": "2024-05-29T01:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-29T02:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795635231657198061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1658764040884088833",
+          "start": 0,
+          "username": "JenieIsNotM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795635231657198061",
+    "in_reply_to_user_id": "1658764040884088833",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795068005430288828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JenieIsNotM 能不能再附赠一个好友一起玩_(:з」∠)_"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1795068005430288828",
+        "created_at": "2024-05-29T01:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T02:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795635231657198061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1658764040884088833",
+              "start": 0,
+              "username": "JenieIsNotM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795635231657198061",
+        "in_reply_to_user_id": "1658764040884088833",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795068005430288828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JenieIsNotM 能不能再附赠一个好友一起玩_(:з」∠)_"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795067990616023040"
+          ]
+        },
+        "author_id": "1658764040884088833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1795068005430288828",
+        "created_at": "2024-05-27T12:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T13:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795068005430288828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/th09LQY2Q3",
+              "end": 190,
+              "expanded_url": "https://twitter.com/JenieIsNotM/status/1795068005430288828/photo/1",
+              "media_key": "3_1795067990616023040",
+              "start": 167,
+              "url": "https://t.co/th09LQY2Q3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795068005430288828",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5971,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "別人送我的steam全球激活碼\n「Palworld幻獸帕魯」\n我已經有了，拿出來抽個獎\n後天中午12:00抽獎\n\n轉發方式：按讚此條+關注+轉發\n⚠️下頭三無/看黃男/抽獎號（不抽！）\n🌟Transgender🏳️‍⚧️跨性別群體及友跨/LGBT友好的順男/順女（可抽！）\n\n⚠️⚠️⚠️不玩steam遊戲的請看清，此禮物不可折現！ https://t.co/th09LQY2Q3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦-这个老登叫希汐-❦Dom❦RIP1999.05.10～2028.07.09❦降临派❦活在幻想中的魔法少女❦病娇是魔女化后的产物❦真的很爱喝野格❦全世界最闪耀的蝎蝎 @XIEXIEkawaii ❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 84,
+                "username": "XIEXIEkawaii"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "希汐集团女装贩卖有点股份但能力有限公司",
+        "name": "AAA希汐是水系魔法师👀",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795034500881412096/5-HjWywU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1808,
+          "following_count": 914,
+          "like_count": 5307,
+          "listed_count": 9,
+          "tweet_count": 1411
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T09:19:01.000Z",
+        "description": "Transgender MTF🏳️‍⚧️跨性別女生 | 持證含糖 | 大齡黨mtf | 英美馬混血 | ESFP | BDSM｜航空迷 | ATS迷｜日常分享 | 吃貨😋｜不鍵政 | 異性🚪188/1688/只接素炮｜沒素質勿擾 | 同類姐妹兄弟會回fo | 唯一的最可愛的妹妹是@AssuntaCas83030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 140,
+                "username": "AssuntaCas83030"
+              }
+            ]
+          }
+        },
+        "id": "1658764040884088833",
+        "location": "5.20m",
+        "name": "妮娅不是M🏳️‍🌈🏳️‍⚧️🇹🇼",
+        "pinned_tweet_id": "1791754008216138016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770001049899634688/Cz94lZCp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 397,
+          "like_count": 1741,
+          "listed_count": 2,
+          "tweet_count": 899
+        },
+        "username": "JenieIsNotM",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "2036232347495047319",
+    "created_at": "2026-03-24T00:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T01:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036233800859132287"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036233800859132287",
+    "in_reply_to_user_id": "1528928909734973440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036232347495047319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "催眠状态，只能根据音频进度条推测时间\n约25分钟：中度肠胃不适，我知道一会儿肯定剧烈呕吐，无法控制面部肌肉，无法控制喉咙，无法控制四肢，感觉要bad了，脑子里全是动不了被呕吐物呛死的场景......\n约28分钟：挣扎出催眠状态，坐起来了，强烈肠胃不适，脑子里回响着贝斯紧张的低音，吃了1t多潘立酮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "2036232347495047319",
+        "created_at": "2026-03-24T00:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T01:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036233800859132287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036233800859132287",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036232347495047319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "催眠状态，只能根据音频进度条推测时间\n约25分钟：中度肠胃不适，我知道一会儿肯定剧烈呕吐，无法控制面部肌肉，无法控制喉咙，无法控制四肢，感觉要bad了，脑子里全是动不了被呕吐物呛死的场景......\n约28分钟：挣扎出催眠状态，坐起来了，强烈肠胃不适，脑子里回响着贝斯紧张的低音，吃了1t多潘立酮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "2036232347495047319",
+        "created_at": "2026-03-24T00:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T01:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036232347495047319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036232347495047319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "『剧烈变形Vol.1』\n16.26骆驼蓬子4.23g，浓缩约200ml：感觉身体变轻盈，可能是心理作用，也可能和dxm残效有关\n\n16.56树皮汤23.4g，浓缩约100ml：很好入口，微涩不苦。\n\n第15min：明显嘴唇发麻，意识轻微恍惚，感觉有效了，戴上耳机听催眠\n\n第20min：轻微肠胃不适，强烈幻觉，被催眠音频控制的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦od💊不割手❦永不满足的爱，和以此倍增的恨.❦可爱小猫 @herself32 ❦发情期再放送.....❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "🎈˚₊‧꒰ა超绝可爱☆派对姬໒꒱‧₊˚🎈",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036223950007705606/48JBwYi8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 1004,
+          "like_count": 9569,
+          "listed_count": 6,
+          "media_count": 774,
+          "tweet_count": 3544
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

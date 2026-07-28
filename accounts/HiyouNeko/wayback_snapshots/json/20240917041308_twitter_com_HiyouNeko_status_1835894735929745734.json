@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1835894735929745734",
+    "created_at": "2024-09-17T04:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T05:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1835894735929745734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yqua_/status/1…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/yqua_/status/1835876330388525404",
+          "start": 16,
+          "url": "https://t.co/3QFNOD8yEj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835894735929745734",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835876330388525404",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "理论成立？实践？....开始？ https://t.co/3QFNOD8yEj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1835894735929745734",
+        "created_at": "2024-09-17T04:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T05:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835894735929745734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yqua_/status/1…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/yqua_/status/1835876330388525404",
+              "start": 16,
+              "url": "https://t.co/3QFNOD8yEj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835894735929745734",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835876330388525404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "理论成立？实践？....开始？ https://t.co/3QFNOD8yEj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835701358491770880"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "conversation_id": "1835876330388525404",
+        "created_at": "2024-09-17T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835876330388525404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fml6edxozc",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yqua_/status/1835876330388525404/photo/1",
+              "media_key": "3_1835701358491770880",
+              "start": 6,
+              "url": "https://t.co/FMl6EdXozc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835876330388525404",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1161,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "容易死人吧 https://t.co/FMl6EdXozc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 希月涟漪赋予汐 ❦ 降临派 ❦ 活在幻想中的魔法少女 ❦ 病娇是魔女化后的产物 ❦ 真的很爱喝野格 ❦ 魔女化进度丨▉▉▉▉▉▌                    丨54%❦",
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "希汐是水系魔法狮🦁",
+        "pinned_tweet_id": "1795060913264791720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833062684075692032/gagpBplP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1843,
+          "following_count": 979,
+          "like_count": 5730,
+          "listed_count": 7,
+          "tweet_count": 1570
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "铨｜我家大人❤️@520Uki｜天残党MtX🏳️‍⚧️｜日常：@RU9SH|互fo请DM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "520Uki"
+              },
+              {
+                "end": 37,
+                "start": 31,
+                "username": "RU9SH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUM0f"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "八里台",
+        "name": "𝓠𝓾𝓪𝓷. ᡣ𐭩",
+        "pinned_tweet_id": "1765934211918397447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10917,
+          "following_count": 3902,
+          "like_count": 152509,
+          "listed_count": 47,
+          "tweet_count": 16838
+        },
+        "url": "https://t.co/6W3mmCUM0f",
+        "username": "yqua_",
+        "verified": true
+      }
+    ]
+  }
+}

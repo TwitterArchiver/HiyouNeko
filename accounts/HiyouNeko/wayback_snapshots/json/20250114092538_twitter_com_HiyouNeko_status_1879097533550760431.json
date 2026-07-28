@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1879097533550760431",
+    "created_at": "2025-01-14T09:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T10:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879097533550760431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1150394879605784576",
+          "start": 3,
+          "username": "didadida_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879097533550760431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879093731330347455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @didadida_qwq: 想着躺平，想着吃饭，想着玩游戏，这些都没问题。但是你不认真吃饭，不认真玩游戏，做这些的时候还想着学习，想着努力，甚至责备自己的时候才有问题，不要内耗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1879097533550760431",
+        "created_at": "2025-01-14T09:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T10:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879097533550760431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1150394879605784576",
+              "start": 3,
+              "username": "didadida_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879097533550760431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879093731330347455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @didadida_qwq: 想着躺平，想着吃饭，想着玩游戏，这些都没问题。但是你不认真吃饭，不认真玩游戏，做这些的时候还想着学习，想着努力，甚至责备自己的时候才有问题，不要内耗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1150394879605784576",
+        "conversation_id": "1879093731330347455",
+        "created_at": "2025-01-14T09:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T10:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879093731330347455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879093731330347455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想着躺平，想着吃饭，想着玩游戏，这些都没问题。但是你不认真吃饭，不认真玩游戏，做这些的时候还想着学习，想着努力，甚至责备自己的时候才有问题，不要内耗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 汉尼拔宁波分拔 ❦ 水系魔法师 ❦ 这个世上没有比假花更美的花 ❦ 宝贝脑婆兼职主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1876180576878899482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877247691027263488/PyTo1_2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2026,
+          "following_count": 989,
+          "like_count": 8021,
+          "listed_count": 6,
+          "media_count": 613,
+          "tweet_count": 2412
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-14T13:21:27.000Z",
+        "description": "🟣🔴⚪⛔🚫♏♂️♀️0️⃣6️⃣🚭🔞🍬🍥废物想当猫",
+        "id": "1150394879605784576",
+        "location": "猫岛色色岛",
+        "name": "滴答滴答滴答滴答滴答滴答",
+        "pinned_tweet_id": "1807108008985702461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1332680669596508163/3TiEavgy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4082,
+          "following_count": 1460,
+          "like_count": 26235,
+          "listed_count": 3,
+          "media_count": 1181,
+          "tweet_count": 13874
+        },
+        "username": "didadida_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

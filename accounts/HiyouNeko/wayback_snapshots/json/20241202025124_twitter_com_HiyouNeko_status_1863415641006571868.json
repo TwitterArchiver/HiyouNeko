@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1863415641006571868",
+    "created_at": "2024-12-02T02:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T03:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863415641006571868"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/twsdah/status/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/twsdah/status/1863413974911570237",
+          "start": 16,
+          "url": "https://t.co/bSE2FVCbk4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863415641006571868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863413974911570237",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不禁感叹自然（网友）的鬼斧神工 https://t.co/bSE2FVCbk4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1863415641006571868",
+        "created_at": "2024-12-02T02:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T03:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863415641006571868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/twsdah/status/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/twsdah/status/1863413974911570237",
+              "start": 16,
+              "url": "https://t.co/bSE2FVCbk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863415641006571868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863413974911570237",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不禁感叹自然（网友）的鬼斧神工 https://t.co/bSE2FVCbk4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863413968628498433"
+          ]
+        },
+        "author_id": "1829677182609997826",
+        "conversation_id": "1863413974911570237",
+        "created_at": "2024-12-02T02:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T03:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863413974911570237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mRT4OmEqk5",
+              "end": 23,
+              "expanded_url": "https://x.com/twsdah/status/1863413974911570237/photo/1",
+              "media_key": "3_1863413968628498433",
+              "start": 0,
+              "url": "https://t.co/mRT4OmEqk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863413974911570237",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 283,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mRT4OmEqk5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ HRT22/08/29 ❦ 坐标宁波 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我的小孩且宝贝脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "一只希汐#θωθ",
+        "pinned_tweet_id": "1863191732785152301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1987,
+          "following_count": 954,
+          "like_count": 7179,
+          "listed_count": 5,
+          "media_count": 533,
+          "tweet_count": 2121
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T00:27:15.000Z",
+        "description": "26岁，男，天津大学本科，港前四(qs)工科硕士毕业，现在香港某大型手机公司做芯片设计，练习时长两年半。是个孤独的人，游戏爱好者，比较爱玩米哈游三件套，重氪玩家，现在转型成为博启(博德之门3)玩家。最喜欢的女团：blackpink/DLE 最喜欢的男团：EXO/CNBLUE/防弹少年团/Bigbang",
+        "id": "1829677182609997826",
+        "location": "Amersfoort, Nederland",
+        "name": "米笑梓-初代目",
+        "pinned_tweet_id": "1857457117466419382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852039959764701185/YppKMvbd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 237,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1067
+        },
+        "username": "twsdah",
+        "verified": true
+      }
+    ]
+  }
+}

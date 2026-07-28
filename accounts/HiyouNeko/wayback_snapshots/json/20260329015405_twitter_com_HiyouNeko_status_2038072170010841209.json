@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "2037917981544784199",
+    "created_at": "2026-03-29T01:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T02:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038072170010841209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038072170010841209",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037917981544784199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@hsn8086 太好了，马上告诉我这些药理学边界背后的科学逻辑。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "2037917981544784199",
+        "created_at": "2026-03-29T01:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T02:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038072170010841209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038072170010841209",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037917981544784199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@hsn8086 太好了，马上告诉我这些药理学边界背后的科学逻辑。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433678976564662273",
+        "conversation_id": "2037917981544784199",
+        "created_at": "2026-03-28T15:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T16:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037917981544784199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/hsn8086/status/2037841240402874605",
+              "start": 133,
+              "url": "https://t.co/vsgJfG5qvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037917981544784199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "先说结论：将多巴胺干预手段简单粗暴地等同于“成瘾”是极具误导性的。\n更准确一点说，合法医疗干预与物质滥用之间的本质区别，在于剂量、药代动力学（起效速度与代谢方式）以及临床治疗目标的严密控制。医学手段旨在通过修正神经递质的失衡，让功能受损者的多巴胺水平回归正常区间。\n他们的落点不是追求瞬间的生理快感，而是通过精密的浓度控制实现神经系统的长期稳态，帮助患者重获正常生活的生理基础。\n如果你需要，我可以为你详细解释医学上的“稳态调节”是如何区分治疗与滥用的，或者不同给药途径如何决定了药物是否具有成瘾性。回复**“稳态调节”或“给药机制”**，我将马上告诉你这些药理学边界背后的科学逻辑。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4565,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037841240402874605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "先说结论：将多巴胺干预手段简单粗暴地等同于“成瘾”是极具误导性的。\n更准确一点说，合法医疗干预与物质滥用之间的本质区别，在于剂量、药代动力学（起效速度与代谢方式）以及临床治疗目标的严密控制。医学手段旨在通过修正神经递质的失衡，让功能受损者的多巴胺水平回归正常区间。 https://t.co/vsgJfG5qvk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦sub❦intp❦od💊不割手❦永不满足的爱，和以此倍增的恨.❦可爱小猫 @herself32 ❦发情期再放送.....❦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "herself32"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "宁波某歪脖树第7根东南枝",
+        "name": "˚₊‧꒰ა超绝可爱☆派对姬໒꒱‧₊˚",
+        "pinned_tweet_id": "2033839915897884744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037432060563042304/vuTeUo-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 1020,
+          "like_count": 9644,
+          "listed_count": 6,
+          "media_count": 788,
+          "tweet_count": 3587
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2037745732862816262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036780825325576192/hV1zXUhb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118262,
+          "following_count": 1125,
+          "like_count": 52250,
+          "listed_count": 276,
+          "media_count": 20144,
+          "tweet_count": 30368
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

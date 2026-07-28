@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1912430822285799566",
+    "created_at": "2025-04-17T03:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T04:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912705787853697219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804566141932916736",
+          "start": 0,
+          "username": "FujiwaraNyanya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912705787853697219",
+    "in_reply_to_user_id": "1804566141932916736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912704160316764530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FujiwaraNyanya 专业"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1912430822285799566",
+        "created_at": "2025-04-17T03:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T04:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912705787853697219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804566141932916736",
+              "start": 0,
+              "username": "FujiwaraNyanya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912705787853697219",
+        "in_reply_to_user_id": "1804566141932916736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912704160316764530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FujiwaraNyanya 专业"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804566141932916736",
+        "conversation_id": "1912430822285799566",
+        "created_at": "2025-04-17T03:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T04:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912704160316764530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1528928909734973440",
+              "start": 0,
+              "username": "HiyouNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912704160316764530",
+        "in_reply_to_user_id": "1528928909734973440",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912430822285799566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiyouNeko C18H24O2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 果然是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登（当心给你下降头） ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 123,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "不眠希汐♠️",
+        "pinned_tweet_id": "1894678243124690979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894949951496679424/xyq_kbSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 992,
+          "like_count": 8719,
+          "listed_count": 6,
+          "media_count": 656,
+          "tweet_count": 2832
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T17:24:48.000Z",
+        "description": "种花家之希望皆在于我，我乃古今支那之第一喵。\n奉天朝上国之命留西洋，为大中华之崛起而勉强。\n我将继承汪主席之遗志，使大东亚再次走向辉煌！\n八紘一宇\n天下大同",
+        "id": "1804566141932916736",
+        "location": "兴亚会议事堂",
+        "name": "藤原喵喵（汪精卫兆铭夺舍版）",
+        "pinned_tweet_id": "1905965817629450378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844768183590461440/Ubqjb-mQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 7501,
+          "like_count": 17394,
+          "listed_count": 1,
+          "media_count": 994,
+          "tweet_count": 9319
+        },
+        "username": "FujiwaraNyanya",
+        "verified": false
+      }
+    ]
+  }
+}

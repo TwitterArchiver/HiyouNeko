@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1922845049403895817",
+    "created_at": "2025-05-15T02:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T03:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922845049403895817"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1922845049403895817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一些会让男生觉得「无法对应」的各种小技巧！\n1.绑头发时露出后颈\n2.勾头发时露出耳朵\n3.突然用脚戳男生的小腿\n4.发动冥王结界波无效对手台面怪兽\n5.发动禁忌的一滴无效对手台面怪兽\n6.连结召唤连码语者并发动效果进行非指定破坏\n7.解放对手一体怪兽来召唤「坏兽」到对手场上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1922845049403895817",
+        "created_at": "2025-05-15T02:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T03:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922845049403895817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922845049403895817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一些会让男生觉得「无法对应」的各种小技巧！\n1.绑头发时露出后颈\n2.勾头发时露出耳朵\n3.突然用脚戳男生的小腿\n4.发动冥王结界波无效对手台面怪兽\n5.发动禁忌的一滴无效对手台面怪兽\n6.连结召唤连码语者并发动效果进行非指定破坏\n7.解放对手一体怪兽来召唤「坏兽」到对手场上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 果然是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登（当心给你下降头） ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 123,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "pinned_tweet_id": "1922832818012340691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 980,
+          "like_count": 8945,
+          "listed_count": 6,
+          "media_count": 681,
+          "tweet_count": 2980
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1867818743243620516",
+    "created_at": "2024-12-14T06:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T07:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867818743243620516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1847778949272584192",
+          "start": 3,
+          "username": "jingsheng237248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867818743243620516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867805192974127412",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingsheng237248: 星巴克拿电脑的人，到底有没有工作？\n你说没有工作吧，他们一坐就是一天，抱着电脑啪啪操作，是什么公司，不提供办公地方，让员工去星巴克办公？\n你说有工作吧，但是哪份工作，你喝着咖啡，时间自由，老板就给你发钱了？\n而且他们总是一脸严肃，感觉自…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1867818743243620516",
+        "created_at": "2024-12-14T06:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T07:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867818743243620516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1847778949272584192",
+              "start": 3,
+              "username": "jingsheng237248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867818743243620516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867805192974127412",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingsheng237248: 星巴克拿电脑的人，到底有没有工作？\n你说没有工作吧，他们一坐就是一天，抱着电脑啪啪操作，是什么公司，不提供办公地方，让员工去星巴克办公？\n你说有工作吧，但是哪份工作，你喝着咖啡，时间自由，老板就给你发钱了？\n而且他们总是一脸严肃，感觉自…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867805187554914304"
+          ]
+        },
+        "author_id": "1847778949272584192",
+        "conversation_id": "1867805192974127412",
+        "created_at": "2024-12-14T05:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T06:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867805192974127412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ab4Byjxw6e",
+              "end": 166,
+              "expanded_url": "https://x.com/jingsheng237248/status/1867805192974127412/photo/1",
+              "media_key": "3_1867805187554914304",
+              "start": 143,
+              "url": "https://t.co/Ab4Byjxw6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867805192974127412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 686,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "星巴克拿电脑的人，到底有没有工作？\n你说没有工作吧，他们一坐就是一天，抱着电脑啪啪操作，是什么公司，不提供办公地方，让员工去星巴克办公？\n你说有工作吧，但是哪份工作，你喝着咖啡，时间自由，老板就给你发钱了？\n而且他们总是一脸严肃，感觉自己目前做的事情，很重要\n他们真的是一个神秘的组织 https://t.co/Ab4Byjxw6e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ 99Mtf一只🍥 ❦ HRT22/08/29 ❦ 坐标宁波 ❦ 笨蛋一个 ❦ 是神奇的水系魔法师 ❦ 舞萌 ❦ 游戏王 ❦ 桌游 ❦ 对这兔子洞再多爱一点吧 ❦ 真的真的很爱酥萌老师 ❦ 你们补药欺负我脑婆/主人 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 109,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "梦幻楼与不眠希汐#θωθ",
+        "pinned_tweet_id": "1863879352221618461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 978,
+          "like_count": 7552,
+          "listed_count": 5,
+          "media_count": 567,
+          "tweet_count": 2257
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T23:17:00.000Z",
+        "description": "正在用有限的时间，探索无限的可能 tg频道https://t.co/TxjuPeke65 ｜人在United States 的ECE Ph.D. ｜🇺🇸华裔，中文学习中｜同类互fo，💯回fo，IFB｜图片推文如有侵权，联系删除",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/naofujiang",
+                "end": 44,
+                "expanded_url": "https://t.me/naofujiang",
+                "start": 21,
+                "url": "https://t.co/TxjuPeke65"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+-r03gqqFd_9jN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+-r03gqqFd_9jNmIx",
+                "start": 0,
+                "url": "https://t.co/hO6v9As72R"
+              }
+            ]
+          }
+        },
+        "id": "1847778949272584192",
+        "location": "0.99km",
+        "name": "脑斧酱🐯🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1864832655088349401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862319622759862272/QyfBIzJR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3573,
+          "following_count": 3748,
+          "like_count": 1656,
+          "listed_count": 5,
+          "media_count": 119,
+          "tweet_count": 1641
+        },
+        "url": "https://t.co/hO6v9As72R",
+        "username": "jingsheng237248",
+        "verified": true
+      }
+    ]
+  }
+}

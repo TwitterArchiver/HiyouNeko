@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1919295645912846466",
+    "created_at": "2025-05-05T07:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T08:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919295645912846466"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/er_mei74034/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/er_mei74034/status/1918917020923429118",
+          "start": 9,
+          "url": "https://t.co/8OXlHxWq7D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919295645912846466",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918917020923429118",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主播可爱捏www https://t.co/8OXlHxWq7D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1918917002435166208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqFc2MubAAAs38n.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1918917002456150016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqFc2MzbMAAPHnq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1918917003420864512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqFc2QZbkAAh0ww.jpg",
+        "width": 922
+      },
+      {
+        "height": 1210,
+        "media_key": "3_1918917002279989248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqFc2MJbMAAsC01.jpg",
+        "width": 1210
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1919295645912846466",
+        "created_at": "2025-05-05T07:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T08:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919295645912846466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/er_mei74034/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/er_mei74034/status/1918917020923429118",
+              "start": 9,
+              "url": "https://t.co/8OXlHxWq7D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919295645912846466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918917020923429118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主播可爱捏www https://t.co/8OXlHxWq7D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918917002435166208",
+            "3_1918917002456150016",
+            "3_1918917003420864512",
+            "3_1918917002279989248"
+          ]
+        },
+        "author_id": "1684456606623571968",
+        "conversation_id": "1918917020923429118",
+        "created_at": "2025-05-04T06:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T07:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918917020923429118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iHWVZ17R3l",
+              "end": 170,
+              "expanded_url": "https://x.com/er_mei74034/status/1918917020923429118/photo/1",
+              "media_key": "3_1918917002435166208",
+              "start": 147,
+              "url": "https://t.co/iHWVZ17R3l"
+            },
+            {
+              "display_url": "pic.x.com/iHWVZ17R3l",
+              "end": 170,
+              "expanded_url": "https://x.com/er_mei74034/status/1918917020923429118/photo/1",
+              "media_key": "3_1918917002456150016",
+              "start": 147,
+              "url": "https://t.co/iHWVZ17R3l"
+            },
+            {
+              "display_url": "pic.x.com/iHWVZ17R3l",
+              "end": 170,
+              "expanded_url": "https://x.com/er_mei74034/status/1918917020923429118/photo/1",
+              "media_key": "3_1918917003420864512",
+              "start": 147,
+              "url": "https://t.co/iHWVZ17R3l"
+            },
+            {
+              "display_url": "pic.x.com/iHWVZ17R3l",
+              "end": 170,
+              "expanded_url": "https://x.com/er_mei74034/status/1918917020923429118/photo/1",
+              "media_key": "3_1918917002279989248",
+              "start": 147,
+              "url": "https://t.co/iHWVZ17R3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918917020923429118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7699,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "【自介】\n你好喵，这里是梅尔菲\n现在住在郑州上带学不过马上就实习惹\n是八云紫激推苶\n最近在玩鸣潮，怪猎，公主连结，YGO\n有时候会偶尔出c去漫展丸哦\n相貌也是平平无奇的说（看我不顺眼不要把我投厕qwq）下面是咱随手拍的照片哦\n（顺带挂一下打赏）\n欢迎大家来和我扩列喵\n绮罗星（&lt;ゝω·） https://t.co/iHWVZ17R3l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "❦ RIP.2028/07/09 ❦ 99年软测鱼王 ❦ 果然是有跨顺难 ❦ 汉尼拔宁波分拔 ❦ 我要把xyn加工成🍥吃 ❦ 水系魔法老登（当心给你下降头） ❦ 这个世上没有比假花更美的花❦ 一起打瓦我们就是好朋友 ❦ 真的真的很喜欢酥萌老师～ @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 123,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "『猫见爱』盐酸希汐片🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914554321544601601/Ftkh2L9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2096,
+          "following_count": 969,
+          "like_count": 8898,
+          "listed_count": 6,
+          "media_count": 674,
+          "tweet_count": 2946
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T06:52:15.000Z",
+        "description": "攻击我的手机自动下载原神",
+        "id": "1684456606623571968",
+        "name": "梅尔菲",
+        "pinned_tweet_id": "1918917020923429118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841805022339989505/YoA0S0Nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2291,
+          "following_count": 1174,
+          "like_count": 20701,
+          "listed_count": 10,
+          "media_count": 2628,
+          "tweet_count": 15942
+        },
+        "username": "er_mei74034",
+        "verified": false
+      }
+    ]
+  }
+}

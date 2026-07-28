@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1528928909734973440",
+    "conversation_id": "1853720655704850545",
+    "created_at": "2024-11-06T06:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T07:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854048298287747542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1546509764536008705",
+          "start": 0,
+          "username": "nuonuoxct0819"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854048298287747542",
+    "in_reply_to_user_id": "1546509764536008705",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853720655704850545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nuonuoxct0819 豪华但是鸡翅沾的什么酱？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528928909734973440",
+        "conversation_id": "1853720655704850545",
+        "created_at": "2024-11-06T06:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T07:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854048298287747542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1546509764536008705",
+              "start": 0,
+              "username": "nuonuoxct0819"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854048298287747542",
+        "in_reply_to_user_id": "1546509764536008705",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853720655704850545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nuonuoxct0819 豪华但是鸡翅沾的什么酱？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853720642870558720"
+          ]
+        },
+        "author_id": "1546509764536008705",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1853720655704850545",
+        "created_at": "2024-11-05T08:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T09:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853720655704850545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PpVrRhwWiu",
+              "end": 53,
+              "expanded_url": "https://x.com/nuonuoxct0819/status/1853720655704850545/photo/1",
+              "media_key": "3_1853720642870558720",
+              "start": 30,
+              "url": "https://t.co/PpVrRhwWiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853720655704850545",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诺诺今天吃什么？牛肉面套餐！到重庆啦，重庆一个群群主请客（ https://t.co/PpVrRhwWiu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-24T02:40:46.000Z",
+        "description": "是水系魔法师，非常高冷而且🚪88，你们不许乱碰我的脑婆 @show5560",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "show5560"
+              }
+            ]
+          }
+        },
+        "id": "1528928909734973440",
+        "location": "蓝靛厂火器营",
+        "name": "Aria&希汐公主殿下～⛧🏳‍⚧",
+        "pinned_tweet_id": "1851532132579221544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846467211785129986/NZv0CrqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 894,
+          "like_count": 6430,
+          "listed_count": 5,
+          "tweet_count": 1851
+        },
+        "username": "HiyouNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T15:00:45.000Z",
+        "description": "这里诺诺呐/持证含糖MTF🏳️‍⚧️/HRT 22 08 10/ 常驻成都，目前坐标北京，接线下🚪50/ 心性年龄小/ 半文案推/ 同类关注会回关/ 重度性瘾/酷爱涩涩/ INFP-T/双相/先心病/紫外线过敏/ 过敏ing/湿疹/接O/prostitution/",
+        "id": "1546509764536008705",
+        "location": "破灭的心伤，虚无的自己。伤害过你的人，会回拢自己再去祸害别人",
+        "name": "诺诺想吃糖🏳️‍⚧️🍥（援助交际版",
+        "pinned_tweet_id": "1850413335071822115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668729646769381376/PsEzzc3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 595,
+          "like_count": 8017,
+          "listed_count": 8,
+          "tweet_count": 4076
+        },
+        "username": "nuonuoxct0819",
+        "verified": false
+      }
+    ]
+  }
+}
